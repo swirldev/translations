@@ -1,46 +1,46 @@
 # actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it."
+ "Acabo de reiniciar el guión a su estado original. Si no se refresca en seguida, puede que tenga que hacer click en ello."
 
 "Sourcing your script...":
- "Sourcing your script..."
+ "Conseguiendo su guión..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
+ "Se está enterando el modo de juego. Experimente a su gusto, entonces presione nxt() cuando esté listo de continuar con la lección."
 
 "Returning to the main menu...":
- "Returning to the main menu..."
+ "Volviendo al menú principal..."
 
 "This feature is not implemented yet for Swirl.":
- "This feature is not implemented yet for Swirl."
+ "Esta carácteristica todavía no se ha implementado en Swirl."
 
 # answerTests.R, answerTests2.R
 
 "That's not the expression I expected but it works.":
- "That's not the expression I expected but it works."
+ "Eso no es la expresión que quería yo, pero funciona."
 
 "The given range":
- "The given range"
+ "El rango dado"
 
 "is not numeric.":
- "is not numeric."
+ "no es numérico."
 
 "I've executed the correct expression in case the result is needed in an upcoming question.":
- "I've executed the correct expression in case the result is needed in an upcoming question."
+ "He realizado la expresión correcta en caso de que el resultado se necesita para otra pregunta por venir."
 
 "does not exist.":
- "does not exist."
+ "no existe."
 
 # args_specification.R
 
 ## Do not translate 'test_course', 'test_lesson', or 'test'.
 "Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
- "Must specify 'test_course' and 'test_lesson' to run in 'test' mode!"
+ "Tiene que especificar 'test_course' y 'test_lesson' para que corra en modo 'test'!"
 
 ## Do not translate 'to' or 'from'.
 "Argument 'to' must be strictly greater than argument 'from'!":
- "Argument 'to' must be strictly greater than argument 'from'!"
+ "El argumento 'to' tiene que ser mayor (no igual) que el argumento 'from'!"
 
 # courseraCheck.R
 
@@ -167,139 +167,139 @@
 # install_courses.R
 
 "Course installed successfully!":
- "Course installed successfully!"
+ "¡El curso se instaló con éxito!"
 
 "Course installation failed.":
- "Course installation failed."
+ "El curso fallo en instalarse."
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
- "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!"
+ "¡Hay que ingresar el argumento 'course_name' entre comillas (es decir, como carácter)!"
 
 "Argument 'dev' must be either TRUE or FALSE!":
- "Argument 'dev' must be either TRUE or FALSE!"
+ "¡El argumento 'dev' solo toma el valor TRUE o FALSE!"
 
 "Please enter a valid name for a mirror. ('github' or 'bitbucket')":
- "Please enter a valid name for a mirror. ('github' or 'bitbucket')"
+ "Ingrese un nombre valido para un espejo de descarga. ('github' o 'bitbucket')"
 
 "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
  "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc"
 
 "Course '":
- "Course '"
+ "¡Curso '"
 
 "' not found in course repository! ":
- "' not found in course repository! "
+ "' no se ha ubicado en el repositorio del curso! "
 
 "Make sure you've got the name exactly right, then try again.":
- "Make sure you've got the name exactly right, then try again."
+ "Verifique que tiene el nombre exactamente correcto, y volver a tratar de nuevo."
 
 "Course uninstalled successfully!":
- "Course uninstalled successfully!"
+ "¡El curso se desinstaló con éxito!"
 
 "Course not found!":
- "Course not found!"
+ "!No se encuentra el curso!"
 
 "All courses uninstalled successfully!":
- "All courses uninstalled successfully!"
+ "¡Todos los cursos se desinstaló éxitosamente!"
 
 "No courses found!":
- "No courses found!"
+ "¡No se encuentra ningún curso!"
 
 "Argument 'multi' must be either TRUE or FALSE.":
- "Argument 'multi' must be either TRUE or FALSE."
+ "El argumento 'multi' se tiene que especificar como TRUE o FALSE."
 
 "Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
  "Argument 'which_course' should only be specified when argument 'multi' is TRUE."
 
 "Course ":
- "Course "
+ "El curso "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " not in specified directory. Be careful, course names are case sensitive!":
+ " no se ha encontrado en el directorio especificado. !Ten cuidado, los nombres de cursos son sensibles a mayúsculas y minúsculas!":
 
 "Course directory is too large to install":
- "Course directory is too large to install"
+ "El directorio de este curso es demasiado grande para instalar"
 
 # instructionSet.R
 
 "ANSWER: ":
- "ANSWER: "
+ "RESPUESTA: "
 
 "Yes or No? ":
- "Yes or No? "
+ "Si o No? "
 
 "yes":
- "yes"
+ "Si"
 
 "Type nxt() to continue":
- "Type nxt() to continue"
+ "Teclee nxt() para continuar"
 
 "BUG: There are no tests for this question!":
- "BUG: There are no tests for this question!"
+ "BUG: ¡No existen pruebas para esta pregunta!"
 
 "Or, type info() for more options.":
- "Or, type info() for more options."
+ "O, escriba info() para más opciones."
 
 # utilities.R
 
 "Package":
- "Package"
+ "¡Paquete"
 
 "loaded correctly!":
- "loaded correctly!"
+ "se ha cargado correctamente!"
 
 "This lesson requires the":
- "This lesson requires the"
+ "Esta lección requiere el paquete"
 
 "package. Would you like me to install it for you now?":
- "package. Would you like me to install it for you now?"
+ ". ¿Quiere usted que se lo instalo ahora mismo?"
 
 "Attemping to load lesson dependencies...":
- "Attemping to load lesson dependencies..."
+ "Tratando de cargar las dependencias de la lección..."
 
 "Trying to install package":
- "Trying to install package"
+ "Tratando de instalar el paquete"
 
 "now...":
- "now..."
+ "ya..."
 
 "Could not install package":
- "Could not install package"
+ "No se podía instalar el paquete"
 
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
- "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)"
+ "Para empezar, hay que instalar algún curso. Le puedo instalar un curso del internet para usted, o le puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que vea las opciones y instrucciones para instalar cursos para si mismo. (Si usted no está conectado al internet en este momento, teclee 0 para salir.)"
 
 "Don't install anything for me. I'll do it myself.":
- "Don't install anything for me. I'll do it myself."
+ "¡No me instales nada!, yo me lo voy a hacer."
 
 "Sorry, but I'm unable to fetch ":
- "Sorry, but I'm unable to fetch "
+ "Disculpe, pero no puedo recoger "
 
-"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
- "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit."
+ "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+ "ahora mismo. ¿Está usted seguro que la compu está conectado al internet? Si es así, ¿quiere volver a intentar o visitar al respositorio del curso para las instrucciones de como se instala un curso manualmente? Teclee 0 para salir."
 
 "Try again!":
- "Try again!"
+ "¡Inténtalo de nuevo!"
 
 "Send me to the course repository for manual installation.":
- "Send me to the course repository for manual installation."
+ "Mándame al respositorio de los cursos para instalación manual."
 
 "OK. I'm opening the swirl course respository in your browser.":
- "OK. I'm opening the swirl course respository in your browser."
+ "OK. Ya abro el repositorio de los cursos swirl en su navegador."
 
 "OK. I'm opening the swirl courses web page in your browser.":
- "OK. I'm opening the swirl courses web page in your browser."
+ "OK. Ya abro la página de los cursos swirl en su navegador."
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
- "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique."
+ "Bienvenido a swirl! Por favor inscríbese. Si ya se ha inscrito antes, ingrese el mismo nombre que usted hizo la última vez. Si es su primera vez aquí, eliga un nombre único pero corto (cada vez que arranque swirl, tendrá que ingresar este nombre)."
 
 "What shall I call you? ":
- "What shall I call you? "
+ "¿Cómo debería llamarle? "
 
 "Thanks, ":
- "Thanks, "
+ "Gracias, "
 
 ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
  ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
