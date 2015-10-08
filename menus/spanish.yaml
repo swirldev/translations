@@ -302,66 +302,66 @@
  "Gracias, "
 
 ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
- ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+ ". Permítame explicarle algunas puntos de organización antes de que empiece su primera lección. Primero, sepa que siempre y cuando vea '...', significa que debe pulsar Intro cuando haya terminado de leer y esté listo de continuar."
 
  "...  <-- That's your cue to press Enter to continue":
- "...  <-- That's your cue to press Enter to continue"
+ "...  <-- Esa se le da su entrada para pulsar Intro y continuar"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
- "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue."
+ "También, cuando vea 'RESPUESTA:', el indicador de R (>), o cuando le pide a usted que escoga una opción de un listado, significa que le toca a usted ingresar una respuesta, y entonces presione Intro para seguir."
 
 "Continue.":
- "Continue."
+ "Siga."
 
 "Proceed.":
- "Proceed."
+ "Siga no más."
 
 "Let's get going!":
- "Let's get going!"
+ "¡Vámonos!"
 
 "Select 1, 2, or 3 and press Enter":
- "Select 1, 2, or 3 and press Enter"
+ "Escoga 1, 2, o 3 y pulse Intro"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so."
+ "Usted puede salir de swirl en cualquier momento y volver al indicar de R (>) por presionar la tecla Esc. Si ya está en el indicador, escriba bye() para salir y guardar el progreso. Cuando se sale de esta manera, es decir correctamente, vayas a ver un mensaje corto avisándole que lo hayas hecho."
 
 "Let's get started!":
- "Let's get started!"
+ "¡Empezámonos ya!"
 
 "Would you like to continue with one of these lessons?":
- "Would you like to continue with one of these lessons?"
+ "¿Quisiera usted reanudar una de estas lecciones?"
 
 "No. Let me start something new.":
- "No. Let me start something new."
+ "No. Déjame empeza con algo nuevo."
 
 "Please choose a course, or type 0 to exit swirl.":
- "Please choose a course, or type 0 to exit swirl."
+ "Por favor escoga un curso, or teclee 0 para salir de swirl."
 
 "Take me to the swirl course repository!":
- "Take me to the swirl course repository!"
+ "¡Llévame al respositorio de los cursos swirl!"
 
 "Please choose a lesson, or type 0 to return to course menu.":
- "Please choose a lesson, or type 0 to return to course menu."
+ "Seleccione una lección por favor, o teclee 0 para volver al menú del curso."
 
 # options.R
 
 "Please provide arguments so that appropriate options can be set.":
- "Please provide arguments so that appropriate options can be set."
+ "Por favor proporcione los argumentos para que las opciones adecuadas puedan ser adjustadas."
 
 "Options set successfully!":
- "Options set successfully!"
+ "Las opciones se estableció éxitosamente!"
 
 "Option name '":
- "Option name '"
+ "La opción denominada '"
 
 "' not found.":
- "' not found."
+ "' no se encontró."
 
 "Option '":
- "Option '"
+ "¡Opción '"
 
 "' deleted successfully!":
- "' deleted successfully!"
+ "' se borró con éxito!"
 
 # Phrases.R
 
@@ -441,99 +441,99 @@
  "You're close...I can feel it! Try it again."
 
 "Correct!":
- "Correct!"
+ "¡Correcto!"
 
 "Incorrect. Please try again.":
- "Incorrect. Please try again."
+ "Incorrecto. Por favor, vuelve a intentar de nuevo."
 
 # post.R
 
 "Lesson complete! Exiting swirl now...":
- "Lesson complete! Exiting swirl now..."
+  "¡Lección completa! Saliendo de swirl ahora..."
 
 # progress.R
 
 "Please enter a valid username.":
- "Please enter a valid username."
+ "Por favor ingrese un usuario válido."
 
 "Deleted progress for user: ":
- "Deleted progress for user: "
+ "Se borró el progreso del usuario: "
 
 "Could not find account for user: ":
- "Could not find account for user: "
+ "No se ha podido encontrar la cuenta de un usuario: "
 
 # swirl.R
 
 "Leaving swirl now. Type swirl() to resume.":
- "Leaving swirl now. Type swirl() to resume."
+ "Saliendo de swirl ahora. Teclee swirl() para reanudarse."
 
 "When you are at the R prompt (>):":
- "When you are at the R prompt (>):"
+ "Cuando esté en el indicador de R (>):"
 
 "-- Typing skip() allows you to skip the current question.":
- "-- Typing skip() allows you to skip the current question."
+ "-- Al teclear skip() se salta la pregunta actual."
 
 "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
- "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do..."
+ "-- Al teclear play() swirl le deja experimentar con R en paz; swirl no hará caso de lo que usted haga..."
 
 "-- UNTIL you type nxt() which will regain swirl's attention.":
- "-- UNTIL you type nxt() which will regain swirl's attention."
+ "-- HASTA QUE ingrese nxt(), lo que le va a recuperar la atención de swirl."
 
 "-- Typing bye() causes swirl to exit. Your progress will be saved.":
- "-- Typing bye() causes swirl to exit. Your progress will be saved."
+ "-- Al teclear bye() swirl se acabe. Swirl guardara su progreso."
 
 "-- Typing main() returns you to swirl's main menu.":
- "-- Typing main() returns you to swirl's main menu."
+ "-- Al teclear main() le devuelva al menu principal de swirl."
 
 "-- Typing info() displays these options again.":
- "-- Typing info() displays these options again."
+ "-- Al teclear info() se va a demostrar estas opciones de nuevo."
 
 "Resuming lesson...":
- "Resuming lesson..."
+ "Reanudando la lección..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
+ "Se está enterando el modo de juego. Experimente a su gusto, entonces presione nxt() cuando esté listo de continuar con la lección."
 
 "Entering the following correct answer for you...":
- "Entering the following correct answer for you..."
+ "Ingresando el seguiente respuesta correcta por su parte..."
 
 "Returning to the main menu...":
- "Returning to the main menu..."
+ "Volviendo al menú principal..."
 
 "Lesson complete! Exiting swirl now...":
- "Lesson complete! Exiting swirl now..."
+ "¡Lección completa! Saliendo de swirl ahora..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
- "You've reached the end of this lesson! Returning to the main menu..."
+ "¡Usted ha alcanzado el fin de esta lección! Volviendo al menú principal..."
 
 "I just sourced the following script, which demonstrates one possible solution.":
- "I just sourced the following script, which demonstrates one possible solution."
+ "Acabo de sacar el siguiente guión, lo que demuestra una posible solución."
 
 "Press Enter when you are ready to continue...":
- "Press Enter when you are ready to continue..."
+ "Presione Intro cuando usted esté listo para continuar..."
 
 "Hi! I see that you have some variables saved in your":
- "Hi! I see that you have some variables saved in your"
+ "¡Hola! Veo que usted tiene algunos objetos guardados en su "
 
 # zzz.R
 
 "Hi! I see that you have some variables saved in your":
- "Hi! I see that you have some variables saved in your"
+ "¡Hola! Veo que usted tiene algunos objetos guardados en su "
 
 "workspace. To keep things running smoothly, I recommend you clean up":
- "workspace. To keep things running smoothly, I recommend you clean up"
+ "espacio de trabjo. Para que todo funcione bién, le recomiendo que limpie"
 
 "before starting swirl.":
- "before starting swirl."
+ "antes de iniciar swirl."
 
 "Type ls() to see a list of the variables in your workspace.":
- "Type ls() to see a list of the variables in your workspace."
+ "Teclee ls() para ver un listado de las variables en su espacio de trabajo."
 
 "Then, type rm(list=ls()) to clear your workspace.":
- "Then, type rm(list=ls()) to clear your workspace."
+ "Luego, teclee rm(list=ls()) para limpiar todos objetos de su espacio de trabajo."
 
 "Type swirl() when you are ready to begin.":
- "Type swirl() when you are ready to begin."
+ "Teclee swirl() cuando esté listo para empezar."
 
 "Hi! Type swirl() when you are ready to begin.":
- "Hi! Type swirl() when you are ready to begin."
+ "¡Hola! Teclee swirl() cuando esté listo para empezar."
