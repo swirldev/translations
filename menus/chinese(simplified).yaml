@@ -1,0 +1,542 @@
+# actions.R
+
+"I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
+ "我刚刚初始化了脚本。如果它没有立即刷新，您可能需要单击它。"
+
+"Sourcing your script...":
+ "执行您的脚本中..."
+
+"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+ "进入娱乐模式，按您自己的意愿测试, 然后当您准备好回到课程中时输入nxt()。"
+
+"Returning to the main menu...":
+ "正在返回主菜单..."
+
+"This feature is not implemented yet for Swirl.":
+ "这功能在Swirl中尚未实现"
+
+# answerTests.R, answerTests2.R
+
+"That's not the expression I expected but it works.":
+ "这不是我期望的表达式但是它能正常工作。"
+
+"The given range":
+ "给定的范围"
+
+"is not numeric.":
+ "不是数字形式。"
+
+"I've executed the correct expression in case the result is needed in an upcoming question.":
+ "我已经执行了正确的表达式因为一个即将来临的问题需要它的结果"
+
+"does not exist.":
+ "不存在。"
+
+# args_specification.R
+
+## Do not translate 'test_course', 'test_lesson', or 'test'.
+"Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
+ "在 'test' 模式下运行必须指定 'test_course' 和 'test_lesson' ！"
+
+## Do not translate 'to' or 'from'.
+"Argument 'to' must be strictly greater than argument 'from'!":
+ "参数 'to' 必须严格大于参数 'from'!"
+
+# courseraCheck.R
+
+"Are you currently enrolled in the Coursera course associated with this lesson?":
+ "您正在参与与这节课相关的Coursera课程吗?"
+
+"Would you like me to notify Coursera that you've completed this lesson?":
+ "您乐意我通知Coursera您已完成这节课了吗？"
+
+"If so, I'll need to get some more info from you.":
+ "如果这样的话，我将需要得到更多关于您的信息。"
+
+"Yes":
+ "是的"
+
+"No":
+ "不"
+
+"Maybe later":
+ "以后再说吧"
+
+"I'll try to tell Coursera you've completed this lesson now.":
+ "现在我将要尝试告诉Coursera您已经完成了这节课。"
+
+"You skipped too many questions! You'll need to complete":
+ "您跳过了太多的问题！您需要再次完成"
+
+"this lesson again if you'd like to receive credit. Please":
+ "这节课如果您需要接受认证的话。"
+
+"don't skip more than one question next time.":
+ "下一次请不要跳过超过一个问题"
+
+"I've notified Coursera that you have completed ":
+ "我已通知Courera您已经完成了。 "
+
+"I'm sorry, something went wrong with automatic submission.":
+ "我很抱歉，在自动提交的过程中出了点错误。"
+
+"I'm sorry, something went wrong with establishing connection.":
+ "我很抱歉，在建立连接的时候出了点错误。"
+
+"To notify Coursera that you have completed this lesson,":
+ "为了通知Coursera您已经完成了本课，"
+
+"please upload":
+ "请人工上传"
+
+"to Coursera manually. You may do so by visiting the Programming":
+ "到Coursera. 您或许需要通过访问"
+
+"Assignments page on your course website and selecting the Submit":
+ "在您课程网站上的编程任务页面并选择相应的swirl"
+
+"button next to the appropriate swirl lesson.":
+ "课程旁边的提交按钮。"
+
+"I've placed the file in the following directory:":
+ "我已经把文件放到了下面的目录中："
+
+"Would you like to retry automatic submission or just submit manually?":
+ "您愿意重试自动提交还是通过自己手动提交？"
+
+"Retry automatic submission":
+ "重试自动提交"
+
+"Submit manually":
+ "手动提交"
+
+"The first item I need is your Course ID. For example, if the":
+ "我需要的第一件东西是您的CourseID。举个例子，如果"
+
+"homepage for your Coursera course was":
+ "您的Coursera课程主页是："
+
+"then your course ID would be 'rprog-001' (without the quotes).":
+ "那么您的 course ID 将会是 'rprog-001' (去掉引号)."
+
+"It looks like you entered a web address, which is not what I'm":
+ "看上去您好像是输入了一个网址，这不是我"
+
+"looking for.":
+ "正需要的。"
+
+"It looks like you entered a numeric ID, which is not what I'm":
+ "看上去您好像是输入了一个全是数字的ID，这不是我"
+
+"It looks like you entered the Course ID that I used as an":
+ "看上去您好像是输入了我举的例子中的 course ID"
+
+"example, which is not what I'm looking for.":
+ "这不是我正需要的。"
+
+"Instead, I need your Course ID, which is the last":
+ "相反，我需要您的 Course ID，它是"
+
+"part of the web address for your Coursera course.":
+ "您的Coursera课程网址最后面的一部分。"
+
+"For example, if the homepage for your Coursera course was":
+ "举个例子，如果您的Coursera课程主页是"
+
+"'https://class.coursera.org/rprog-001',":
+ "'https://class.coursera.org/rprog-001',"
+
+"then your course ID would be 'rprog-001' (without the quotes).":
+ "那么您的 course ID 会是 'rprog-001' (去掉引号)."
+
+"Submission login (email): ":
+ "提交通行证 (email): "
+
+"Submission password: ":
+ "提交密码： "
+
+"Is the following information correct?":
+ "下面的信息正确吗？"
+
+"Course ID: ":
+ "Course ID: "
+
+"Yes, go ahead!":
+ "是的，继续！"
+
+"No, I need to change something.":
+ "不，我需要做一些修改"
+
+# install_courses.R
+
+"Course installed successfully!":
+ "课程安装成功！"
+
+"Course installation failed.":
+ "课程安装失败。"
+
+"Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
+ "参数 'course_name' 必须包含在引号中（即一个字符串）！"
+
+"Argument 'dev' must be either TRUE or FALSE!":
+ "参数 'dev' 一定是 TRUE 或 FALSE ！"
+
+"Please enter a valid name for a mirror. ('github' or 'bitbucket')":
+ "请输入一个有效的镜像名字 ('github' 或 'bitbucket')"
+
+"To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
+ "在 Bitbucket 获取开发中的 swirl 课程请访问 https://bitbucket.org/swirldevmirror/swirl_misc"
+
+"Course '":
+ "课程 '"
+
+"' not found in course repository! ":
+ "' 不在课程库中！ "
+
+"Make sure you've got the name exactly right, then try again.":
+ "再次确认您输入了正确的名字，然后重试。"
+
+"Course uninstalled successfully!":
+ "课程卸载成功！"
+
+"Course not found!":
+ "课程无法找到！"
+
+"All courses uninstalled successfully!":
+ "所有的课程都卸载成功！"
+
+"No courses found!":
+ "找不到课程！"
+
+"Argument 'multi' must be either TRUE or FALSE.":
+ "参数 'multi' 必须是 TRUE 或 FALSE."
+
+"Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
+ "参数 'which_course' 只在参数 'multi' 为 TRUE 的时候需要指定。"
+
+"Course ":
+ "课程 "
+
+" not in specified directory. Be careful, course names are case sensitive!":
+ " 不在指定的目录中。 请小心, 课程名字区分大小写!":
+
+"Course directory is too large to install":
+ "课程目录太大，无法安装"
+
+# instructionSet.R
+
+"ANSWER: ":
+ "ANSWER: "
+
+"Yes or No? ":
+ "正确或错误？ "
+
+"yes":
+ "正确"
+
+"Type nxt() to continue":
+ "输入 nxt() 继续"
+
+"BUG: There are no tests for this question!":
+ "BUG: 没有对这个问题进行测试"
+
+"Or, type info() for more options.":
+ "或者, 输入 info() 了解更多选项。"
+
+# utilities.R
+
+"Package":
+ "包"
+
+"loaded correctly!":
+ "导入成功!"
+
+"This lesson requires the":
+ "本课程需要"
+
+"package. Would you like me to install it for you now?":
+ "包。 您愿意让我现在为您安装吗？"
+
+"Attemping to load lesson dependencies...":
+ "尝试加载课程依赖项..."
+
+"Trying to install package":
+ "尝试安装包"
+
+"now...":
+ "现在..."
+
+"Could not install package":
+ "无法安装包"
+
+# menu.R
+
+"To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
+ "为了开始，您必须安装一门课程。我能从网络为您安装课程，或者我可以发给您一个网页 (https://github.com/swirldev/swirl_courses) 它能给您提供课程选项和自助安装课程的指南。 (如果您没有连接网络, 输入 0 退出。)"
+
+"Don't install anything for me. I'll do it myself.":
+ "不要为我安装任何东西。我将自己完成。"
+
+"Sorry, but I'm unable to fetch ":
+ "抱歉，我现在无法 "
+
+"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+ "获取。 您确定您已经接入因特网? 如果是这样, 您要再试一次还是访问课程库了解手动安装课程的说明? 输入 0 退出。"
+
+"Try again!":
+ "重试！"
+
+"Send me to the course repository for manual installation.":
+ "带我去课程库了解手动安装。"
+
+"OK. I'm opening the swirl course respository in your browser.":
+ "好的。我正在通过您的浏览器打开 swirl 课程库。"
+
+"OK. I'm opening the swirl courses web page in your browser.":
+ "好的。我正在通过您的浏览器打开 swirl 课程网站"
+
+"Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
+ "欢迎使用swirl！请登录。如果您以前到过这里，那就使用跟之前一样的名字。如果您是新来的，给自己取个独一无二的名字。"
+
+"What shall I call you? ":
+ "我该怎么称呼您？ "
+
+"Thanks, ":
+ "谢谢， "
+
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+ ". 再开始我们第一节课前，我们先了解一些基本的实用项目。 第一关, 您应该要知道当您看到 '...', 那意味着当您结束阅读并准备继续的时候应该按下回车键。"
+
+ "...  <-- That's your cue to press Enter to continue":
+ "...  <-- 就是暗示您要按 enter 键继续"
+
+"Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
+ "而且, 当您看到 'ANSWER:' 也就是R提示符 (>) 时， , 或者当要求您从列表中选择时，这意味着轮到您输入一个响应，并输入回车继续。"
+
+"Continue.":
+ "继续。"
+
+"Proceed.":
+ "接着做."
+
+"Let's get going!":
+ "让我们保持前进!"
+
+"Select 1, 2, or 3 and press Enter":
+ "选择1，2，或者3 并按下回车"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
+ "您可以通过按下Esc键在任何时候退出 swirl 并回到 R 提示符(>)。 如果您已经在提示符状态, 输入 bye() 能退出并保存您的进度。 当你正确地退出的时候, 你会看到一条让你知道你已经退出了的短消息。"
+
+"Let's get started!":
+ "让我们开始吧!"
+
+"Would you like to continue with one of these lessons?":
+ "你愿意从下面课程之一继续吗?"
+
+"No. Let me start something new.":
+ "不，让我开始一项新的课程"
+
+"Please choose a course, or type 0 to exit swirl.":
+ "请选择一门课程，或输入 0 退出 swirl"
+
+"Take me to the swirl course repository!":
+ "带我去 swirl 课程库！"
+
+"Please choose a lesson, or type 0 to return to course menu.":
+ "请选择一节课，或输入 0 回到课程目录"
+
+# options.R
+
+"Please provide arguments so that appropriate options can be set.":
+ "请提供参数，以便可以设置适当的选项。"
+
+"Options set successfully!":
+ "选项设置成功!"
+
+"Option name '":
+ "选项名 '"
+
+"' not found.":
+ "' 未找到。"
+
+"Option '":
+ "选项 '"
+
+"' deleted successfully!":
+ "' 删除成功!"
+
+# Phrases.R
+
+"You got it!" :
+ "你猜对了!"
+
+"Nice work!":
+ "做的不错!"
+
+"Keep up the great work!":
+ "做得好，保持住!"
+
+"You are doing so well!":
+ "你做的太棒了!"
+
+"You nailed it! Good job!":
+ "你搞定了! 做的不错!"
+
+"You're the best!":
+ "你是最棒的!"
+
+"You are amazing!":
+ "你令人吃惊!"
+
+"Great job!":
+ "做的太棒了!"
+
+"You are quite good my friend!":
+ "你相当好，我的朋友!"
+
+"You got it right!":
+ "你把它弄对了!"
+
+"That's correct!":
+ "这是正确的!"
+
+"You are really on a roll!":
+ "你真的很在状态!"
+
+"Excellent job!":
+ "卓越的工作!"
+
+"That's a job well done!":
+ "这真是个完美完成的工作!"
+
+"Almost! Try again.":
+ "几乎正确了!再试一次。"
+
+"You almost had it, but not quite. Try again.":
+ "你几乎就要通过了, 但还差一点。再试一次。"
+
+"Give it another try.":
+ "再尝试一次。"
+
+"Not quite! Try again.":
+ "不全对!再试一次"
+
+"Not exactly. Give it another go.":
+ "不完全。再试试看看？"
+
+"That's not exactly what I'm looking for. Try again.":
+ "这不全是我所期待的。再试一次。"
+
+"Nice try, but that's not exactly what I was hoping for. Try again.":
+ "不错的尝试，但那不全是我期待的。再试一遍。"
+
+"Keep trying!":
+ "保持尝试！"
+
+"That's not the answer I was looking for, but try again.":
+ "这不是我需要的答案，还是再试一遍吧。"
+
+"Not quite right, but keep trying.":
+ "不完全正确，继续尝试。"
+
+"You're close...I can feel it! Try it again.":
+ "你很接近了...我能感受到它! 再试一次。"
+
+"Correct!":
+ "正确!"
+
+"Incorrect. Please try again.":
+ "不正确。请再试一遍。"
+
+# post.R
+
+"Lesson complete! Exiting swirl now...":
+ "本节课完成了！正在退出swirl..."
+
+# progress.R
+
+"Please enter a valid username.":
+ "请输入一个有效的用户名"
+
+"Deleted progress for user: ":
+ "删除用户的进度： "
+
+"Could not find account for user: ":
+ "无法找到用户的账户: "
+
+# swirl.R
+
+"Leaving swirl now. Type swirl() to resume.":
+ "正在离开 swirl。输入 swirl() 继续。"
+
+"When you are at the R prompt (>):":
+ "当你在R提示符时 (>):"
+
+"-- Typing skip() allows you to skip the current question.":
+ "-- 输入 skip() 允许你跳过当前的问题。"
+
+"-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
+ "-- 输入 play() 允许你按自己的意愿测试R; swirl 会忽略掉你做的一切..."
+
+"-- UNTIL you type nxt() which will regain swirl's attention.":
+ "-- 直到你输入 nxt() ，它会让你重新得到 swirl 的注意。"
+
+"-- Typing bye() causes swirl to exit. Your progress will be saved.":
+ "-- 输入 bye() 会导致 swirl 退出。你的进度将会被保存。"
+
+"-- Typing main() returns you to swirl's main menu.":
+ "-- 输入 main() 使你返回到 swirl 的主菜单。"
+
+"-- Typing info() displays these options again.":
+ "-- 输入 info() 会再次显示以上的信息。"
+
+"Resuming lesson...":
+ "继续课程..."
+
+"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+ "进入娱乐模式，按您自己的意愿测试。然后当您准备好回到课程中时输入nxt()。"
+
+"Entering the following correct answer for you...":
+ "输入下列回答中正确的一项..."
+
+"Returning to the main menu...":
+ "返回主菜单..."
+
+"Lesson complete! Exiting swirl now...":
+ "本节课完成了！正在退出swirl!"
+
+"You've reached the end of this lesson! Returning to the main menu...":
+ "你已经到达了本课程的结束！正在返回主菜单..."
+
+"I just sourced the following script, which demonstrates one possible solution.":
+ "我刚刚执行了下面的脚本,它会演示一个可能的解决方案。"
+
+"Press Enter when you are ready to continue...":
+ "当你准备继续时输入回车..."
+
+"Hi! I see that you have some variables saved in your":
+ "嗨! 我看到你有很多变量储存在你的"
+
+# zzz.R
+
+"Hi! I see that you have some variables saved in your":
+ "嗨! 我看到你有很多变量储存在你的"
+
+"workspace. To keep things running smoothly, I recommend you clean up":
+ "workspace。 为了能够顺利进行，我推荐你清空workspace"
+
+"before starting swirl.":
+ "在开始swirl前。"
+
+"Type ls() to see a list of the variables in your workspace.":
+ "输入 ls() 可以查看你的workspace储存的变量列表"
+
+"Then, type rm(list=ls()) to clear your workspace.":
+ "然后, 输入 rm(list=ls()) 以便清空你的workspace"
+
+"Type swirl() when you are ready to begin.":
+ "当你准备好开始的时候输入 swirl()。"
+
+"Hi! Type swirl() when you are ready to begin.":
+ "嗨! 当你准备好开始的时候输入 swirl()。"
