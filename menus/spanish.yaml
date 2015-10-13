@@ -170,7 +170,7 @@
  "¡El curso se instaló con éxito!"
 
 "Course installation failed.":
- "El curso fallo en instalarse."
+ "El curso fallo al instalarse."
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
  "¡Hay que ingresar el argumento 'course_name' entre comillas (es decir, como carácter)!"
@@ -200,7 +200,7 @@
  "!No se encuentra el curso!"
 
 "All courses uninstalled successfully!":
- "¡Todos los cursos se desinstaló éxitosamente!"
+ "¡Todos los cursos se desinstalaron éxitosamente!"
 
 "No courses found!":
  "¡No se encuentra ningún curso!"
@@ -252,7 +252,7 @@
  "Esta lección requiere el paquete"
 
 "package. Would you like me to install it for you now?":
- ". ¿Quiere usted que se lo instalo ahora mismo?"
+ ". ¿Quiere usted que instalarlo ahora?"
 
 "Attemping to load lesson dependencies...":
  "Tratando de cargar las dependencias de la lección..."
@@ -264,15 +264,15 @@
  "ya..."
 
 "Could not install package":
- "No se podía instalar el paquete"
+ "No se pudo instalar el paquete"
 
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
- "Para empezar, hay que instalar algún curso. Le puedo instalar un curso del internet para usted, o le puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que vea las opciones y instrucciones para instalar cursos para si mismo. (Si usted no está conectado al internet en este momento, teclee 0 para salir.)"
+ "Para empezar, hay que instalar algún curso. Le puedo instalar un curso del internet para usted, o le puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que vea las opciones e instrucciones para instalar cursos para si mismo. (Si usted no está conectado al internet en este momento, teclee 0 para salir.)"
 
 "Don't install anything for me. I'll do it myself.":
- "¡No me instales nada!, yo me lo voy a hacer."
+ "¡No me instale nada!, yo lo voy hacer."
 
 "Sorry, but I'm unable to fetch ":
  "Disculpe, pero no puedo recoger "
@@ -293,7 +293,7 @@
  "OK. Ya abro la página de los cursos swirl en su navegador."
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
- "Bienvenido a swirl! Por favor inscríbese. Si ya se ha inscrito antes, ingrese el mismo nombre que usted hizo la última vez. Si es su primera vez aquí, eliga un nombre único pero corto (cada vez que arranque swirl, tendrá que ingresar este nombre)."
+ "Bienvenido a swirl! Por favor inscríbase. Si ya se ha inscrito antes, ingrese el mismo nombre que usó la última vez. Si es su primera vez aquí, eliga un nombre único pero corto (cada vez que arranque swirl, tendrá que ingresar este nombre)."
 
 "What shall I call you? ":
  "¿Cómo debería llamarle? "
@@ -305,7 +305,7 @@
  ". Permítame explicarle algunas puntos de organización antes de que empiece su primera lección. Primero, sepa que siempre y cuando vea '...', significa que debe pulsar Intro cuando haya terminado de leer y esté listo de continuar."
 
  "...  <-- That's your cue to press Enter to continue":
- "...  <-- Esa se le da su entrada para pulsar Intro y continuar"
+ "...  <-- Esto da su entrada para pulsar Intro y continuar"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
  "También, cuando vea 'RESPUESTA:', el indicador de R (>), o cuando le pide a usted que escoga una opción de un listado, significa que le toca a usted ingresar una respuesta, y entonces presione Intro para seguir."
@@ -323,7 +323,7 @@
  "Escoga 1, 2, o 3 y pulse Intro"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "Usted puede salir de swirl en cualquier momento y volver al indicar de R (>) por presionar la tecla Esc. Si ya está en el indicador, escriba bye() para salir y guardar el progreso. Cuando se sale de esta manera, es decir correctamente, vayas a ver un mensaje corto avisándole que lo hayas hecho."
+ "Usted puede salir de swirl en cualquier momento y volver al indicad de R (>) presionando la tecla Esc. Si ya está en el indicador, escriba bye() para salir y guardar el progreso. Cuando se sale de esta manera, es decir correctamente, observará un mensaje corto avisándole que ha finalizado."
 
 "Let's get started!":
  "¡Empezámonos ya!"
@@ -332,10 +332,10 @@
  "¿Quisiera usted reanudar una de estas lecciones?"
 
 "No. Let me start something new.":
- "No. Déjame empeza con algo nuevo."
+ "No. Déjame iniciar con algo nuevo."
 
 "Please choose a course, or type 0 to exit swirl.":
- "Por favor escoga un curso, or teclee 0 para salir de swirl."
+ "Por favor escoga un curso, o teclee 0 para salir de swirl."
 
 "Take me to the swirl course repository!":
  "¡Llévame al respositorio de los cursos swirl!"
@@ -349,7 +349,7 @@
  "Por favor proporcione los argumentos para que las opciones adecuadas puedan ser adjustadas."
 
 "Options set successfully!":
- "Las opciones se estableció éxitosamente!"
+ "Las opciones se establecieron éxitosamente!"
 
 "Option name '":
  "La opción denominada '"
