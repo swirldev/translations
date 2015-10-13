@@ -215,7 +215,7 @@
  "El curso "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " no se ha encontrado en el directorio especificado. !Ten cuidado, los nombres de cursos son sensibles a mayúsculas y minúsculas!":
+ "no se ha encontrado en el directorio especificado. !Ten cuidado, los nombres de cursos son sensibles a mayúsculas y minúsculas!"
 
 "Course directory is too large to install":
  "El directorio de este curso es demasiado grande para instalar"
