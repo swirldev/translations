@@ -1,10 +1,10 @@
 # actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "Acabo de reiniciar el guión a su estado original. Si no se refresca en seguida, puede que tenga que hacer click en ello."
+ "Acabo de reiniciar el script a su estado original. Si no se actualiza en seguida, puede que tenga que hacer click en él."
 
 "Sourcing your script...":
- "Conseguiendo su guión..."
+ "Leyendo su script..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
  "Se está enterando el modo de juego. Experimente a su gusto, entonces presione nxt() cuando esté listo de continuar con la lección."
@@ -45,58 +45,58 @@
 # courseraCheck.R
 
 "Are you currently enrolled in the Coursera course associated with this lesson?":
- "Are you currently enrolled in the Coursera course associated with this lesson?"
+ "¿Está actualmente inscrito en el curso de Coursera asociado a esta lección?"
 
 "Would you like me to notify Coursera that you've completed this lesson?":
- "Would you like me to notify Coursera that you've completed this lesson?"
+ "¿Le gustaría que le notificará a Coursera que ha completado esta lección?"
 
 "If so, I'll need to get some more info from you.":
- "If so, I'll need to get some more info from you."
+ "Si es así, voy a tener que saber más información de usted."
 
 "Yes":
- "Yes"
+ "Si"
 
 "No":
  "No"
 
 "Maybe later":
- "Maybe later"
+ "Tal vez después"
 
 "I'll try to tell Coursera you've completed this lesson now.":
- "I'll try to tell Coursera you've completed this lesson now."
+ "Ahora voy a tratar de decirle Coursera que usted ha completado esta lección."
 
 "You skipped too many questions! You'll need to complete":
- "You skipped too many questions! You'll need to complete"
+ "Se ha saltado demasiadas preguntas! Tendrá que completar"
 
 "this lesson again if you'd like to receive credit. Please":
- "this lesson again if you'd like to receive credit. Please"
+ "esta lección de nuevo si desea recibir  crédito. Por favor"
 
 "don't skip more than one question next time.":
- "don't skip more than one question next time."
+ "no se salte más de una pregunta la próxima vez."
 
 "I've notified Coursera that you have completed ":
- "I've notified Coursera that you have completed "
+ "He notificado Coursera que ha completado "
 
 "I'm sorry, something went wrong with automatic submission.":
- "I'm sorry, something went wrong with automatic submission."
+ "Lo siento, algo salió mal con envío automático."
 
 "I'm sorry, something went wrong with establishing connection.":
- "I'm sorry, something went wrong with establishing connection."
+ "Lo siento, algo salió mal estableciendo la conexión."
 
 "To notify Coursera that you have completed this lesson,":
- "To notify Coursera that you have completed this lesson,"
+ "Para notificar Coursera que ha completado esta lección,"
 
 "please upload":
- "please upload"
+ "por favor, subir"
 
 "to Coursera manually. You may do so by visiting the Programming":
- "to Coursera manually. You may do so by visiting the Programming"
+ "a Coursera manualmente. Puede hacerlo visitando la págína"
 
 "Assignments page on your course website and selecting the Submit":
- "Assignments page on your course website and selecting the Submit"
+ "Tareas de Programación en el sitio web del curso y seleccionar el botón"
 
 "button next to the appropriate swirl lesson.":
- "button next to the appropriate swirl lesson."
+ "	"
 
 "I've placed the file in the following directory:":
  "I've placed the file in the following directory:"
