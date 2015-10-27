@@ -96,7 +96,7 @@
  "Tareas de Programación en el sitio web del curso y presionar el botón"
 
 "button next to the appropriate swirl lesson.":
- “de Enviar de la lección de swirl correspondiente"
+ "de Enviar de la lección de swirl correspondiente"
 
 "I've placed the file in the following directory:":
  "He guardado el archivo en el directorio siguiente:"
@@ -156,7 +156,7 @@
  "Contraseña de envío: "
 
 "Is the following information correct?":
- “¿Es correcta la siguiente información?"
+ "¿Es correcta la siguiente información?"
 
 "Course ID: ":
  "ID de curso: "
@@ -278,7 +278,7 @@
  "¡No instalar nada por mí!, lo haré yo mismo."
 
 "Sorry, but I'm unable to fetch ":
- "Disculpe, no puedo obtener el archivo"
+ "Disculpe, no puedo obtener el archivo "
 
  "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
  "en este momento. ¿Está usted seguro que la computadora está conectada a internet? Si es así, ¿quiere volver a intentarlo? o ¿desea visitar el depósito del curso para ver las instrucciones de cómo se instala un curso manualmente? Teclee 0 para salir."
@@ -352,7 +352,7 @@
  "Por favor proporcione los argumentos para que las opciones adecuadas puedan ser establecidas."
 
 "Options set successfully!":
- "Las opciones se establecieron exitosamente!"
+ "¡Las opciones se establecieron exitosamente!"
 
 "Option name '":
  "La opción denominada '"
@@ -384,14 +384,14 @@
  "¡Lo ha logrado! ¡Buen trabajo!"
 
 "You're the best!":
- "¡Eres el mejor!"
+ "¡Es el mejor!"
 
 "You are amazing!":
- "¡Eres asombroso!"
+ "¡Es asombroso!"
 
 "Great job!":
  #"¡Buenazo!"  % esto no traduce el sentimiento original, pero busco más variedad y diversión para los chicos
-“¡Buen trabajo!”
+"¡Buen trabajo!"
 
 "You are quite good my friend!":
  "¡Dude, eres bastante bueno!"
@@ -437,7 +437,7 @@
 
 "That's not the answer I was looking for, but try again.":
  "No es la respuesta que yo buscaba, pero intente nuevamente."
- 
+
 "Not quite right, but keep trying.":
  "Por poco era correcto, siga intentándolo."
 
@@ -522,7 +522,7 @@
 # zzz.R
 
 "Hi! I see that you have some variables saved in your":
- "¡Hola! Veo que usted tiene algunas variables guardadas en su "
+ "¡Hola! Veo que usted tiene algunas variables guardadas en su"
 
 "workspace. To keep things running smoothly, I recommend you clean up":
  "espacio de trabajo. Para que todo funcione bién, le recomiendo que limpie"
