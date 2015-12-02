@@ -37,6 +37,8 @@ Here is an example of a hypothetical Spanish translation:
 
 All menu files should be named `[language].yaml`.
 
+Read more: [Getting Started](https://github.com/swirldev/translations/wiki/Getting-Started)
+
 ## Contact
 
 If you have questions about contributing or you want to join the swirl
