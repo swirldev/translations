@@ -190,14 +190,14 @@
 "Course '":
  "Le cours '"
 
-"' n'a pas été trouvé dans le répositoire des cours ! ":
- "' not found in course repository! "
+"' not found in course repository! ":
+ "' n'a pas été trouvé dans le répertoire des cours ! "
 
-"Entre le nom correctement et essaie à nouveau.":
- "Make sure you've got the name exactly right, then try again."
+"Make sure you've got the name exactly right, then try again.":
+ "Entre le nom correctement et essaie à nouveau."
 
-"Désinstallation du cours réussie !":
- "Course uninstalled successfully!"
+"Course uninstalled successfully!":
+ "Désinstallation du cours réussie !"
 
 "Course not found!":
  "Cours introuvable !"
@@ -281,16 +281,16 @@
  "Désolé, mais je suis incapable de télécharger "
 
 "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
- "maintenant. Est-ce que tu es biens connecté(e) à Internet ? Si oui, voudrais-tu que j'essaie à nouveau ou préfères-tu consulter le répositoire de cours pour apprendre comment installer des cours manuellement ? Tape 0 pour quitter."
+ "maintenant. Est-ce que tu es biens connecté(e) à Internet ? Si oui, voudrais-tu que j'essaie à nouveau ou préfères-tu consulter le répertoire de cours pour apprendre comment installer des cours manuellement ? Tape 0 pour quitter."
 
 "Try again!":
  "Essaie une nouvelle fois !"
 
 "Send me to the course repository for manual installation.":
- "Montre-moi le répositoire de cours pour l'installation manuelle."
+ "Montre-moi le répertoire de cours pour l'installation manuelle."
 
 "OK. I'm opening the swirl course respository in your browser.":
- "D'accord, j'ouvre le répositoire des cours Swirl dans ton navigateur."
+ "D'accord, j'ouvre le répertoire des cours Swirl dans ton navigateur."
 
 "OK. I'm opening the swirl courses web page in your browser.":
  "D'accord, j'ouvre la page web des cours Swirl dans ton navigateur."
@@ -341,7 +341,7 @@
  "Choisis un cours ou tape 0 pour quitter Swirl."
 
 "Take me to the swirl course repository!":
- "Montre-moi le répositoire des cours Swirl !"
+ "Montre-moi le répertoire des cours Swirl !"
 
 "Please choose a lesson, or type 0 to return to course menu.":
  "Choisis une leçon ou tape 0 pour retourner au menu principal."
