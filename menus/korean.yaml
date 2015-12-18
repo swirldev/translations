@@ -115,19 +115,16 @@
  당신의 코스 아이디명은 'rprog-001'입니다. (''는 필요없습니다)"
 
 "homepage for your Coursera course was":
-""
+ ""
 
 "'https://class.coursera.org/rprog-001',":
-""
+ ""
 
 "then your course ID would be 'rprog-001' (without the quotes).":
-""
+ ""
 
 "It looks like you entered a web address, which is not what I'm":
  "웹주소를 입력하신것 같습니다. 원하는 값이 아닙니다."
-
-"looking for.":
- ""
 
 "It looks like you entered a numeric ID, which is not what I'm":
  "숫자 아이디명을 입력하신것 같습니다. 원하는 값이 아닙니다."
@@ -147,11 +144,8 @@
 "For example, if the homepage for your Coursera course was":
  "예를 들어, Coursera 과목의 홈페이지 주소가 'https://class.coursera.org/rprog-001'라면 당신의 코스 아이디명은 'rprog-001'입니다. (''는 필요없습니다)"
 
-"'https://class.coursera.org/rprog-001',":
-""
-
-"then your course ID would be 'rprog-001' (without the quotes).":
-""
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# ""
 
 "Submission login (email): ":
  "제출 로그인 (이메일): "
@@ -211,7 +205,7 @@
 
 "No courses found!":
  "과목이 존재하지 않습니다!"
-`
+
 "Argument 'multi' must be either TRUE or FALSE.":
  "인자값 'multi'는 반드시 참 또는 거짓으로 설정되어야 합니다."
 
@@ -308,10 +302,10 @@
 "Thanks, ":
  "감사합니다, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
  ". 첫번째 강의를 진행하기에 앞서 몇가지 사항들을 짚고 넘어가겠습니다. 먼저 '...'를 보시게될 경우, 모든 내용들을 다 읽었고 다음으로 진행하기 위해 Enter키를 눌러야 한다는 뜻합니다."
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- Enter키를 눌러야 한다는 신호를 뜻합니다"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -498,17 +492,17 @@
 "Resuming lesson...":
  "강의를 재개합니다..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "플레이 모드로 들어왔습니다. 원하는대로 코딩을 해보세요. 그리고 레슨모드로 다시 돌아가고 싶으시면 nxt()를 치세요."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "플레이 모드로 들어왔습니다. 원하는대로 코딩을 해보세요. 그리고 레슨모드로 다시 돌아가고 싶으시면 nxt()를 치세요."
 
 "Entering the following correct answer for you...":
  "정답을 입력하는 중입니다..."
 
-"Returning to the main menu...":
- "메인 메뉴로 돌아가기 위해서..."
+#"Returning to the main menu...":
+# "메인 메뉴로 돌아가기 위해서..."
 
-"Lesson complete! Exiting swirl now...":
- "레슨을 끝마쳤습니다! 지금 Swirl을 종료합니다..."
+#"Lesson complete! Exiting swirl now...":
+# "레슨을 끝마쳤습니다! 지금 Swirl을 종료합니다..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
  "현재 레슨의 끝에 ! 메인 메뉴로 돌아가기 위해서..."

@@ -9,8 +9,8 @@
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
  "Play mode activé. A toi de jouer et d'expérimenter. Tape nxt() pour reprendre le cours."
 
-"Returning to the main menu...":
- "Retour au menu principal..."
+#"Returning to the main menu...":
+# "Retour au menu principal..."
 
 "This feature is not implemented yet for Swirl.":
  "Cette fonctionnalité n'est pas encore mise en place pour Swirl."
@@ -116,8 +116,8 @@
 "homepage for your Coursera course was":
  "Par exemple, si la page d'acccueil de ton cours Coursera était"
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "l'identifiant de ton cours serait 'rprog-001' (sans les guillemets)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "l'identifiant de ton cours serait 'rprog-001' (sans les guillemets)."
 
 "It looks like you entered a web address, which is not what I'm":
  "Il me semble que tu viens de taper l'adresse d'un site web."
@@ -304,10 +304,10 @@
 "Thanks, ":
  "Merci, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
  ". Quelques instructions de base avant d'attaquer la première leçon. Tout d'abord, si tu vois s'afficher '...', cela veut dire que tu dois appuyer sur Entrée quand tu as fini de lire et es prêt(e) à continuer."
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- Il est temps d'appuyer sur Entrée pour continuer"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -451,8 +451,8 @@
 
 # post.R
 
-"Lesson complete! Exiting swirl now...":
- "Leçon terminée ! Je quitte Swirl..."
+#"Lesson complete! Exiting swirl now...":
+# "Leçon terminée ! Je quitte Swirl..."
 
 # progress.R
 
@@ -494,8 +494,8 @@
 "Resuming lesson...":
  "Je reprends la leçon..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Play mode activé. A toi de jouer et d'expérimenter. Tape nxt() pour reprendre le cours."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Play mode activé. A toi de jouer et d'expérimenter. Tape nxt() pour reprendre le cours."
 
 "Entering the following correct answer for you...":
  "J'affiche la bonne réponse pour toi..."

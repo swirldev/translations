@@ -6,11 +6,11 @@
 "Sourcing your script...":
  "Dein Script wird neu geladen..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Starte den Probiermodus. Experimentiere frei nach belieben, dann tippe nxt(), wenn du bereit bist die Lektion fortzusetzen."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Starte den Probiermodus. Experimentiere frei nach belieben, dann tippe nxt(), wenn du bereit bist die Lektion fortzusetzen."
 
-"Returning to the main menu...":
- "Kehre zurück ins Hauptmenü..."
+#"Returning to the main menu...":
+# "Kehre zurück ins Hauptmenü..."
 
 "This feature is not implemented yet for Swirl.":
  "Dieses Feature ist noch nicht in Swirl implementiert."
@@ -146,8 +146,8 @@
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "war, dann wäre deine Kurs-ID 'rprog-001' (ohne die Anführungszeichen)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "war, dann wäre deine Kurs-ID 'rprog-001' (ohne die Anführungszeichen)."
 
 "Submission login (email): ":
  "Login für die Übertragung (Email): "
@@ -305,10 +305,10 @@
 "Thanks, ":
  "Danke, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
  ". Lass mich ein paar Grundlagen erklären, bevor wir mit der ersten Lektion beginnen. Zuallererst: immer wenn du '...' siehst, bedeutet das, dass du Enter drücken sollst, wenn du fertig mit lesen und bereit zum fortfahren bist."
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- Das ist dein Stichwort um Enter zu drücken, um fortzufahren."
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -452,8 +452,8 @@
 
 # post.R
 
-"Lesson complete! Exiting swirl now...":
- "Lektion abgeschlossen! Swirl wird nun beendet..."
+#"Lesson complete! Exiting swirl now...":
+# "Lektion abgeschlossen! Swirl wird nun beendet..."
 
 # progress.R
 
@@ -517,8 +517,8 @@
  "Drücke Enter wenn du bereit zum fortfahren bist..."
 
 # why does this sentence double?
-"Hi! I see that you have some variables saved in your":
- "Hi! Ich sehe, dass du einige Variablen gespeichert hast in deinem"
+#"Hi! I see that you have some variables saved in your":
+# "Hi! Ich sehe, dass du einige Variablen gespeichert hast in deinem"
 
 # zzz.R
 

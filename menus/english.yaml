@@ -6,8 +6,8 @@
 "Sourcing your script...":
  "Sourcing your script..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
 
 "Returning to the main menu...":
  "Returning to the main menu..."
@@ -146,8 +146,8 @@
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "then your course ID would be 'rprog-001' (without the quotes)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "then your course ID would be 'rprog-001' (without the quotes)."
 
 "Submission login (email): ":
  "Submission login (email): "
@@ -316,10 +316,10 @@
 "Thanks, ":
  "Thanks, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
  ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- That's your cue to press Enter to continue"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -512,11 +512,11 @@
 "Entering the following correct answer for you...":
  "Entering the following correct answer for you..."
 
-"Returning to the main menu...":
- "Returning to the main menu..."
+#"Returning to the main menu...":
+# "Returning to the main menu..."
 
-"Lesson complete! Exiting swirl now...":
- "Lesson complete! Exiting swirl now..."
+#"Lesson complete! Exiting swirl now...":
+# "Lesson complete! Exiting swirl now..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
  "You've reached the end of this lesson! Returning to the main menu..."

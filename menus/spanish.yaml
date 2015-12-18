@@ -6,11 +6,11 @@
 "Sourcing your script...":
  "Leyendo su script..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Entrando al modo juego. Experimente a su gusto,  cuando esté listo para continuar con la lección escriba nxt() seguido de enter."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Entrando al modo juego. Experimente a su gusto,  cuando esté listo para continuar con la lección escriba nxt() seguido de enter."
 
-"Returning to the main menu...":
- "Volviendo al menú principal..."
+#"Returning to the main menu...":
+# "Volviendo al menú principal..."
 
 "This feature is not implemented yet for Swirl.":
  "Esta característica todavía no se ha implementado en Swirl."
@@ -116,8 +116,8 @@
 "homepage for your Coursera course was":
  "página de inicio del curso de Coursera es "
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "entonces tu ID de curso será 'rprog-001' (sin las comillas)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "entonces tu ID de curso será 'rprog-001' (sin las comillas)."
 
 "It looks like you entered a web address, which is not what I'm":
  "Parece que has introducido una dirección web, lo cual no es lo que "
@@ -280,7 +280,7 @@
 "Sorry, but I'm unable to fetch ":
  "Disculpe, no puedo obtener el archivo "
 
- "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
  "en este momento. ¿Está usted seguro que la computadora está conectada a internet? Si es así, ¿quiere volver a intentarlo? o ¿desea visitar el depósito del curso para ver las instrucciones de cómo se instala un curso manualmente? Teclee 0 para salir."
 
 "Try again!":
@@ -304,10 +304,10 @@
 "Thanks, ":
  "Gracias, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
  ". Permítame explicarle algunos puntos antes de que empiece su primera lección. Primero, sepa que siempre que vea '...', significa que debe teclear Enter cuando haya terminado de leer y esté listo de continuar."
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- Esto indica que debe teclear Enter para continuar"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -390,8 +390,8 @@
  "¡Es asombroso!"
 
 "Great job!":
- #"¡Buenazo!"  % esto no traduce el sentimiento original, pero busco más variedad y diversión para los chicos
-"¡Buen trabajo!"
+ "¡Buen trabajo!"
+#"¡Buenazo!"  % esto no traduce el sentimiento original, pero busco más variedad y diversión para los chicos
 
 "You are quite good my friend!":
  "¡Dude, eres bastante bueno!"
@@ -452,8 +452,8 @@
 
 # post.R
 
-"Lesson complete! Exiting swirl now...":
-  "¡Lección completada! Saliendo de swirl ahora..."
+#"Lesson complete! Exiting swirl now...":
+#  "¡Lección completada! Saliendo de swirl ahora..."
 
 # progress.R
 
@@ -516,8 +516,8 @@
 "Press Enter when you are ready to continue...":
  "Presione Enter cuando usted esté listo para continuar..."
 
-"Hi! I see that you have some variables saved in your":
- "¡Hola! Veo que usted tiene algunas variables guardadas en su "
+#"Hi! I see that you have some variables saved in your":
+# "¡Hola! Veo que usted tiene algunas variables guardadas en su "
 
 # zzz.R
 
