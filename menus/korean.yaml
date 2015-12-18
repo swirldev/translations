@@ -7,7 +7,7 @@
  "당신의 스크립트를 가져오는중입니다..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "플레이 모드로 들어왔습니다. 원하는대로 코딩을 해보세요. 그리고 레슨모드로 다시 돌아가고 싶으시면 nxt()를 치세요." :
+ "플레이 모드로 들어왔습니다. 원하는대로 코딩을 해보세요. 그리고 레슨모드로 다시 돌아가고 싶으시면 nxt()를 치세요."
 
 "Returning to the main menu...":
  "메인 메뉴로 돌아가는중입니다..."
@@ -132,8 +132,11 @@
 "looking for.":
  ""
 
-"It looks like you entered the Course ID that I used as an example, which is not what I'm looking for.:":
+"It looks like you entered the Course ID that I used as an":
  "예문에서 제시한 값을 그대로 입력하신것 같습니다. 원하는 값이 아닙니다."
+
+"example, which is not what I'm looking for.":
+ ""
 
 "Instead, I need your Course ID, which is the last":
  "대신 Coursera 코스 웹사이트 주소명의 맨마지막 부분에 해당하는 코스 아이디명이 필요합니다."
