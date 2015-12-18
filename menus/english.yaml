@@ -223,6 +223,18 @@
 "Course directory is too large to install":
  "Course directory is too large to install"
 
+"Please specify a value for either course_name or swc_path but not both.":
+ "Please specify a value for either course_name or swc_path but not both."
+
+"It looks like your internet connection is not working.":
+ "It looks like your internet connection is not working."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+ "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install."
+
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "After downloading the .swc run install_course() and choose the file you downloaded."
+
 # instructionSet.R
 
 "ANSWER: ":
