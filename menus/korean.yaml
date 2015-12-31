@@ -1,0 +1,540 @@
+# actions.R
+
+"I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
+ "스크립트를 원래상테로 되돌려 놓았습니다. 만약 원래상태로 바로 복원되지 않을경우 여기를 클릭하세요."
+
+"Sourcing your script...":
+ "당신의 스크립트를 가져오는중입니다..."
+
+"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+ "플레이 모드로 들어왔습니다. 원하는대로 코딩을 해보세요. 그리고 레슨모드로 다시 돌아가고 싶으시면 nxt()를 치세요."
+
+"Returning to the main menu...":
+ "메인 메뉴로 돌아가는중입니다..."
+
+"This feature is not implemented yet for Swirl.":
+ "아직 Swirl에서는 이 기능이 구현되지 않았습니다."
+
+# answerTests.R, answerTests2.R
+
+"That's not the expression I expected but it works.":
+ "예상한 식은 아니지만 정상적으로 작동은 할것입니다."
+
+"The given range":
+ "주어진 범위에서"
+
+"is not numeric.":
+ "숫자가 아닙니다."
+
+"I've executed the correct expression in case the result is needed in an upcoming question.":
+ "다음 질문에 필요한 값을 위해 올바른 식을 실행시켰습니다."
+
+"does not exist.":
+ "존재하지 않습니다."
+
+# args_specification.R
+
+## Do not translate 'test_course', 'test_lesson', or 'test'.
+"Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
+ "테스트 모드로 실행하기 위해서 'test_course'와 'test_lesson'을 명시해주세요."
+
+## Do not translate 'to' or 'from'.
+"Argument 'to' must be strictly greater than argument 'from'!":
+ "인자값 'to'는 반드시 인자값 'from' 보다 무조건 커야 합니다!"
+
+# courseraCheck.R
+
+"Are you currently enrolled in the Coursera course associated with this lesson?":
+ "지금 이 레슨과 연관이 있는 과목을 Coursera에서 수강중이십니까?"
+
+"Would you like me to notify Coursera that you've completed this lesson?":
+ "Coursera에 지금 듣고 있는 레슨을 마쳤다는 사실을 알리길 원합니까?"
+
+"If so, I'll need to get some more info from you.":
+ "만약 알리시길 원하신다면 약간의 정보가 더 필요합니다."
+
+"Yes":
+ "네"
+
+"No":
+ "아니오"
+
+"Maybe later":
+ "아마도 나중에요"
+
+"I'll try to tell Coursera you've completed this lesson now.":
+ "지금 즉시 Coursera에 레슨을 끝마쳤다는 사실을 알리도록 하겠습니다."
+
+"You skipped too many questions! You'll need to complete":
+ "너무 많은 문제들을 풀지않고 넘기셨습니다. 크레딧으로 인정받고 싶으시면 현재 듣고 계시는 이 레슨을 끝내셔야 합니다. 다음부터는 한문제 이상 풀지않고 넘기지 마시길 바랍니다."
+
+"this lesson again if you'd like to receive credit. Please":
+ ""
+
+"don't skip more than one question next time.":
+ ""
+
+"I've notified Coursera that you have completed ":
+ "Coursera에 레슨을 마쳤다는 소식을 전달했습니다. "
+
+"I'm sorry, something went wrong with automatic submission.":
+ "죄송합니다. 자동 제출 과정에 있어 오류가 생겼습니다."
+
+"I'm sorry, something went wrong with establishing connection.":
+ "죄송합니다. 연결 과정에 있어 오류가 발생했습니다."
+
+"To notify Coursera that you have completed this lesson,":
+ "지금 레슨을 끝마쳤다는 사실을 Coursera에 알리기 위해서는 Coursera에서 수동적으로 업데이트 해주세요. 강의 홈페이지에 있는 Programming Assignment페이지에 방문하셔서 올바른 Swirl 레슨명 옆에 위치해 있는 제출 버튼을 클릭하시면 됩니다."
+
+"please upload":
+ ""
+
+"to Coursera manually. You may do so by visiting the Programming":
+ ""
+
+"Assignments page on your course website and selecting the Submit":
+ ""
+
+"button next to the appropriate swirl lesson.":
+ ""
+
+"I've placed the file in the following directory:":
+ "해당 디렉토리로 파일을 옮겼습니다:"
+
+"Would you like to retry automatic submission or just submit manually?":
+ "자동 제출을 다시 시도하시겠습니까 아니면 직접 제출하시겠습니까?"
+
+"Retry automatic submission":
+ "자동 제출 다시 시도하기"
+
+"Submit manually":
+ "직접 제출하기"
+
+"The first item I need is your Course ID. For example, if the":
+ "첫번째로 필요한 사항은 코스 아이디명입니다. 예를 들어, Coursera 과목의 홈페이지 주소가 'https://class.coursera.org/rprog-001'라면 
+ 당신의 코스 아이디명은 'rprog-001'입니다. (''는 필요없습니다)"
+
+"homepage for your Coursera course was":
+ ""
+
+"'https://class.coursera.org/rprog-001',":
+ ""
+
+"then your course ID would be 'rprog-001' (without the quotes).":
+ ""
+
+"It looks like you entered a web address, which is not what I'm":
+ "웹주소를 입력하신것 같습니다. 원하는 값이 아닙니다."
+
+"It looks like you entered a numeric ID, which is not what I'm":
+ "숫자 아이디명을 입력하신것 같습니다. 원하는 값이 아닙니다."
+
+"looking for.":
+ ""
+
+"It looks like you entered the Course ID that I used as an":
+ "예문에서 제시한 값을 그대로 입력하신것 같습니다. 원하는 값이 아닙니다."
+
+"example, which is not what I'm looking for.":
+ ""
+
+"Instead, I need your Course ID, which is the last":
+ "대신 Coursera 코스 웹사이트 주소명의 맨마지막 부분에 해당하는 코스 아이디명이 필요합니다."
+
+"part of the web address for your Coursera course.":
+ ""
+
+"For example, if the homepage for your Coursera course was":
+ "예를 들어, Coursera 과목의 홈페이지 주소가 'https://class.coursera.org/rprog-001'라면 당신의 코스 아이디명은 'rprog-001'입니다. (''는 필요없습니다)"
+
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# ""
+
+"Submission login (email): ":
+ "제출 로그인 (이메일): "
+
+"Submission password: ":
+ "제출 비밀번호: "
+
+"Is the following information correct?":
+ "다음 사항들이 맞습니까?"
+
+"Course ID: ":
+ "코스 아이디: "
+
+"Yes, go ahead!":
+ "맞습니다. 다음으로!"
+
+"No, I need to change something.":
+ "아니오. 변경 사항이 있습니다."
+
+# install_courses.R
+
+"Course installed successfully!":
+ "과목이 성공적으로 설치되었습니다!"
+
+"Course installation failed.":
+ "과목이 설치되지 않았습니다."
+
+"Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
+ "인자값 'course_name'은 반드시 작은따옴표 사이에 들어가야 합니다.!"
+
+"Argument 'dev' must be either TRUE or FALSE!":
+ "인자값 'dev'는 반드시 참 또는 거짓으로 설정되어야 합니다!"
+
+"Please enter a valid name for a mirror. ('github' or 'bitbucket')":
+ "올바른 저장소 이름을 입력해주세요. ('github' 또는 'bitbucket')"
+
+"To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
+ "Bitbucket을 통하여 Swirl과목수강을 원하시면 https://bitbucket.org/swirldevmirror/swirl_misc 홈페이지를 참조하세요."
+
+"Course '":
+ "코스 저장소에서 과목을 찾을 수 없습니다!"
+
+"' not found in course repository! ":
+ ""
+
+"Make sure you've got the name exactly right, then try again.":
+ "이름이 올바르게 입력되었는지 확인하시고 다시 시도해주세요."
+
+"Course uninstalled successfully!":
+ "과목이 성공적으로 삭제되었습니다!"
+
+"Course not found!":
+ "과목을 찾을 수 없습니다!"
+
+"All courses uninstalled successfully!":
+ "모든 과목들이 성공적으로 삭제되었습니다!"
+
+"No courses found!":
+ "과목이 존재하지 않습니다!"
+
+"Argument 'multi' must be either TRUE or FALSE.":
+ "인자값 'multi'는 반드시 참 또는 거짓으로 설정되어야 합니다."
+
+"Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
+ "인자값 'which_course'는 'multi'인자값이 참으로 상태인 상태에서 명시되어야 합니다."
+
+"Course ":
+ "과목이 현재 명시된 디렉토리에 존재하지 않습니다. 과목명은 대소문자가 확실해야 한다는 점을 주의해주세요!"
+
+" not in specified directory. Be careful, course names are case sensitive!":
+ ""
+
+"Course directory is too large to install":
+ "과목 디렉토리 사이즈가 너무 커서 설치를 할 수가 없습니다."
+
+# instructionSet.R
+
+"ANSWER: ":
+ "정답입니다: "
+
+"Yes or No? ":
+ "네 혹은 아니오? "
+
+"yes":
+ "맞습니다"
+
+"Type nxt() to continue":
+ "다음으로 넘어가려면 nxt()을 타이핑해주세요."
+
+"BUG: There are no tests for this question!":
+ "버그: 현재 문제에 해당하는 테스트가 존재하지 않습니다!"
+
+"Or, type info() for more options.":
+ "혹은 더 많은 옵션을 원하시면 info()를 입력해주세요."
+
+# utilities.R
+
+"Package":
+ "페키지"
+
+"loaded correctly!":
+ "올바르게 불러왔습니다!"
+
+"This lesson requires the":
+ "현재 레슨은 페키지가 필요합니다. 지금 설치하시기를 원합니까?"
+
+"package. Would you like me to install it for you now?":
+ ""
+
+"Attemping to load lesson dependencies...":
+ "레슨과 관련된 사항들을 불러들이는 중입니다 ..."
+
+"Trying to install package":
+ "페키지를 설치하려 합니다"
+
+"now...":
+ "지금..."
+
+"Could not install package":
+ "페키지를 설치할 수 없습니다"
+
+# menu.R
+
+"To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
+ "진행하기 위해서는 과목을 설치해주세요. 인터넷에서 과목을 설치해릴 수 있습니다. 혹은 본인 스스로 직접 과목을 설치하는 방법을 찾아서 실행하고 싶으시면 다음 웹페이지로 이동시켜 드리겠습니다(https://github.com/swirldev/swirl_courses). 만약 현재 인터넷에 접속되어 있지 않다면 숫자 0을 눌러 종료하세요."
+
+"Don't install anything for me. I'll do it myself.":
+ "아무것도 설치하지 않겠습니다. 나중에 직접 설치하겠습니다."
+
+"Sorry, but I'm unable to fetch ":
+ "죄송합니다. 정보를 가져올 수 없습니다. 인터넷에 접속되어 있습니까? 만약 그렇다면 과목을 직접 설치하는 방법을 확인할 수 있는 과목 저장소에 다시 방문하거나 현재 절차를 다시 시도해보시겠습니까? 종료를 원하시면 숫자 0을 입력하세요."
+
+"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+ ""
+
+"Try again!":
+ "다시 시도해보겠습니다!"
+
+"Send me to the course repository for manual installation.":
+ "직접 설치하는 방법을 확인할 수 있는 과목 저장소 주소를 알려주세요."
+
+"OK. I'm opening the swirl course respository in your browser.":
+ "알겠습니다. Swirl 과목 저장소를 여는 중입니다."
+
+"OK. I'm opening the swirl courses web page in your browser.":
+ "알겠습니다. Swirl 과목 웹페이지를 여는 중입니다."
+
+"Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
+ "Swirl에 오신 것을 환영합니다! 로그인을 해주세요. 이곳을 이미 방문하신 적이 있다면 예전에 이용하신 이름을 그대로 사용하셔도 됩니다. 첫번째 방문이시라면 고유한 이름을 사용하셔야 합니다."
+
+"What shall I call you? ":
+ "당신을 어떻게 부르면 되겠습니까? "
+
+"Thanks, ":
+ "감사합니다, "
+
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
+ ". 첫번째 강의를 진행하기에 앞서 몇가지 사항들을 짚고 넘어가겠습니다. 먼저 '...'를 보시게될 경우, 모든 내용들을 다 읽었고 다음으로 진행하기 위해 Enter키를 눌러야 한다는 뜻합니다."
+
+"...  <-- That's your cue to press Enter to continue":
+ "...  <-- Enter키를 눌러야 한다는 신호를 뜻합니다"
+
+"Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
+ "또한 '정답:', R 프롬프트 (>) 를 보시게 될 경우, 혹은 목록으로부터 무언가 골라야 하는 일이 생길 경우 당신은 정답을 입력하고 Enter키를 눌러 다음으로 진행해야 한다는 뜻을 의미합니다."
+
+"Continue.":
+ "계속합니다."
+
+"Proceed.":
+ "진행합니다."
+
+"Let's get going!":
+ "다음으로 진행합니다!"
+
+"Select 1, 2, or 3 and press Enter":
+ "숫자 1, 2, 3중 하나를 선택하고 Enter를 눌러주세요"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
+ "Esc키를 눌러 Swirl을 종료하고 R 프롬프트 (>)로 돌아가실 수 있습니다. 이미 프롬프트에 있다면 bye()를 입력하여 지금까지 진행하신 사항들을 저장하실 수 있습니다. 올바르게 Swilr을 종료하셨다면 성공적으로 프로그램을 마쳤다는 간략한 확인 메세지를 보실 수 있습니다."
+
+"Let's get started!":
+ "시작합니다!"
+
+"Would you like to continue with one of these lessons?":
+ "현재 이 레슨들을 계속 진행하시기를 원합니까?"
+
+"No. Let me start something new.":
+ "아니오. 새로운 무언가를 시작하기를 원합니다."
+
+"Please choose a course, or type 0 to exit swirl.":
+ "과목을 선택해주세요. 또는 숫자 0을 입력하여 Swirl을 종료하실 수 있습니다."
+
+"Take me to the swirl course repository!":
+ "과목 저장소로 이동하고 싶습니다!"
+
+"Please choose a lesson, or type 0 to return to course menu.":
+ "레슨을 선택해 주세요. 혹은 숫자 0을 눌러 코스 메뉴로 돌아가실 수 있습니다."
+
+# options.R
+
+"Please provide arguments so that appropriate options can be set.":
+ "."
+
+"Options set successfully!":
+ "옵션들이 성공적으로 적용되었습니다!"
+
+"Option name '":
+ "옵션명을 찾을 수 없습니다."
+
+"' not found.":
+ ""
+
+"Option '":
+ "옵션이 성공적으로 삭제되었습니다!"
+
+"' deleted successfully!":
+ ""
+
+# Phrases.R
+
+"You got it!" :
+ "맞았습니다!"
+
+"Nice work!":
+ "잘하셨습니다!"
+
+"Keep up the great work!":
+ "계속 잘하고 계십니다!"
+
+"You are doing so well!":
+ "아주 잘하고 계십니다!"
+
+"You nailed it! Good job!":
+ "성공했습니다. 잘하셨습니다!"
+
+"You're the best!":
+ "당신은 최고입니다!"
+
+"You are amazing!":
+ "당신은 참 훌륭합니다!"
+
+"Great job!":
+ "잘하셨습니다!"
+
+"You are quite good my friend!":
+ "당신의 실력은 참으로 훌륭합니다!"
+
+"You got it right!":
+ "정답입니다!"
+
+"That's correct!":
+ "맞았습니다!"
+
+"You are really on a roll!":
+ "정말 순조롭게 진행중입니다!"
+
+"Excellent job!":
+ "매우 훌륭하군요!"
+
+"That's a job well done!":
+ "아주 잘하셨습니다!"
+
+"Almost! Try again.":
+ "거의 맞았습니다! 다시 시도해 보세요."
+
+"You almost had it, but not quite. Try again.":
+ "정답에 가깝긴 하지만 정확하진 않습니다. 다시 시도해 보세요."
+
+"Give it another try.":
+ "다시 시도해 보세요."
+
+"Not quite! Try again.":
+ "아닙니다! 다시 시도해 보세요."
+
+"Not exactly. Give it another go.":
+ "틀렸습니다. 다시 시도해 보세요."
+
+"That's not exactly what I'm looking for. Try again.":
+ "정확히 원하는 값이 아닙니다. 다시 시도해 보세요."
+
+"Nice try, but that's not exactly what I was hoping for. Try again.":
+ "잘하셨습니다. 하지만 정확하게 원하는 값이 아닙니다. 다시 시도해 보세요."
+
+"Keep trying!":
+ "계속 시도해보세요!"
+
+"That's not the answer I was looking for, but try again.":
+ "원하는 정답이 아닙니다, 다시 시도해보세요."
+
+"Not quite right, but keep trying.":
+ "틀렸습니다, 계속 시도해보세요."
+
+"You're close...I can feel it! Try it again.":
+ "확신하건데 거의 정답에 가깝습니다. 다시 시도해주세요."
+
+"Correct!":
+ "정답입니다!"
+
+"Incorrect. Please try again.":
+ "틀렸습니다. 다시 시도해주세요."
+
+# post.R
+
+"Lesson complete! Exiting swirl now...":
+ "레슨을 끝마쳤습니다! Swirl을 지금 종료합니다..."
+
+# progress.R
+
+"Please enter a valid username.":
+ "올바른 사용자 아이디를 입력해주세요."
+
+"Deleted progress for user: ":
+ "지금까지 진행된 사항들이 삭제되었습니다: "
+
+"Could not find account for user: ":
+ "아이디를 찾을 수 없습니다: "
+
+# swirl.R
+
+"Leaving swirl now. Type swirl() to resume.":
+ "Swirl을 종료합니다. 다시 시작하길 원하시면 swirl()을 입력해주세요."
+
+"When you are at the R prompt (>):":
+ "R 프롬프트에서 (>):"
+
+"-- Typing skip() allows you to skip the current question.":
+ "-- 현재 질문을 넘기고 싶으시면 skip()을 입력해주세요."
+
+"-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
+ "-- R을 이용하여 본인 스스로 아무거나 실행해보고 싶으시면 play()를 입력해주세요. Swirl로 돌아가기 위해 nxt()를 입력하기 전까지는 Swirl은 입력한 값이 맞든 틀리든 무시할 것입니다..."
+
+"-- UNTIL you type nxt() which will regain swirl's attention.":
+ ""
+
+"-- Typing bye() causes swirl to exit. Your progress will be saved.":
+ "-- Swirl을 종료하고 싶으시면 bye()를 입력해주세요. 지금까지 해온 내용들은 모두 저장될 것입니다."
+
+"-- Typing main() returns you to swirl's main menu.":
+ "-- Swirl 메인 메뉴로 돌아가고 싶으시면 main()을 입력해주세요."
+
+"-- Typing info() displays these options again.":
+ "-- 모든 옵션들을 다시 보고 싶으시면 info()를 입력해주세요."
+
+"Resuming lesson...":
+ "강의를 재개합니다..."
+
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "플레이 모드로 들어왔습니다. 원하는대로 코딩을 해보세요. 그리고 레슨모드로 다시 돌아가고 싶으시면 nxt()를 치세요."
+
+"Entering the following correct answer for you...":
+ "정답을 입력하는 중입니다..."
+
+#"Returning to the main menu...":
+# "메인 메뉴로 돌아가기 위해서..."
+
+#"Lesson complete! Exiting swirl now...":
+# "레슨을 끝마쳤습니다! 지금 Swirl을 종료합니다..."
+
+"You've reached the end of this lesson! Returning to the main menu...":
+ "현재 레슨의 끝에 ! 메인 메뉴로 돌아가기 위해서..."
+
+"I just sourced the following script, which demonstrates one possible solution.":
+ "하나의 가능한 해결책을 설명할 수 있는 스크립트를 외부에서 가져왔습니다."
+
+"Press Enter when you are ready to continue...":
+ "다음으로 넘어갈 준비가 되셨으면 Enter를 눌러주세요..."
+
+# zzz.R
+
+"Hi! I see that you have some variables saved in your":
+ "안녕하세요! 작업공간에 몇몇 변수들이 저장되어 있군요. 원활한 작업을 위해서는 Swirl을 시작하기 전에 변수들을 삭제하는 것을 권장합니다."
+
+"workspace. To keep things running smoothly, I recommend you clean up":
+ ""
+
+"before starting swirl.":
+ ""
+
+"Type ls() to see a list of the variables in your workspace.":
+ "현재 작업공간에 존재하는 변수들의 목록을 확인하려면 ls()를 입력해주세요."
+
+"Then, type rm(list=ls()) to clear your workspace.":
+ "그리고 작업공간을 깨끗이 하기 위해서 rm(list=ls())를 입력해주세요."
+
+"Type swirl() when you are ready to begin.":
+ "시작하시길 원하시면 swirl()을 입력해주세요."
+
+"Hi! Type swirl() when you are ready to begin.":
+ "안녕하세요! 시작하시길 원하시면 swirl()을 입력해주세요."

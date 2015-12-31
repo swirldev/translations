@@ -9,8 +9,8 @@
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
  "进入娱乐模式，按您自己的意愿测试, 然后当您准备好回到课程中时输入nxt()。"
 
-"Returning to the main menu...":
- "正在返回主菜单..."
+#"Returning to the main menu...":
+# "正在返回主菜单..."
 
 "This feature is not implemented yet for Swirl.":
  "这功能在Swirl中尚未实现"
@@ -116,8 +116,8 @@
 "homepage for your Coursera course was":
  "您的Coursera课程主页是："
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "那么您的 course ID 将会是 'rprog-001' (去掉引号)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "那么您的 course ID 将会是 'rprog-001' (去掉引号)."
 
 "It looks like you entered a web address, which is not what I'm":
  "看上去您好像是输入了一个网址，这不是我"
@@ -304,10 +304,10 @@
 "Thanks, ":
  "谢谢， "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
  ". 再开始我们第一节课前，我们先了解一些基本的实用项目。 第一关, 您应该要知道当您看到 '...', 那意味着当您结束阅读并准备继续的时候应该按下回车键。"
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- 就是暗示您要按 enter 键继续"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -451,8 +451,8 @@
 
 # post.R
 
-"Lesson complete! Exiting swirl now...":
- "本节课完成了！正在退出swirl..."
+#"Lesson complete! Exiting swirl now...":
+# "本节课完成了！正在退出swirl..."
 
 # progress.R
 
@@ -494,8 +494,8 @@
 "Resuming lesson...":
  "继续课程..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "进入娱乐模式，按您自己的意愿测试。然后当您准备好回到课程中时输入nxt()。"
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "进入娱乐模式，按您自己的意愿测试。然后当您准备好回到课程中时输入nxt()。"
 
 "Entering the following correct answer for you...":
  "输入下列回答中正确的一项..."
@@ -515,8 +515,8 @@
 "Press Enter when you are ready to continue...":
  "当你准备继续时输入回车..."
 
-"Hi! I see that you have some variables saved in your":
- "嗨! 我看到你有很多变量储存在你的"
+#"Hi! I see that you have some variables saved in your":
+# "嗨! 我看到你有很多变量储存在你的"
 
 # zzz.R
 
