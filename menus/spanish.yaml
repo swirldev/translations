@@ -12,6 +12,10 @@
 #"Returning to the main menu...":
 # "Volviendo al menú principal..."
 
+#ADDED
+"Resuming lesson...":
+ "Reanudando lección..."
+
 "This feature is not implemented yet for Swirl.":
  "Esta característica todavía no se ha implementado en Swirl."
 
@@ -31,6 +35,33 @@
 
 "does not exist.":
  "no existe."
+
+ #ADDED
+"does not create a variable.":
+  "no crea una variable"
+
+"does not create a variable named":
+  "no crea una variable llamada"
+
+"BUG: right side of":
+  "ERROR: el lado derecho de"
+
+"is not an integer.":
+  "no es un entero."
+
+
+"does not use ":
+  "no usa "
+
+
+"is not between ":
+  "no se encuentra entre "
+
+" and ":
+  " y "
+
+"BUG: specified length":
+  "ERROR: la longitus especificada"
 
 # args_specification.R
 
@@ -223,6 +254,11 @@
 "Course directory is too large to install":
  "El directorio de este curso es demasiado grande para instalar"
 
+ #ADDED
+
+ "Course directory was successfully zipped!":
+   "¡El directorio del curso fue satisfactoriamente comprimido!"
+
 # instructionSet.R
 
 "ANSWER: ":
@@ -268,6 +304,23 @@
 
 "Could not install package":
  "No se pudo instalar el paquete"
+
+#ADDED
+"Attempting to load lesson dependencies...":
+  "Intentando cargar las dependencias de la lección..."
+
+"Yes":
+  "Si"
+
+"No":
+  "No"
+
+"Correct script not found at ":
+  "El script correcto no se encontro en "
+
+"Completing the first part of the lesson for you...\n":
+  "Completando la primera parte de la lección por ti...\n"
+
 
 # menu.R
 
@@ -345,6 +398,12 @@
 
 "Please choose a lesson, or type 0 to return to course menu.":
  "Seleccione una lección por favor, o teclee 0 para volver al menú del curso."
+
+ #ADDED
+"Please don't use any quotes or other punctuation in your name.":
+  "Por favor no uses ningún tipo de comillas o otro tipo de puntuación en tu nombre."
+
+
 
 # options.R
 
@@ -449,6 +508,37 @@
 
 "Incorrect. Please try again.":
  "Incorrecto. Por favor, vuelve a intentar de nuevo."
+
+ #ADDED
+"All that hard work is paying off!":
+  "¡Todo ese trabajo esta rindiendo frutos!"
+
+"Keep working like that and you'll get there!":
+  "¡Siga trabajando de esa manera y llegará lejos!"
+
+"Perseverance, that's the answer.":
+  "Perseverancia, es la respuesta."
+
+"Your dedication is inspiring!":
+  "¡Su dedicación es inspiradora!"
+
+"All that practice is paying off!":
+  "¡Toda esa práctica esta pagando frutos!"
+
+"Excellent work!":
+  "¡Excelente trabajo!"
+
+"That's the answer I was looking for.":
+  "Esa es la respuesta que estaba buscando."
+
+"One more time. You can do it!":
+  "Una vez más. ¡Tu puedes hacerlo!"
+
+"Not quite, but you're learning! Try again.":
+  "¡No tan bien, pero estas aprendiendo! Intenta de nuevo."
+
+"Try again. Getting it right on the first try is boring anyway!":
+  "Intenta de nuevo. ¡De cualquier forma hacerlo bien a la primera es aburrido!"
 
 # post.R
 
