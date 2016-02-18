@@ -222,7 +222,7 @@
  "¡El curso '"
 
 "' not found in course repository! ":
- "' no se ha encontrado en el depósito del curso! "
+ "' no se ha encontrado en el depósito de cursos! "
 
 "Make sure you've got the name exactly right, then try again.":
  "Verifique que tiene el nombre correcto, y vuelva a tratar."
@@ -340,7 +340,7 @@
  "¡Inténtalo nuevamente!"
 
 "Send me to the course repository for manual installation.":
- "Envíame al depósito de los cursos para hacer una instalación manual."
+ "Envíame al depósito de cursos para hacer una instalación manual."
 
 "OK. I'm opening the swirl course respository in your browser.":
  "OK. Estoy abriendo el depósito de los cursos swirl en tu navegador."
@@ -394,7 +394,7 @@
  "Por favor escoge un curso o teclea 0 para salir de swirl."
 
 "Take me to the swirl course repository!":
- "¡Llévame al depósito de los cursos swirl!"
+ "¡Llévame al depósito de cursos swirl!"
 
 "Please choose a lesson, or type 0 to return to course menu.":
  "Selecciona una lección por favor, o teclea 0 para volver al menú del curso."
