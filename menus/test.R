@@ -4,6 +4,6 @@
 
 library(yaml)
 
-for (i in list.files()){
+for (i in list.files(pattern = "yaml$")){
 	yaml.load_file(i)
 }
