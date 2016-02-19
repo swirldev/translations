@@ -12,10 +12,6 @@
 #"Returning to the main menu...":
 # "Volviendo al menú principal..."
 
-#ADDED
-"Resuming lesson...":
- "Reanudando lección..."
-
 "This feature is not implemented yet for Swirl.":
  "Esta característica todavía no se ha implementado en Swirl."
 
@@ -256,8 +252,8 @@
 
  #ADDED
 
- "Course directory was successfully zipped!":
-   "¡El directorio del curso fue satisfactoriamente comprimido!"
+"Course directory was successfully zipped!":
+ "¡El directorio del curso fue satisfactoriamente comprimido!"
 
 # instructionSet.R
 
@@ -308,12 +304,6 @@
 #ADDED
 "Attempting to load lesson dependencies...":
   "Intentando cargar las dependencias de la lección..."
-
-"Yes":
-  "Sí"
-
-"No":
-  "No"
 
 "Correct script not found at ":
   "El script correcto no se encontró en "
@@ -631,12 +621,3 @@
  "¡Hola! Teclea swirl() cuando estés listo para empezar."
 
 
-
-
-
-
-
-
-
-.
-.
