@@ -255,6 +255,29 @@
 "Course directory was successfully zipped!":
  "¡El directorio del curso fue satisfactoriamente comprimido!"
 
+# ADDED
+
+'Please specify a value for either course_name or swc_path but not both.' :
+"Por favor precise un valor o para course_name o swc_path pero ambos no."
+
+'It looks like your internet connection is not working.' :
+"Parece que tu conexión a la red no funcione."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+"Vete a http://swirlstats.com/scn/ para descargar el archivo .swc que corresponde al curso quieres instalar"
+
+'After downloading the .swc run install_course() and choose the file you downloaded.' :
+"Luego de descargar el archivo .swc, corre install_course() y escoger ese mismo archivo que descargaste"
+
+'Could not connect to course file.' :
+"No se podía conectar con el archivo del curso"
+
+'Are you sure you want to uninstall all swirl courses?' :
+"¿Estás seguro que quieres desinstalar todos los cursos swirl?"
+
+'This will delete all of the contents of your swirl course directory.' :
+"Esto va a borrar todo el contenido de tu directorio de cursos swirl."
+
 # instructionSet.R
 
 "ANSWER: ":
@@ -392,6 +415,14 @@
  #ADDED
 "Please don't use any quotes or other punctuation in your name.":
   "Por favor no uses ningún tipo de comillas u otro tipo de puntuación en tu nombre."
+
+# ALSO ADDED
+
+'right now. Are you sure you have an internet connection?' :
+"en este momento. ¿Estás seguro de que tienes conexión con el internet?"
+
+'If so, would you like to try again or visit' :
+"Si es así, quieres intentar de nuevo o visita"
 
 # options.R
 
