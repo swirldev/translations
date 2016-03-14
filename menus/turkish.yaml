@@ -168,6 +168,29 @@
  "Hayır, birşeyleri değiştirmem gerekiyor"
 
 # install_courses.R
+"Please specify a value for either course_name or swc_path but not both."
+"lütfen ya bir kurs adı (course_name) ya da swc_path belirtiniz, ama aynı anda değil"
+
+
+"It looks like your internet connection is not working"
+"internet bağlantını kontrol edebilir misin?"
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install"
+" Lütfen http://swirlstats.com/scn/ adresine git ve yüklemek istediğin dersin .swc dosyanını indir"
+
+"After downloading the .swc run install_course() and choose the file you downloaded"
+".swc uzantılı dosyayı indirdikten sonra , install_course() kodunu koş ve indirdiğin dosyayı seç"
+
+
+"Could not connect to course file"
+"ders dosyasına ulaşamadı"
+
+"Are you sure you want to uninstall all swirl courses?"
+"bütün swirl derslerini kaldırmak istediğinden emin misin?" 
+
+"This will delete all of the contents of your swirl course directory"
+" Bu işlem senin swirl dersleri dosyandaki bütün içeriği silecek" 
+
 
 "Course installed successfully!":
  "Kurs başarıyla indirildi"
@@ -346,6 +369,32 @@
 "Please choose a lesson, or type 0 to return to course menu.":
  "lütfen  bir ders sec veya 0 yazarak kurs menüsüne çıkış yap "
 
+"right now. Are you sure you have an internet connection?"
+"şu anda. ınternet bağlantın olduğundan emin mısın?"
+
+"If so, would you like to try again or visit"
+"öyleyse, tekrar denemek ya da ziyaret etmek ister misin"
+
+"the course repository for instructions on how to"
+"kursun sanal deposunda talimatlar var, şunun için: " 
+
+"install a course manually? Type 0 to exit."
+" kursu kendin yüklemek ister misin? çıkmak için 0 yaz."
+
+"Please don't use any quotes or other punctuation in your name."
+"Lütfen ismini yazarken tırnak işareti yada diğer noktalama işaretlerini kullanma"
+
+
+"\n...  <-- That's your cue to press Enter to continue"
+"\n... <-- bu senin enter tuşuna basman için bir ipucu"
+
+"\nSelect 1, 2, or 3 and press Enter"
+"\nSelect 1,2 or 3 ve entera bas"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so."
+" Esc tuşuna basarak istediğin zaman swirl'den çıkıp R prompt'a (>) geri dönebilirsin. eğer halihazırda prompt'a isen, bye() yaz, kaydet ve çık. Çıkış işlemini düzgün bir şekilde tamamlarsan bunu onaylayan kısa bir mesaj goreceksin"
+
+
 # options.R
 
 "Please provide arguments so that appropriate options can be set.":
@@ -448,6 +497,39 @@
 
 "Incorrect. Please try again.":
  "Yanlış, tekrar dene"
+
+
+"All that hard work is paying off!"
+" çalışmaların meyve vermeye başladı" 
+
+"Keep working like that and you'll get there!"
+"Bu şekilde çalışmaya devam et, başaracaksın" 
+
+"Perseverance, that's the answer."
+"Sebat, işte aranan cevap"
+
+"Your dedication is inspiring!"
+"Adanmışlığın muhteşem" 
+
+"All that practice is paying off!"
+" çalışmaların meyve vermeye başladı" 
+
+"Excellent work!"
+"Muhteşem iş:"
+
+"That's the answer I was looking for."
+"işte aradığım cevap"
+
+"One more time. You can do it!"
+"Bir kez daha dene, yapabilirsin"
+
+
+"Not quite, but you're learning! Try again."
+"Tam olarak değil, ama öğreniyorsun! Tekrar dene"
+
+
+"Try again. Getting it right on the first try is boring anyway!"
+"Tekrar dene, zaten ilk denemede başarılı olmak sıkıcı olurdu"
 
 # post.R
 
