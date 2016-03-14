@@ -256,10 +256,31 @@
 
  #ADDED
 
- "Course directory was successfully zipped!":
-   "¡El directorio del curso fue satisfactoriamente comprimido!"
+"Course directory was successfully zipped!":
+  "¡El directorio del curso fue satisfactoriamente comprimido!"
 
-# instructionSet.R
+"Please specify a value for either course_name or swc_path but not both.":
+  "Por favor, especifica un valor para course_name o swc_path pero no ambos."
+
+"It looks like your internet connection is not working.":
+  "Parece que tu conexión a Internet no está funcionando."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+  "Ve a http://swirlstats.com/scn/ y descarga el archivo .swc que corresponde al curso que deseas instalar."
+
+"After downloading the .swc run install_course() and choose the file you downloaded." :
+  "Después de descargar el archivo .swc ingresa install_course() y selecciona el archivo que has descargado."
+
+"Could not connect to course file.":
+  "No fue posible realizar la conección al archivo del curso."
+
+"Are you sure you want to uninstall all swirl courses?":
+  "¿Seguro que deseas desinstalar todos los cursos de swirl?"
+
+"This will delete all of the contents of your swirl course directory.":
+  "Esto eliminará todo el contenido del directorio de cursos de swirl."
+
+#instructionSet.R
 
 "ANSWER: ":
  "RESPUESTA: "
@@ -399,9 +420,32 @@
 "Please choose a lesson, or type 0 to return to course menu.":
  "Selecciona una lección por favor, o teclea 0 para volver al menú del curso."
 
- #ADDED
-"Please don't use any quotes or other punctuation in your name.":
-  "Por favor no uses ningún tipo de comillas u otro tipo de puntuación en tu nombre."
+#ADDED
+Please don't use any quotes or other punctuation in your name.":
+ "Por favor no uses ningún tipo de comillas u otro tipo de puntuación en tu nombre."
+
+"right now. Are you sure you have an internet connection?":
+ "ahora. ¿Seguro de que tienes una conexión a Internet?"
+
+"If so, would you like to try again or visit":
+ "Si es así, ¿te gustaría probar de nuevo o visita"
+
+"the course repository for instructions on how to":
+ "el depósito del curso para obtener instrucciones sobre cómo"
+
+"install a course manually? Type 0 to exit.":
+ "instalar manualmente un curso? Escribe 0 para salir."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n... <-- Ésta es la señal para presionar Enter y continuar"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nSelecciona 1, 2 ó 3, y presiona Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "Puedes salir de swirl y volver a la línea de comandos de R (>) en cualquier momento pulsando la tecla Esc. Si ya te encuentras en la línea de comandos, teclea bye() para salir para salir y guardar tu progreso. Cuando salgas correctamente, verás un mensaje corto que te hará saberlo."
+
+
 
 # options.R
 
