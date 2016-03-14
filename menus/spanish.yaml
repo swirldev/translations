@@ -255,28 +255,26 @@
 "Course directory was successfully zipped!":
  "¡El directorio del curso fue satisfactoriamente comprimido!"
 
-# ADDED
+"Please specify a value for either course_name or swc_path but not both.":
+ "Por favor, especifica un valor para course_name o swc_path pero no ambos."
 
-'Please specify a value for either course_name or swc_path but not both.' :
-"Por favor precise un valor o para course_name o swc_path pero ambos no."
-
-'It looks like your internet connection is not working.' :
-"Parece que tu conexión a la red no funcione."
+"It looks like your internet connection is not working.":
+ "Parece que tu conexión a Internet no está funcionando."
 
 "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
-"Vete a http://swirlstats.com/scn/ para descargar el archivo .swc que corresponde al curso quieres instalar"
+"Ve a http://swirlstats.com/scn/ y descarga el archivo .swc que corresponde al curso que deseas instalar"
 
-'After downloading the .swc run install_course() and choose the file you downloaded.' :
-"Luego de descargar el archivo .swc, corre install_course() y escoger ese mismo archivo que descargaste"
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "Después de descargar el archivo .swc ingresa install_course() y selecciona el archivo que descargaste"
 
-'Could not connect to course file.' :
-"No se podía conectar con el archivo del curso"
+"Could not connect to course file." :
+ "No fue posible realizar la conexión con el archivo del curso"
 
-'Are you sure you want to uninstall all swirl courses?' :
+"Are you sure you want to uninstall all swirl courses?":
 "¿Estás seguro que quieres desinstalar todos los cursos swirl?"
 
 'This will delete all of the contents of your swirl course directory.' :
-"Esto va a borrar todo el contenido de tu directorio de cursos swirl."
+"Esto eliminará todo el contenido del directorio de cursos swirl."
 
 # instructionSet.R
 
@@ -414,15 +412,31 @@
 
  #ADDED
 "Please don't use any quotes or other punctuation in your name.":
-  "Por favor no uses ningún tipo de comillas u otro tipo de puntuación en tu nombre."
+ "Por favor no uses ningún tipo de comillas u otro tipo de puntuación en tu nombre."
 
 # ALSO ADDED
 
-'right now. Are you sure you have an internet connection?' :
-"en este momento. ¿Estás seguro de que tienes conexión con el internet?"
+"right now. Are you sure you have an internet connection?":
+"en este momento. ¿Estás seguro de que tienes una conexión a Internet?"
 
 'If so, would you like to try again or visit' :
 "Si es así, quieres intentar de nuevo o visita"
+
+"the course repository for instructions on how to":
+ "el depósito del curso para obtener instrucciones sobre cómo"
+
+"install a course manually? Type 0 to exit.":
+ "instalar manualmente un curso? Escribe 0 para salir."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n... <-- Ésta es la señal para presionar Enter y continuar"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nSelecciona 1, 2 ó 3, y presiona Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "Puedes salir de swirl y volver a la línea de comandos de R (>) en cualquier momento pulsando la tecla Esc. Si ya te encuentras en la línea de comandos, teclea bye() para salir para salir y guardar tu progreso. Cuando salgas correctamente, verás un mensaje corto que te hará saberlo."
+
 
 # options.R
 
