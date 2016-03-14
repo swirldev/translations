@@ -255,6 +255,21 @@
 "Course directory was successfully zipped!":
  "¡El directorio del curso fue satisfactoriamente comprimido!"
 
+# ADDED
+
+'Please specify a value for either course_name or swc_path but not both.' :
+"Por favor precise un valor o para course_name o swc_path pero ambos no."
+
+'It looks like your internet connection is not working.' :
+"Parece que tu conexión a la red no funcione."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+"Vete a http://swirlstats.com/scn/ para descargar el archivo .swc que corresponde al curso quieres instalar"
+
+'After downloading the .swc run install_course() and choose the file you downloaded.' :
+"Luego de descargar el archivo .swc, corre install_course() y escoger ese mismo archivo que descargaste"
+
+
 # instructionSet.R
 
 "ANSWER: ":
