@@ -262,7 +262,7 @@
  "Parece que tu conexión a Internet no está funcionando."
 
 "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
-"Ve a http://swirlstats.com/scn/ y descarga el archivo .swc que corresponde al curso que deseas instalar"
+ "Ve a http://swirlstats.com/scn/ y descarga el archivo .swc que corresponde al curso que deseas instalar"
 
 "After downloading the .swc run install_course() and choose the file you downloaded.":
  "Después de descargar el archivo .swc ingresa install_course() y selecciona el archivo que descargaste"
@@ -271,10 +271,10 @@
  "No fue posible realizar la conexión con el archivo del curso"
 
 "Are you sure you want to uninstall all swirl courses?":
-"¿Estás seguro que quieres desinstalar todos los cursos swirl?"
+ "¿Estás seguro que quieres desinstalar todos los cursos swirl?"
 
 'This will delete all of the contents of your swirl course directory.' :
-"Esto eliminará todo el contenido del directorio de cursos swirl."
+ "Esto eliminará todo el contenido del directorio de cursos swirl."
 
 # instructionSet.R
 
@@ -417,10 +417,10 @@
 # ALSO ADDED
 
 "right now. Are you sure you have an internet connection?":
-"en este momento. ¿Estás seguro de que tienes una conexión a Internet?"
+ "en este momento. ¿Estás seguro de que tienes una conexión a Internet?"
 
-'If so, would you like to try again or visit' :
-"Si es así, quieres intentar de nuevo o visita"
+"If so, would you like to try again or visit":
+ "Si es así, quieres intentar de nuevo o visita"
 
 "the course repository for instructions on how to":
  "el depósito del curso para obtener instrucciones sobre cómo"
