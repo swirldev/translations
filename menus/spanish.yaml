@@ -336,7 +336,7 @@
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
- "Para comenzar, debes instalar algún curso. Puedo instalar un curso de Internet o te puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que vea las opciones e instrucciones para instalar cursos. (Si no estás conectado a Internet en este momento, teclea 0 para salir.)"
+ "Para comenzar, debes instalar algún curso. Puedo instalar un curso de Internet o te puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que veas las opciones e instrucciones para instalar cursos. (Si no estás conectado a Internet en este momento, teclea 0 para salir.)"
 
 "Don't install anything for me. I'll do it myself.":
  "¡No instalar nada por mí! Lo haré yo mismo."
@@ -363,7 +363,7 @@
  "¡Bienvenido a swirl! Por favor, inicia sesión. Si ya has estado aquí antes, ingresa el mismo nombre de usuario que usaste la última vez. Si es tu primera vez aquí, elige un nombre corto (cada vez que arranques swirl, tendrás que ingresar este nombre)."
 
 "What shall I call you? ":
- "¿Cómo debo de referirme a ti?"
+ "¿Cómo debo de referirme a ti? "
 
 "Thanks, ":
  "Gracias, "
@@ -390,7 +390,7 @@
  "Escoge 1, 2 o 3 y teclea Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "Puedes salir de swirl en cualquier momento y volver al indicador de R (>) tecleando la tecla Esc. Si ya estás en el indicador, escribe bye() para salir y guardar el progreso. Cuando salgas de esta forma, observarás un mensaje corto avisando que lo has hecho correctamente."
+ "Puedes salir de swirl y volver a la línea de comandos de R (>) en cualquier momento tecleando la tecla Esc. Si ya te encuentras en la línea de comandos, escribe bye() para salir y guardar tu progreso. Cuando salgas de esta forma, observarás un mensaje corto avisando que lo has hecho correctamente."
 
 "Let's get started!":
  "¡Empecemos!"
@@ -664,5 +664,3 @@
 
 "Hi! Type swirl() when you are ready to begin.":
  "¡Hola! Teclea swirl() cuando estés listo para empezar."
-
-
