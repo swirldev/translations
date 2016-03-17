@@ -1,24 +1,24 @@
 # actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "Acabo de reiniciar el guión a su estado original. Si no se refresca en seguida, puede que tenga que hacer click en ello."
+ "Acabo de reiniciar el script a su estado original. Si no se actualiza de inmediato, puede que tengas que hacer clic en él."
 
 "Sourcing your script...":
- "Conseguiendo su guión..."
+ "Leyendo tu script..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Se está enterando el modo de juego. Experimente a su gusto, entonces presione nxt() cuando esté listo de continuar con la lección."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Entrando al modo juego. Experimenta a tu gusto; cuando estés listo para continuar con la lección escribe nxt() seguido de Enter."
 
-"Returning to the main menu...":
- "Volviendo al menú principal..."
+#"Returning to the main menu...":
+# "Volviendo al menú principal..."
 
 "This feature is not implemented yet for Swirl.":
- "Esta carácteristica todavía no se ha implementado en Swirl."
+ "Esta característica todavía no se ha implementado en Swirl."
 
 # answerTests.R, answerTests2.R
 
 "That's not the expression I expected but it works.":
- "Eso no es la expresión que quería yo, pero funciona."
+ "Esa no es la expresión que esperaba, pero funciona."
 
 "The given range":
  "El rango dado"
@@ -27,145 +27,172 @@
  "no es numérico."
 
 "I've executed the correct expression in case the result is needed in an upcoming question.":
- "He realizado la expresión correcta en caso de que el resultado se necesita para otra pregunta por venir."
+ "He ejecutado la expresión correcta, en caso de que el resultado se necesite por otra pregunta."
 
 "does not exist.":
  "no existe."
+
+ #ADDED
+"does not create a variable.":
+  "no crea una variable."
+
+"does not create a variable named":
+  "no crea una variable llamada"
+
+"BUG: right side of":
+  "ERROR: el lado derecho de"
+
+"is not an integer.":
+  "no es un entero."
+
+
+"does not use ":
+  "no usa "
+
+
+"is not between ":
+  "no se encuentra entre "
+
+" and ":
+  " y "
+
+"BUG: specified length":
+  "ERROR: la longitud especificada"
 
 # args_specification.R
 
 ## Do not translate 'test_course', 'test_lesson', or 'test'.
 "Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
- "Tiene que especificar 'test_course' y 'test_lesson' para que corra en modo 'test'!"
+ "¡Tienes que especificar 'test_course' y 'test_lesson' para que pueda ejecutarse en modo 'test'!"
 
 ## Do not translate 'to' or 'from'.
 "Argument 'to' must be strictly greater than argument 'from'!":
- "El argumento 'to' tiene que ser mayor (no igual) que el argumento 'from'!"
+ "El argumento 'to' tiene que ser estrictamente mayor que el argumento 'from'!"
 
 # courseraCheck.R
 
 "Are you currently enrolled in the Coursera course associated with this lesson?":
- "Are you currently enrolled in the Coursera course associated with this lesson?"
+ "¿Estás actualmente inscrito en el curso de Coursera asociado a esta lección?"
 
 "Would you like me to notify Coursera that you've completed this lesson?":
- "Would you like me to notify Coursera that you've completed this lesson?"
+ "¿Te gustaría que se le notificará a Coursera que has completado esta lección?"
 
 "If so, I'll need to get some more info from you.":
- "If so, I'll need to get some more info from you."
+ "Si es así, necesitaré obtener más información de ti."
 
 "Yes":
- "Yes"
+ "Sí"
 
 "No":
  "No"
 
 "Maybe later":
- "Maybe later"
+ "Tal vez después"
 
 "I'll try to tell Coursera you've completed this lesson now.":
- "I'll try to tell Coursera you've completed this lesson now."
+ "Ahora intentaré notificar a Coursera que has completado esta lección."
 
 "You skipped too many questions! You'll need to complete":
- "You skipped too many questions! You'll need to complete"
+ "¡Has omitido demasiadas preguntas! Tendrás que completar"
 
 "this lesson again if you'd like to receive credit. Please":
- "this lesson again if you'd like to receive credit. Please"
+ "esta lección de nuevo si quieres recibir puntos por ella. Por favor"
 
 "don't skip more than one question next time.":
- "don't skip more than one question next time."
+ "no te saltes más de una pregunta la próxima vez."
 
 "I've notified Coursera that you have completed ":
- "I've notified Coursera that you have completed "
+ "He notificado a Coursera que has completado "
 
 "I'm sorry, something went wrong with automatic submission.":
- "I'm sorry, something went wrong with automatic submission."
+ "Lo siento, algo salió mal con el envío automático."
 
 "I'm sorry, something went wrong with establishing connection.":
- "I'm sorry, something went wrong with establishing connection."
+ "Lo siento, algo salió mal estableciendo la conexión."
 
 "To notify Coursera that you have completed this lesson,":
- "To notify Coursera that you have completed this lesson,"
+ "Para notificar a Coursera que has completado esta lección,"
 
 "please upload":
- "please upload"
+ "por favor, subir"
 
 "to Coursera manually. You may do so by visiting the Programming":
- "to Coursera manually. You may do so by visiting the Programming"
+ "a Coursera manualmente. Puedes hacerlo visitando la página"
 
 "Assignments page on your course website and selecting the Submit":
- "Assignments page on your course website and selecting the Submit"
+ "Tareas de programación en el sitio web del curso y presiona el botón"
 
 "button next to the appropriate swirl lesson.":
- "button next to the appropriate swirl lesson."
+ "de Enviar de la lección de swirl correspondiente."
 
 "I've placed the file in the following directory:":
- "I've placed the file in the following directory:"
+ "He guardado el archivo en el directorio siguiente:"
 
 "Would you like to retry automatic submission or just submit manually?":
- "Would you like to retry automatic submission or just submit manually?"
+ "¿Te gustaría volver a intentar el envío automático o simplemente enviar manualmente?"
 
 "Retry automatic submission":
- "Retry automatic submission"
+ "Volver a intentar el envío automático"
 
 "Submit manually":
- "Submit manually"
+ "Enviar manualmente"
 
 "The first item I need is your Course ID. For example, if the":
- "The first item I need is your Course ID. For example, if the"
+ "Lo primero que necesito es tu ID del curso. Por ejemplo, si la"
 
 "homepage for your Coursera course was":
- "homepage for your Coursera course was"
+ "página de inicio del curso de Coursera es"
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "then your course ID would be 'rprog-001' (without the quotes)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "#, entonces tu ID de curso será 'rprog-001' (sin las comillas)."
 
 "It looks like you entered a web address, which is not what I'm":
- "It looks like you entered a web address, which is not what I'm"
+ "Parece que has introducido una dirección web, lo cual no es lo que "
 
 "looking for.":
- "looking for."
+ "estoy pidiendo."
 
 "It looks like you entered a numeric ID, which is not what I'm":
- "It looks like you entered a numeric ID, which is not what I'm"
+ "Parece que has introducido un ID numérico, lo cual no es lo que"
 
 "It looks like you entered the Course ID that I used as an":
- "It looks like you entered the Course ID that I used as an"
+ "Parece que has introducido el ID de curso que he usado como"
 
 "example, which is not what I'm looking for.":
- "example, which is not what I'm looking for."
+ "ejemplo, lo cual no es lo que estoy pidiendo."
 
 "Instead, I need your Course ID, which is the last":
- "Instead, I need your Course ID, which is the last"
+ "En su lugar, necesito tu ID de curso, que es la última"
 
 "part of the web address for your Coursera course.":
- "part of the web address for your Coursera course."
+ "parte de la dirección web del curso de Coursera."
 
 "For example, if the homepage for your Coursera course was":
- "For example, if the homepage for your Coursera course was"
+ "Por ejemplo, si la página de inicio para tu curso de Coursera fuera"
 
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
 
 "then your course ID would be 'rprog-001' (without the quotes).":
- "then your course ID would be 'rprog-001' (without the quotes)."
+ "entonces tu ID de curso sería ‘rprog-001' (sin las comillas)."
 
 "Submission login (email): ":
- "Submission login (email): "
+ "Nombre de usuario para enviar (email): "
 
 "Submission password: ":
- "Submission password: "
+ "Contraseña de envío: "
 
 "Is the following information correct?":
- "Is the following information correct?"
+ "¿Es correcta la siguiente información?"
 
 "Course ID: ":
- "Course ID: "
+ "ID de curso: "
 
 "Yes, go ahead!":
- "Yes, go ahead!"
+ "¡Sí, adelante!"
 
 "No, I need to change something.":
- "No, I need to change something."
+ "No, necesito cambiar algo."
 
 # install_courses.R
 
@@ -173,55 +200,81 @@
  "¡El curso se instaló con éxito!"
 
 "Course installation failed.":
- "El curso fallo en instalarse."
+ "La instalación del curso falló."
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
- "¡Hay que ingresar el argumento 'course_name' entre comillas (es decir, como carácter)!"
+ "¡Hay que ingresar el argumento 'course_name' entre comillas (es decir, una cadena de caracteres)!"
 
 "Argument 'dev' must be either TRUE or FALSE!":
- "¡El argumento 'dev' solo toma el valor TRUE o FALSE!"
+ "¡El argumento 'dev' sólo debe tomar el valor TRUE o FALSE!"
 
 "Please enter a valid name for a mirror. ('github' or 'bitbucket')":
- "Ingrese un nombre valido para un espejo de descarga. ('github' o 'bitbucket')"
+ "Ingresa un nombre válido para la descarga. ('github' o 'bitbucket')"
 
 "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
- "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc"
+ "Para acceder a los cursos de swirl en desarrollo de Bitbucket ir a https://bitbucket.org/swirldevmirror/swirl_misc"
 
 "Course '":
- "¡Curso '"
+ "¡El curso '"
 
 "' not found in course repository! ":
- "' no se ha ubicado en el repositorio del curso! "
+ "' no se ha encontrado en el depósito de cursos! "
 
 "Make sure you've got the name exactly right, then try again.":
- "Verifique que tiene el nombre exactamente correcto, y volver a tratar de nuevo."
+ "Verifique que tiene el nombre correcto, y vuelva a tratar."
 
 "Course uninstalled successfully!":
  "¡El curso se desinstaló con éxito!"
 
 "Course not found!":
- "!No se encuentra el curso!"
+ "¡Curso no encontrado!"
 
 "All courses uninstalled successfully!":
- "¡Todos los cursos se desinstaló éxitosamente!"
+ "¡Todos los cursos se desinstalaron exitosamente!"
 
 "No courses found!":
- "¡No se encuentra ningún curso!"
+ "¡No se encontró ningún curso!"
 
 "Argument 'multi' must be either TRUE or FALSE.":
- "El argumento 'multi' se tiene que especificar como TRUE o FALSE."
+ "El argumento 'multi' debe ser TRUE o FALSE."
 
 "Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
- "Argument 'which_course' should only be specified when argument 'multi' is TRUE."
+ "El argumento 'which_course' sólo debe especificarse cuando el argumento 'multi' es TRUE."
 
 "Course ":
  "El curso "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " no se ha encontrado en el directorio especificado. !Ten cuidado, los nombres de cursos son sensibles a mayúsculas y minúsculas!":
+ " no se ha encontrado en el directorio especificado. ¡Ten cuidado, los nombres de cursos son sensibles a mayúsculas y minúsculas!"
 
 "Course directory is too large to install":
  "El directorio de este curso es demasiado grande para instalar"
+
+ #ADDED
+
+"Course directory was successfully zipped!":
+ "¡El directorio del curso fue satisfactoriamente comprimido!"
+
+"Please specify a value for either course_name or swc_path but not both.":
+ "Por favor, especifica un valor para course_name o swc_path pero no ambos."
+
+"It looks like your internet connection is not working.":
+ "Parece que tu conexión a Internet no está funcionando."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+ "Ve a http://swirlstats.com/scn/ y descarga el archivo .swc que corresponde al curso que deseas instalar"
+
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "Después de descargar el archivo .swc ingresa install_course() y selecciona el archivo que descargaste"
+
+"Could not connect to course file." :
+ "No fue posible realizar la conexión con el archivo del curso"
+
+"Are you sure you want to uninstall all swirl courses?":
+ "¿Estás seguro que quieres desinstalar todos los cursos swirl?"
+
+'This will delete all of the contents of your swirl course directory.' :
+ "Esto eliminará todo el contenido del directorio de cursos swirl."
 
 # instructionSet.R
 
@@ -229,24 +282,24 @@
  "RESPUESTA: "
 
 "Yes or No? ":
- "Si o No? "
+ "¿Sí o No? "
 
 "yes":
- "Si"
+ "Sí"
 
 "Type nxt() to continue":
- "Teclee nxt() para continuar"
+ "Teclea nxt() para continuar"
 
 "BUG: There are no tests for this question!":
  "BUG: ¡No existen pruebas para esta pregunta!"
 
 "Or, type info() for more options.":
- "O, escriba info() para más opciones."
+ "O escribe info() para más opciones."
 
 # utilities.R
 
 "Package":
- "¡Paquete"
+ "¡El paquete"
 
 "loaded correctly!":
  "se ha cargado correctamente!"
@@ -255,7 +308,7 @@
  "Esta lección requiere el paquete"
 
 "package. Would you like me to install it for you now?":
- ". ¿Quiere usted que se lo instalo ahora mismo?"
+ ". ¿Quieres que lo instale ahora?"
 
 "Attemping to load lesson dependencies...":
  "Tratando de cargar las dependencias de la lección..."
@@ -264,95 +317,134 @@
  "Tratando de instalar el paquete"
 
 "now...":
- "ya..."
+ "..."
 
 "Could not install package":
- "No se podía instalar el paquete"
+ "No se pudo instalar el paquete"
+
+#ADDED
+"Attempting to load lesson dependencies...":
+  "Intentando cargar las dependencias de la lección..."
+
+"Correct script not found at ":
+  "El script correcto no se encontró en "
+
+"Completing the first part of the lesson for you...\n":
+  "Completando la primera parte de la lección por ti...\n"
+
 
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
- "Para empezar, hay que instalar algún curso. Le puedo instalar un curso del internet para usted, o le puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que vea las opciones y instrucciones para instalar cursos para si mismo. (Si usted no está conectado al internet en este momento, teclee 0 para salir.)"
+ "Para comenzar, debes instalar algún curso. Puedo instalar un curso de Internet o te puedo enviar a la página (https://github.com/swirldev/swirl_courses) para que veas las opciones e instrucciones para instalar cursos. (Si no estás conectado a Internet en este momento, teclea 0 para salir.)"
 
 "Don't install anything for me. I'll do it myself.":
- "¡No me instales nada!, yo me lo voy a hacer."
+ "¡No instalar nada por mí! Lo haré yo mismo."
 
 "Sorry, but I'm unable to fetch ":
- "Disculpe, pero no puedo recoger "
+ "Disculpa, no puedo obtener el archivo "
 
- "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
- "ahora mismo. ¿Está usted seguro que la compu está conectado al internet? Si es así, ¿quiere volver a intentar o visitar al respositorio del curso para las instrucciones de como se instala un curso manualmente? Teclee 0 para salir."
+"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+ "en este momento. ¿Estás seguro de que la computadora está conectada a Internet? Si es así, ¿quieres volver a intentarlo o deseas visitar el depósito del curso para ver las instrucciones de cómo se instala un curso manualmente? Teclea 0 para salir."
 
 "Try again!":
- "¡Inténtalo de nuevo!"
+ "¡Inténtalo nuevamente!"
 
 "Send me to the course repository for manual installation.":
- "Mándame al respositorio de los cursos para instalación manual."
+ "Envíame al depósito de cursos para hacer una instalación manual."
 
 "OK. I'm opening the swirl course respository in your browser.":
- "OK. Ya abro el repositorio de los cursos swirl en su navegador."
+ "OK. Estoy abriendo el depósito de los cursos swirl en tu navegador."
 
 "OK. I'm opening the swirl courses web page in your browser.":
- "OK. Ya abro la página de los cursos swirl en su navegador."
+ "OK. Estoy abriendo la página de los cursos swirl en tu navegador."
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
- "Bienvenido a swirl! Por favor inscríbese. Si ya se ha inscrito antes, ingrese el mismo nombre que usted hizo la última vez. Si es su primera vez aquí, eliga un nombre único pero corto (cada vez que arranque swirl, tendrá que ingresar este nombre)."
+ "¡Bienvenido a swirl! Por favor, inicia sesión. Si ya has estado aquí antes, ingresa el mismo nombre de usuario que usaste la última vez. Si es tu primera vez aquí, elige un nombre corto (cada vez que arranques swirl, tendrás que ingresar este nombre)."
 
 "What shall I call you? ":
- "¿Cómo debería llamarle? "
+ "¿Cómo debo de referirme a ti? "
 
 "Thanks, ":
  "Gracias, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
- ". Permítame explicarle algunas puntos de organización antes de que empiece su primera lección. Primero, sepa que siempre y cuando vea '...', significa que debe pulsar Intro cuando haya terminado de leer y esté listo de continuar."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
+ ". Permíteme explicarte algunos puntos antes de que empieces tu primera lección. Primero, siempre que veas '...', significa que debes teclear Enter cuando hayas terminado de leer y estés listo para continuar."
 
- "...  <-- That's your cue to press Enter to continue":
- "...  <-- Esa se le da su entrada para pulsar Intro y continuar"
+"...  <-- That's your cue to press Enter to continue":
+ "...  <-- Esto indica que debes teclear Enter para continuar"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
- "También, cuando vea 'RESPUESTA:', el indicador de R (>), o cuando le pide a usted que escoga una opción de un listado, significa que le toca a usted ingresar una respuesta, y entonces presione Intro para seguir."
+ "También, cuando veas 'RESPUESTA:', el indicador de R (>), o cuando se te pide escoger una opción de un listado, significa que es tu turno de escribir e ingresar una respuesta, y teclear Enter para continuar."
 
 "Continue.":
- "Siga."
+ "Continuar."
 
 "Proceed.":
- "Siga no más."
+ "Avanzar."
 
 "Let's get going!":
- "¡Vámonos!"
+ "¡Continuemos!"
 
 "Select 1, 2, or 3 and press Enter":
- "Escoga 1, 2, o 3 y pulse Intro"
+ "Escoge 1, 2 o 3 y teclea Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "Usted puede salir de swirl en cualquier momento y volver al indicar de R (>) por presionar la tecla Esc. Si ya está en el indicador, escriba bye() para salir y guardar el progreso. Cuando se sale de esta manera, es decir correctamente, vayas a ver un mensaje corto avisándole que lo hayas hecho."
+ "Puedes salir de swirl y volver a la línea de comandos de R (>) en cualquier momento tecleando la tecla Esc. Si ya te encuentras en la línea de comandos, escribe bye() para salir y guardar tu progreso. Cuando salgas de esta forma, observarás un mensaje corto avisando que lo has hecho correctamente."
 
 "Let's get started!":
- "¡Empezámonos ya!"
+ "¡Empecemos!"
 
 "Would you like to continue with one of these lessons?":
- "¿Quisiera usted reanudar una de estas lecciones?"
+ "¿Quisieras reanudar alguna de estas lecciones?"
 
 "No. Let me start something new.":
- "No. Déjame empeza con algo nuevo."
+ "No. Déjame iniciar con algo nuevo."
 
 "Please choose a course, or type 0 to exit swirl.":
- "Por favor escoga un curso, or teclee 0 para salir de swirl."
+ "Por favor escoge un curso o teclea 0 para salir de swirl."
 
 "Take me to the swirl course repository!":
- "¡Llévame al respositorio de los cursos swirl!"
+ "¡Llévame al depósito de cursos swirl!"
 
 "Please choose a lesson, or type 0 to return to course menu.":
- "Seleccione una lección por favor, o teclee 0 para volver al menú del curso."
+ "Selecciona una lección por favor, o teclea 0 para volver al menú del curso."
+
+ #ADDED
+"Please don't use any quotes or other punctuation in your name.":
+ "Por favor no uses ningún tipo de comillas u otro tipo de puntuación en tu nombre."
+
+# ALSO ADDED
+
+"right now. Are you sure you have an internet connection?":
+ "en este momento. ¿Estás seguro de que tienes una conexión a Internet?"
+
+"If so, would you like to try again or visit":
+ "Si es así, quieres intentar de nuevo o visita"
+
+"the course repository for instructions on how to":
+ "el depósito del curso para obtener instrucciones sobre cómo"
+
+"install a course manually? Type 0 to exit.":
+ "instalar manualmente un curso? Escribe 0 para salir."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n... <-- Ésta es la señal para presionar Enter y continuar"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nSelecciona 1, 2 ó 3, y presiona Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "Puedes salir de swirl y volver a la línea de comandos de R (>) en cualquier momento pulsando la tecla Esc. Si ya te encuentras en la línea de comandos, teclea bye() para salir para salir y guardar tu progreso. Cuando salgas correctamente, verás un mensaje corto que te hará saberlo."
+
 
 # options.R
 
 "Please provide arguments so that appropriate options can be set.":
- "Por favor proporcione los argumentos para que las opciones adecuadas puedan ser adjustadas."
+ "Por favor proporciona los argumentos para que las opciones adecuadas puedan ser establecidas."
 
 "Options set successfully!":
- "Las opciones se estableció éxitosamente!"
+ "¡Las opciones se establecieron exitosamente!"
 
 "Option name '":
  "La opción denominada '"
@@ -364,179 +456,213 @@
  "¡Opción '"
 
 "' deleted successfully!":
- "' se borró con éxito!"
+ "' borrada con éxito!"
 
 # Phrases.R
 
 "You got it!" :
- "You got it!"
+ "¡Muy bien!"
 
 "Nice work!":
- "Nice work!"
+ "¡Bien hecho!"
 
 "Keep up the great work!":
- "Keep up the great work!"
+ "¡Mantén este buen nivel!"
 
 "You are doing so well!":
- "You are doing so well!"
+ "¡Lo estás haciendo muy bien!"
 
 "You nailed it! Good job!":
- "You nailed it! Good job!"
+ "¡Lo has logrado! ¡Buen trabajo!"
 
 "You're the best!":
- "You're the best!"
+ "¡Eres el mejor!"
 
 "You are amazing!":
- "You are amazing!"
+ "¡Es asombroso!"
 
 "Great job!":
- "Great job!"
+ "¡Buen trabajo!"
+#"¡Buenazo!"  % esto no traduce el sentimiento original, pero busco más variedad y diversión para los chicos
 
 "You are quite good my friend!":
- "You are quite good my friend!"
+ "¡Amigo, eres bastante bueno!"
 
 "You got it right!":
- "You got it right!"
+ "¡Acertaste!"
 
 "That's correct!":
- "That's correct!"
+ "¡Eso es correcto!"
 
 "You are really on a roll!":
- "You are really on a roll!"
+ "¡Traes una muy buena racha!"
 
 "Excellent job!":
- "Excellent job!"
+ "¡Excelente!"
 
 "That's a job well done!":
- "That's a job well done!"
+ "¡Eso es trabajo bien hecho!"
 
 "Almost! Try again.":
- "Almost! Try again."
+ "¡Casi! Vuelve a intentar de nuevo."
 
 "You almost had it, but not quite. Try again.":
- "You almost had it, but not quite. Try again."
+ "¡Por poco lo tenía! Inténtalo de nuevo."
 
 "Give it another try.":
- "Give it another try."
+ "Intenta de nuevo."
 
 "Not quite! Try again.":
- "Not quite! Try again."
+ "No, ¡casi!, pero no. Intenta de nuevo."
 
 "Not exactly. Give it another go.":
- "Not exactly. Give it another go."
+ "No exactamente. Dele otra oportunidad."
 
 "That's not exactly what I'm looking for. Try again.":
- "That's not exactly what I'm looking for. Try again."
+ "Eso no es precisamente lo que buscaba. Trata otra vez."
 
 "Nice try, but that's not exactly what I was hoping for. Try again.":
- "Nice try, but that's not exactly what I was hoping for. Try again."
+ "Un buen intento, pero no es exactamente lo que yo esperaba. Inténtalo de nuevo."
 
 "Keep trying!":
- "Keep trying!"
+ "¡Sigue intentando!"
 
 "That's not the answer I was looking for, but try again.":
- "That's not the answer I was looking for, but try again."
+ "No es la respuesta que yo buscaba, pero intenta nuevamente."
 
 "Not quite right, but keep trying.":
- "Not quite right, but keep trying."
+ "Por poco era correcto, sigue intentándolo."
 
 "You're close...I can feel it! Try it again.":
- "You're close...I can feel it! Try it again."
+ "Estás muy cerca... ¡Puedo sentirlo! Inténtalo de nuevo."
 
 "Correct!":
  "¡Correcto!"
 
 "Incorrect. Please try again.":
- "Incorrecto. Por favor, vuelve a intentar de nuevo."
+ "Incorrecto. Por favor, vuelve a intentarlo."
+
+ #ADDED
+"All that hard work is paying off!":
+  "¡Todo ese trabajo está rindiendo frutos!"
+
+"Keep working like that and you'll get there!":
+  "¡Sigue trabajando de esa manera y llegarás lejos!"
+
+"Perseverance, that's the answer.":
+  "Perseverancia es la respuesta."
+
+"Your dedication is inspiring!":
+  "¡Tu dedicación es inspiradora!"
+
+"All that practice is paying off!":
+  "¡Toda esa práctica está rindiendo frutos!"
+
+"Excellent work!":
+  "¡Excelente trabajo!"
+
+"That's the answer I was looking for.":
+  "Esa es la respuesta que estaba buscando."
+
+"One more time. You can do it!":
+  "Una vez más. ¡Tú puedes hacerlo!"
+
+"Not quite, but you're learning! Try again.":
+  "¡No tan bien, pero estás aprendiendo! Intenta de nuevo."
+
+"Try again. Getting it right on the first try is boring anyway!":
+  "Intenta de nuevo. ¡De cualquier forma hacerlo bien a la primera es aburrido!"
 
 # post.R
 
-"Lesson complete! Exiting swirl now...":
-  "¡Lección completa! Saliendo de swirl ahora..."
+#"Lesson complete! Exiting swirl now...":
+#  "¡Lección completada! Saliendo de swirl ahora..."
 
 # progress.R
 
 "Please enter a valid username.":
- "Por favor ingrese un usuario válido."
+ "Por favor ingresa un usuario válido."
 
 "Deleted progress for user: ":
  "Se borró el progreso del usuario: "
 
 "Could not find account for user: ":
- "No se ha podido encontrar la cuenta de un usuario: "
+ "No se ha podido encontrar la cuenta de usuario: "
 
 # swirl.R
 
 "Leaving swirl now. Type swirl() to resume.":
- "Saliendo de swirl ahora. Teclee swirl() para reanudarse."
+ "Saliendo de swirl ahora. Teclea swirl() para reanudar."
 
 "When you are at the R prompt (>):":
- "Cuando esté en el indicador de R (>):"
+ "Cuando estés en el indicador de R (>):"
 
 "-- Typing skip() allows you to skip the current question.":
- "-- Al teclear skip() se salta la pregunta actual."
+ "-- Teclear skip() te permite saltar la pregunta actual."
 
 "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
- "-- Al teclear play() swirl le deja experimentar con R en paz; swirl no hará caso de lo que usted haga..."
+ "-- Teclear play() swirl te deja experimentar con R; swirl no hará caso de lo que teclees..."
 
 "-- UNTIL you type nxt() which will regain swirl's attention.":
- "-- HASTA QUE ingrese nxt(), lo que le va a recuperar la atención de swirl."
+ "-- HASTA que ingreses nxt(), vas a recuperar la atención de swirl."
 
 "-- Typing bye() causes swirl to exit. Your progress will be saved.":
- "-- Al teclear bye() swirl se acabe. Swirl guardara su progreso."
+ "-- Al teclear bye() swirl terminará. Tu progreso se guardará."
 
 "-- Typing main() returns you to swirl's main menu.":
- "-- Al teclear main() le devuelva al menu principal de swirl."
+ "-- Al teclear main() te regresa al menú principal de swirl."
 
 "-- Typing info() displays these options again.":
- "-- Al teclear info() se va a demostrar estas opciones de nuevo."
+ "-- Teclear info() muestra estas opciones de nuevo."
 
 "Resuming lesson...":
  "Reanudando la lección..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Se está enterando el modo de juego. Experimente a su gusto, entonces presione nxt() cuando esté listo de continuar con la lección."
+ "Se está entrando en modo juego. Experimenta a su gusto; presiona nxt() cuando estés listo para continuar con la lección."
 
 "Entering the following correct answer for you...":
- "Ingresando el seguiente respuesta correcta por su parte..."
+ "Ingresando la siguiente respuesta correcta..."
 
 "Returning to the main menu...":
  "Volviendo al menú principal..."
 
 "Lesson complete! Exiting swirl now...":
- "¡Lección completa! Saliendo de swirl ahora..."
+ "¡Lección completa! Saliendo de swirl..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
- "¡Usted ha alcanzado el fin de esta lección! Volviendo al menú principal..."
+ "¡Has alcanzado el fin de esta lección! Volviendo al menú principal..."
 
 "I just sourced the following script, which demonstrates one possible solution.":
- "Acabo de sacar el siguiente guión, lo que demuestra una posible solución."
+ "Acabo de cargar el siguiente script, que demuestra una posible solución."
 
 "Press Enter when you are ready to continue...":
- "Presione Intro cuando usted esté listo para continuar..."
+ "Presiona Enter cuando estés listo para continuar..."
 
-"Hi! I see that you have some variables saved in your":
- "¡Hola! Veo que usted tiene algunos objetos guardados en su "
+#"Hi! I see that you have some variables saved in your":
+# "¡Hola! Veo que tienes algunas variables guardadas en tu"
 
 # zzz.R
 
 "Hi! I see that you have some variables saved in your":
- "¡Hola! Veo que usted tiene algunos objetos guardados en su "
+ "¡Hola! Veo que tienes algunas variables guardadas en tu"
 
 "workspace. To keep things running smoothly, I recommend you clean up":
- "espacio de trabjo. Para que todo funcione bién, le recomiendo que limpie"
+ "espacio de trabajo. Para que todo funcione bien, te recomiendo que limpies"
 
 "before starting swirl.":
  "antes de iniciar swirl."
 
 "Type ls() to see a list of the variables in your workspace.":
- "Teclee ls() para ver un listado de las variables en su espacio de trabajo."
+ "Teclea ls() para ver un listado de las variables en tu espacio de trabajo."
 
 "Then, type rm(list=ls()) to clear your workspace.":
- "Luego, teclee rm(list=ls()) para limpiar todos objetos de su espacio de trabajo."
+ "Luego, teclea rm(list=ls()) para limpiar todos los objetos de tu espacio de trabajo."
 
 "Type swirl() when you are ready to begin.":
- "Teclee swirl() cuando esté listo para empezar."
+ "Teclea swirl() cuando estés listo para empezar."
 
 "Hi! Type swirl() when you are ready to begin.":
- "¡Hola! Teclee swirl() cuando esté listo para empezar."
+ "¡Hola! Teclea swirl() cuando estés listo para empezar."
+
+

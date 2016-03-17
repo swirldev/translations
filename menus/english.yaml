@@ -6,8 +6,8 @@
 "Sourcing your script...":
  "Sourcing your script..."
 
-"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
 
 "Returning to the main menu...":
  "Returning to the main menu..."
@@ -146,8 +146,8 @@
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
 
-"then your course ID would be 'rprog-001' (without the quotes).":
- "then your course ID would be 'rprog-001' (without the quotes)."
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "then your course ID would be 'rprog-001' (without the quotes)."
 
 "Submission login (email): ":
  "Submission login (email): "
@@ -222,6 +222,18 @@
 
 "Course directory is too large to install":
  "Course directory is too large to install"
+
+"Please specify a value for either course_name or swc_path but not both.":
+ "Please specify a value for either course_name or swc_path but not both."
+
+"It looks like your internet connection is not working.":
+ "It looks like your internet connection is not working."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+ "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install."
+
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "After downloading the .swc run install_course() and choose the file you downloaded."
 
 # instructionSet.R
 
@@ -304,10 +316,10 @@
 "Thanks, ":
  "Thanks, "
 
-". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
- ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First off, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
+ ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
 
- "...  <-- That's your cue to press Enter to continue":
+"...  <-- That's your cue to press Enter to continue":
  "...  <-- That's your cue to press Enter to continue"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
@@ -500,11 +512,11 @@
 "Entering the following correct answer for you...":
  "Entering the following correct answer for you..."
 
-"Returning to the main menu...":
- "Returning to the main menu..."
+#"Returning to the main menu...":
+# "Returning to the main menu..."
 
-"Lesson complete! Exiting swirl now...":
- "Lesson complete! Exiting swirl now..."
+#"Lesson complete! Exiting swirl now...":
+# "Lesson complete! Exiting swirl now..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
  "You've reached the end of this lesson! Returning to the main menu..."
@@ -537,3 +549,69 @@
 
 "Hi! Type swirl() when you are ready to begin.":
  "Hi! Type swirl() when you are ready to begin."
+
+# New for swirl 2.4
+
+"Could not connect to course file.":
+ "Could not connect to course file."
+
+"Are you sure you want to uninstall all swirl courses?":
+ "Are you sure you want to uninstall all swirl courses?"
+
+"This will delete all of the contents of your swirl course directory.":
+ "This will delete all of the contents of your swirl course directory."
+
+"right now. Are you sure you have an internet connection?":
+ "right now. Are you sure you have an internet connection?"
+
+"If so, would you like to try again or visit":
+ "If so, would you like to try again or visit"
+
+"the course repository for instructions on how to":
+ "the course repository for instructions on how to"
+
+"install a course manually? Type 0 to exit.":
+ "install a course manually? Type 0 to exit."
+
+"Please don't use any quotes or other punctuation in your name.":
+ "Please don't use any quotes or other punctuation in your name."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n...  <-- That's your cue to press Enter to continue"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nSelect 1, 2, or 3 and press Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so."
+
+"All that hard work is paying off!":
+ "All that hard work is paying off!"
+
+"Keep working like that and you'll get there!":
+ "Keep working like that and you'll get there!"
+
+"Perseverance, that's the answer.":
+ "Perseverance, that's the answer."
+
+"Your dedication is inspiring!":
+ "Your dedication is inspiring!"
+
+"All that practice is paying off!":
+ "All that practice is paying off!"
+
+"Excellent work!":
+ "Excellent work!"
+
+"That's the answer I was looking for.":
+ "That's the answer I was looking for."
+
+"One more time. You can do it!":
+ "One more time. You can do it!"
+
+"Not quite, but you're learning! Try again.":
+ "Not quite, but you're learning! Try again."
+
+"Try again. Getting it right on the first try is boring anyway!":
+ "Try again. Getting it right on the first try is boring anyway!"
+
