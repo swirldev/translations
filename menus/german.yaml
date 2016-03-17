@@ -218,10 +218,23 @@
  "Der Kurs "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " existiert nicht im Verzeichnis. Achte auf die Groß- und Kleinschreibung der Kursnamen!":
+ " existiert nicht im Verzeichnis. Achte auf die Groß- und Kleinschreibung der Kursnamen!"
 
 "Course directory is too large to install":
  "Das Kursverzeichnis ist zu groß, um installiert werden zu können."
+
+"Please specify a value for either course_name or swc_path but not both.":
+ "Bitte gebe einen Wert an für entweder course_name oder swc_path, aber nicht beides."
+
+"It looks like your internet connection is not working.":
+ "Es sieht so aus, als würde deine INternetverbindung nicht arbeiten."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+ "Gehe auf http://swirlstats.com/scn/ und lade die .swc Datei zu dem Kurs, den du installieren möchtest."
+
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "Benutze install_course() und wähle die .swc Datei aus, die du gerade herunter geladen hast."
+
 
 # instructionSet.R
 
@@ -306,10 +319,10 @@
  "Danke, "
 
 ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
- ". Lass mich ein paar Grundlagen erklären, bevor wir mit der ersten Lektion beginnen. Zuallererst: immer wenn du '...' siehst, bedeutet das, dass du Enter drücken sollst, wenn du fertig mit lesen und bereit zum fortfahren bist."
+ ". Lass mich ein paar Grundlagen erklären, bevor wir mit der ersten Lektion beginnen. Zuallererst, immer wenn du '...' siehst, bedeutet das, dass du Enter drücken sollst, wenn du fertig mit lesen und bereit zum fortfahren bist."
 
 "...  <-- That's your cue to press Enter to continue":
- "...  <-- Das ist dein Stichwort um Enter zu drücken, um fortzufahren."
+ "...  <-- Das ist dein Stichwort! Drücke Enter um fortzufahren."
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
  "Wenn du 'ANTWORTE:' oder die R Eingabeaufforderung (>) siehst, oder wenn du gefragt wirst von einer Liste auszuwählen, heißt das, dass es an dir ist eine Antwort einzugeben. Wenn du fertig bist drücke Enter um fortzufahren."
@@ -388,13 +401,13 @@
  "Du bist Spitze!"
 
 "You are amazing!":
- "Du bist großaratig!"
+ "Du bist großartig!"
 
 "Great job!":
  "Gut gemacht!"
 
 "You are quite good my friend!":
- "Du machst das sehr gut, mein Freund!"
+ "Du machst das sehr gut!"
 
 "You got it right!":
  "Das war genau richtig!"
@@ -406,7 +419,7 @@
  "Da bist du genau auf dem richtigen Weg!"
 
 "Excellent job!":
- "Excellente Arbeit!"
+ "Exzellente Arbeit!"
 
 "That's a job well done!":
  "So ist es genau richtig!"
@@ -516,10 +529,6 @@
 "Press Enter when you are ready to continue...":
  "Drücke Enter wenn du bereit zum fortfahren bist..."
 
-# why does this sentence double?
-#"Hi! I see that you have some variables saved in your":
-# "Hi! Ich sehe, dass du einige Variablen gespeichert hast in deinem"
-
 # zzz.R
 
 "Hi! I see that you have some variables saved in your":
@@ -541,4 +550,69 @@
  "Tippe swirl(), wenn du bereit zum Beginnen bist."
 
 "Hi! Type swirl() when you are ready to begin.":
- "Hi! Tippe swirl(), wnen du bereit zum Beginnen bist."
+ "Hi! Tippe swirl(), wenn du bereit zum Beginnen bist."
+
+ # New for swirl 2.4
+
+"Could not connect to course file.":
+ "Konnte nicht zu Kurs-Datei verbinden."
+
+"Are you sure you want to uninstall all swirl courses?":
+ "Bist du sicher, dass du alle swirl-Kurse deinstallieren möchtest?"
+
+"This will delete all of the contents of your swirl course directory.":
+ "Dies wird den gesamten Inhalt deines swirl-Verzeichnisses löschen."
+
+"right now. Are you sure you have an internet connection?":
+ "gerade jetzt. Bist du sicher, dass du eine Verbindung zum Internet hast?"
+
+"If so, would you like to try again or visit":
+ "Wenn ja, würdest du es gerne noch mal versuchen oder möchtest du"
+
+"the course repository for instructions on how to":
+ "das Kurs-Repository besuchen, für weitere Instruktionen, wie man"
+
+"install a course manually? Type 0 to exit.":
+ "einen Kurs manuell installieren kann? Tippe 0 um zu beenden."
+
+"Please don't use any quotes or other punctuation in your name.":
+ "Bitte benutze keine Anführungzeichen oder andere Satztzeichen in deinem Namen."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n...  <-- Das ist das Zeichen, dass du Enter drücken sollst um fortzufahren"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nWähle 1, 2, oder 3 und presse Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "Du kannst jederzeit swirl beenden und zur R Eingabeaufforderung (>) zurück kehren, indem du Esc drückst. Wenn du schon in der Eingabeaufforderung bist, tippe bye() um swirl zu beenden und deinen Fortschritt zu speichern. Wenn du swirl auf die richtige Weise beendest, bekommst du eine kurze Bestätigungsmeldung."
+
+"All that hard work is paying off!":
+ "All die harte Arbeit zahlt sich nun aus!"
+
+"Keep working like that and you'll get there!":
+ "Mach weiter so und du wirst Großes erreichen!"
+
+"Perseverance, that's the answer.":
+ "Hartnäckig bleiben, das ist die Antwort!"
+
+"Your dedication is inspiring!":
+ "Dein Hingabe ist beeindruckend!"
+
+"All that practice is paying off!":
+ "Das viele Üben zahlt sich aus!"
+
+"Excellent work!":
+ "Exzellente Arbeit!"
+
+"That's the answer I was looking for.":
+ "Das ist die Antwort, die ich haben wollte."
+
+"One more time. You can do it!":
+ "Ein Versuch noch. Du kannst das!"
+
+"Not quite, but you're learning! Try again.":
+ "Nicht ganz, aber du lernst dazu! Probier's noch mal."
+
+"Try again. Getting it right on the first try is boring anyway!":
+ "Probier's noch mal. Es beim ersten Mal richtig zu machen ist sowieso langweilig!"
