@@ -1,7 +1,7 @@
 # actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "Ich habe gerade das Script in den Originalzustand zurück gesetzt. Wenn es nicht sofort neu läd, könnte es sein, dass du es noch mal anklicken musst."
+ "Ich habe gerade das Script in den Originalzustand zurück gesetzt. Wenn es nicht sofort neu lädt, könnte es sein, dass du es noch mal anklicken musst."
 
 "Sourcing your script...":
  "Dein Script wird neu geladen..."
@@ -78,10 +78,10 @@
  "Ich habe Coursera informiert, dass du die Lektion abgeschlossen hast."
 
 "I'm sorry, something went wrong with automatic submission.":
- "Entschuldigung, irgendwas ist schief gelaufen mit der automatischen Übertragung."
+ "Leider ist bei der automatischen Übertragung etwas schief gelaufen."
 
 "I'm sorry, something went wrong with establishing connection.":
- "Entschuldigung, es konnte keine Verbindung aufgebaut werden."
+ "Leider konnte keine Verbindung aufgebaut werden."
 
 "To notify Coursera that you have completed this lesson,":
  "Um Coursera zu informieren, dass du die Lektion abgeschlossen hast,"
@@ -96,7 +96,7 @@
  "Assignments Seite auf deiner Kurs-Seite aufrufst und den Submit-Button"
 
 "button next to the appropriate swirl lesson.":
- "neben der entsprechenden swirl-Lektion auswählst."
+ "neben der entsprechenden Swirl-Lektion auswählst."
 
 "I've placed the file in the following directory:":
  "Ich habe die Datei in das folgende Verzeichnis gelegt:"
@@ -105,7 +105,7 @@
  "Soll ich die automatische Übermittlung noch einmal versuchen oder willst du lieber manuell hochladen?"
 
 "Retry automatic submission":
- "Versuche Übermitllung erneut"
+ "Versuche Übermittlung erneut"
 
 "Submit manually":
  "Übertrage manuell"
@@ -114,7 +114,7 @@
  "Die erste Angabe, die ich benötige ist deine Kurs-ID. Wenn die Seite"
 
 "homepage for your Coursera course was":
- "für deinen Coursera-Kurs z.B."
+ "für deinen Coursera-Kurs z. B."
 
 "then your course ID would be 'rprog-001' (without the quotes).":
  "war, dann wäre deine ID 'rprog-001' (ohne die Anführungszeichen)."
@@ -129,7 +129,7 @@
  "Es sieht so aus, als hättest du eine numerische ID eingegeben, was nicht das ist,"
 
 "It looks like you entered the Course ID that I used as an":
- "Es sieht so aus, als ob du die Kurs-ID eingegeben, die ich als"
+ "Es sieht so aus, als ob du die Kurs-ID eingegeben hast, die ich als"
 
 "example, which is not what I'm looking for.":
  "Beispiel gegeben habe. Das ist nicht das, was ich brauche."
@@ -141,7 +141,7 @@
  "Teil der Webadresse deines Coursera-Kurses ist."
 
 "For example, if the homepage for your Coursera course was":
- "Zum Beispiel, wenn die Homepage deines Coursera-Kurse"
+ "Zum Beispiel, wenn die Homepage deines Coursera-Kurses"
 
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
@@ -185,7 +185,7 @@
  "Bitte gebe einen gültigen Namen für den mirror ein. ('github' oder 'bitbucket')"
 
 "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
- "Um auf swirl Kurse in Entwicklung auf Bitbucket zugreifen zu können, gehe auf https://bitbucket.org/swirldevmirror/swirl_misc"
+ "Um auf Swirl-Kurse, die sich in der Entwicklung befinden, auf Bitbucket zugreifen zu können, gehe auf https://bitbucket.org/swirldevmirror/swirl_misc"
 
 "Course '":
  "Der Kurs '"
@@ -194,7 +194,7 @@
  "' konnte nicht im Kurs-Repository gefunden werden! "
 
 "Make sure you've got the name exactly right, then try again.":
- "Stelle sicher, dass du den Namen richtig geschrieben hast, dann pobiere es erneut."
+ "Stelle sicher, dass du den Namen richtig geschrieben hast, dann probiere es erneut."
 
 "Course uninstalled successfully!":
  "Der Kurs wurde erfolgreich deinstalliert!"
@@ -224,10 +224,10 @@
  "Das Kursverzeichnis ist zu groß, um installiert werden zu können."
 
 "Please specify a value for either course_name or swc_path but not both.":
- "Bitte gebe einen Wert an für entweder course_name oder swc_path, aber nicht beides."
+ "Bitte gebe entweder für course_name oder für swc_path einen Wert an, aber nicht für beides."
 
 "It looks like your internet connection is not working.":
- "Es sieht so aus, als würde deine INternetverbindung nicht arbeiten."
+ "Es sieht so aus, als würde deine Internetverbindung nicht funktionieren."
 
 "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
  "Gehe auf http://swirlstats.com/scn/ und lade die .swc Datei zu dem Kurs, den du installieren möchtest."
@@ -307,10 +307,10 @@
  "OK, ich werde das Kurs-Repository in deinem Browser öffnen."
 
 "OK. I'm opening the swirl courses web page in your browser.":
- "OK, ich werde doe swirl Kurs Seite in deinem Browser öffnen."
+ "OK, ich werde die Webseite der Swirl-Kurse in deinem Browser öffnen."
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
- "Willkommen zu swirl! Bitte melde dich an. Wenn du vorher schon hier warst, benutze den gleichn namen wie zuvor. Wenn du neu bist gebe dir einen eindeutigen Namen."
+ "Willkommen zu Swirl! Bitte melde dich an. Wenn du vorher schon hier warst, benutze den gleichen Namen wie zuvor. Wenn du neu bist gebe dir einen eindeutigen Namen."
 
 "What shall I call you? ":
  "Wie soll ich dich nennen?  "
@@ -325,7 +325,7 @@
  "...  <-- Das ist dein Stichwort! Drücke Enter um fortzufahren."
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
- "Wenn du 'ANTWORTE:' oder die R Eingabeaufforderung (>) siehst, oder wenn du gefragt wirst von einer Liste auszuwählen, heißt das, dass es an dir ist eine Antwort einzugeben. Wenn du fertig bist drücke Enter um fortzufahren."
+ "Wenn du 'ANTWORTE:' oder die R Eingabeaufforderung (>) siehst, oder wenn du aufgefordert wirst, aus einer Liste auszuwählen, heißt das, dass es an dir ist eine Antwort einzugeben. Wenn du fertig bist, drücke Enter um fortzufahren."
 
 "Continue.":
  "Fortsetzen."
@@ -337,10 +337,10 @@
  "Lass uns loslegen!"
 
 "Select 1, 2, or 3 and press Enter":
- "Wähle 1, 2, or 3 und drücke Enter"
+ "Wähle 1, 2, oder 3 und drücke Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "Du kannst jederzeit swirl beenden und zur R Eingabeaufforderung (>) zurückkehren, indem du Esc drückst. Wenn du schon in der Eingabeaufforderung bist, tippe bye() um swirl zu beenden und deinen Fortschritt zu speichern. Als Bestätigung bekommst du eine kurze Mitteilung angezeigt, dass dein Fortschritt gespeichert wurde."
+ "Du kannst jederzeit Swirl beenden und zur R Eingabeaufforderung (>) zurückkehren, indem du Esc drückst. Wenn du schon in der Eingabeaufforderung bist, tippe bye() um Swirl zu beenden und deinen Fortschritt zu speichern. Als Bestätigung bekommst du eine kurze Mitteilung angezeigt, dass dein Fortschritt gespeichert wurde."
 
 "Let's get started!":
  "Lass uns anfangen!"
@@ -352,13 +352,13 @@
  "Nein, lass mich etwas neues starten."
 
 "Please choose a course, or type 0 to exit swirl.":
- "Bitte wähle einen Kurs, oder tippe 0 um swirl zu beenden."
+ "Bitte wähle einen Kurs, oder tippe 0 um Swirl zu beenden."
 
 "Take me to the swirl course repository!":
- "Bring mich zum swirl Kurs Repository!"
+ "Bring mich zum Swirl-Kurs-Repository!"
 
 "Please choose a lesson, or type 0 to return to course menu.":
- "Bitte wähle eine Lektion, oder tippe 0 um zum Kurs-Menü zurück zu kehren."
+ "Bitte wähle eine Lektion, oder tippe 0, um zum Kurs-Menü zurück zu kehren."
 
 # options.R
 
@@ -443,7 +443,7 @@
  "Das ist nicht ganz das, was ich haben wollte. Versuch's noch mal."
 
 "Nice try, but that's not exactly what I was hoping for. Try again.":
- "Guter Versuch, aber das ist nicht ganz das wonach ich gesucht habe. Versuch's noch mal."
+ "Guter Versuch, aber das ist nicht ganz das, wonach ich gesucht habe. Versuch's noch mal."
 
 "Keep trying!":
  "Nicht aufgeben! Probier's noch mal!"
@@ -461,7 +461,7 @@
  "Richtig!"
 
 "Incorrect. Please try again.":
- "Falsch. Bitter versuch es noch einmal."
+ "Falsch. Bitte versuch es noch einmal."
 
 # post.R
 
@@ -491,10 +491,10 @@
  "-- Wenn du skip() eintippst, kannst du die aktuelle Frage überspringen."
 
 "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
- "-- Wenn du play() eintippst, kannst du frei in R experimentieren. Swirl wird ignorieren was du dort tust..."
+ "-- Wenn du play() eintippst, kannst du frei in R experimentieren. Swirl wird ignorieren was du dort tust ..."
 
 "-- UNTIL you type nxt() which will regain swirl's attention.":
- "-- ...bis du nxt() eintippst, was dich wieder zurück zu swirl bringt."
+ "-- ... bis du nxt() eintippst, was dich wieder zurück zu swirl bringt."
 
 "-- Typing bye() causes swirl to exit. Your progress will be saved.":
  "-- Wenn du bye() eintippst, wird Swirl beendet. Dein Fortschritt wird gespeichert."
@@ -506,28 +506,28 @@
  "-- Wenn du info() eintippst, werden diese Optionen wieder angezeigt."
 
 "Resuming lesson...":
- "Setze die Lektion fort..."
+ "Setze die Lektion fort ..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
  "Beginne den Probiermodus. Experimentiere wie es dir gefällt, dann tippe nxt(), wenn du bereit bist um die Lektion fortzusetzen."
 
 "Entering the following correct answer for you...":
- "Ich gebe die folgende korrekte Antwort für dich ein..."
+ "Ich gebe die folgende korrekte Antwort für dich ein ..."
 
 "Returning to the main menu...":
- "Gehe zum Hauptmenü..."
+ "Gehe zum Hauptmenü ..."
 
 "Lesson complete! Exiting swirl now...":
- "Lektion erfolgreich abgeschlossen! Beende swirl jetzt..."
+ "Lektion erfolgreich abgeschlossen! Beende swirl jetzt ..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
- "Du hast das Ende der Lektion erreicht! Kehre zurück zum Hauptmenü..."
+ "Du hast das Ende der Lektion erreicht! Kehre zurück zum Hauptmenü ..."
 
 "I just sourced the following script, which demonstrates one possible solution.":
  "Ich habe gerade das folgende Skript geladen und ausgeführt, was dir eine mögliche Lösung zeigen soll."
 
 "Press Enter when you are ready to continue...":
- "Drücke Enter wenn du bereit zum fortfahren bist..."
+ "Drücke Enter wenn du bereit zum fortfahren bist ..."
 
 # zzz.R
 
@@ -558,10 +558,10 @@
  "Konnte nicht zu Kurs-Datei verbinden."
 
 "Are you sure you want to uninstall all swirl courses?":
- "Bist du sicher, dass du alle swirl-Kurse deinstallieren möchtest?"
+ "Bist du sicher, dass du alle Swirl-Kurse deinstallieren möchtest?"
 
 "This will delete all of the contents of your swirl course directory.":
- "Dies wird den gesamten Inhalt deines swirl-Verzeichnisses löschen."
+ "Dies wird den gesamten Inhalt deines Swirl-Verzeichnisses löschen."
 
 "right now. Are you sure you have an internet connection?":
  "gerade jetzt. Bist du sicher, dass du eine Verbindung zum Internet hast?"
@@ -573,7 +573,7 @@
  "das Kurs-Repository besuchen, für weitere Instruktionen, wie man"
 
 "install a course manually? Type 0 to exit.":
- "einen Kurs manuell installieren kann? Tippe 0 um zu beenden."
+ "einen Kurs manuell installieren kann? Tippe 0, um zu beenden."
 
 "Please don't use any quotes or other punctuation in your name.":
  "Bitte benutze keine Anführungzeichen oder andere Satztzeichen in deinem Namen."
@@ -582,10 +582,10 @@
  "\n...  <-- Das ist das Zeichen, dass du Enter drücken sollst um fortzufahren"
 
 "\nSelect 1, 2, or 3 and press Enter":
- "\nWähle 1, 2, oder 3 und presse Enter"
+ "\nWähle 1, 2 oder 3 und presse Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
- "Du kannst jederzeit swirl beenden und zur R Eingabeaufforderung (>) zurück kehren, indem du Esc drückst. Wenn du schon in der Eingabeaufforderung bist, tippe bye() um swirl zu beenden und deinen Fortschritt zu speichern. Wenn du swirl auf die richtige Weise beendest, bekommst du eine kurze Bestätigungsmeldung."
+ "Du kannst jederzeit Swirl beenden und zur R Eingabeaufforderung (>) zurück kehren, indem du Esc drückst. Wenn du schon in der Eingabeaufforderung bist, tippe bye() um Swirl zu beenden und deinen Fortschritt zu speichern. Wenn du Swirl auf die richtige Weise beendest, bekommst du eine kurze Bestätigungsmeldung."
 
 "All that hard work is paying off!":
  "All die harte Arbeit zahlt sich nun aus!"
@@ -597,7 +597,7 @@
  "Hartnäckig bleiben, das ist die Antwort!"
 
 "Your dedication is inspiring!":
- "Dein Hingabe ist beeindruckend!"
+ "Deine Hingabe ist beeindruckend!"
 
 "All that practice is paying off!":
  "Das viele Üben zahlt sich aus!"
@@ -615,4 +615,4 @@
  "Nicht ganz, aber du lernst dazu! Probier's noch mal."
 
 "Try again. Getting it right on the first try is boring anyway!":
- "Probier's noch mal. Es beim ersten Mal richtig zu machen ist sowieso langweilig!"
+ "Probier's noch mal. Es beim ersten Mal richtig zu machen, ist sowieso langweilig!"
