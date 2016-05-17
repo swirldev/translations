@@ -166,7 +166,7 @@
  "Ja, ga zo door!"
 
 "No, I need to change something.":
- "NEe, ik moet iets aanpassen."
+ "Nee, ik moet iets aanpassen."
 
 # install_courses.R
 
@@ -177,84 +177,84 @@
  "Course installatie mislukt."
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
- "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!"
+ "Argument 'course_name' moet omringd worden met quotes (i.a.w. een character string)!"
 
 "Argument 'dev' must be either TRUE or FALSE!":
- "Argument 'dev' must be either TRUE or FALSE!"
+ "Argument 'dev' moet of TRUE of FALSE zijn!"
 
 "Please enter a valid name for a mirror. ('github' or 'bitbucket')":
- "Please enter a valid name for a mirror. ('github' or 'bitbucket')"
+ "Geef een geldige naam voor een mirror op, aub. ('github' of 'bitbucket')"
 
 "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
- "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc"
+ "Om toegang te krijgen tot swirl courses op Bitbucket ga naar https://bitbucket.org/swirldevmirror/swirl_misc"
 
 "Course '":
  "Course '"
 
 "' not found in course repository! ":
- "' not found in course repository! "
+ "' niet gevonden in course repository! "
 
 "Make sure you've got the name exactly right, then try again.":
- "Make sure you've got the name exactly right, then try again."
+ "Zorg dat je de naam exact goed hebt, probeer dan opnieuw."
 
 "Course uninstalled successfully!":
- "Course uninstalled successfully!"
+ "Course successvol gedeinstalleerd!"
 
 "Course not found!":
- "Course not found!"
+ "Course niet gevonden!"
 
 "All courses uninstalled successfully!":
- "All courses uninstalled successfully!"
+ "Alle courses succesvol gedeinstalleerd!"
 
 "No courses found!":
- "No courses found!"
+ "Geen courses gevonden!"
 
 "Argument 'multi' must be either TRUE or FALSE.":
- "Argument 'multi' must be either TRUE or FALSE."
+ "Argument 'multi' moet of TRUE of FALSE zijn."
 
 "Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
- "Argument 'which_course' should only be specified when argument 'multi' is TRUE."
+ "Argument 'which_course' zou alleen moeten worden gegeven  wanneer argument 'multi' TRUE is."
 
 "Course ":
  "Course "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " not in specified directory. Be careful, course names are case sensitive!":
+ " niet in speficieke map. Pas op, course namen zijn hoofdlettergevoelig":
 
 "Course directory is too large to install":
- "Course directory is too large to install"
+ "Course folder is te groot om te instaleren"
 
 "Please specify a value for either course_name or swc_path but not both.":
- "Please specify a value for either course_name or swc_path but not both."
+ "Geef een waarde voor course_name of voor swc_path maar niet voor beiden."
 
 "It looks like your internet connection is not working.":
- "It looks like your internet connection is not working."
+ "Het lijkt erop dat jouw internet verbinding niet werkt"
 
 "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
- "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install."
+ "Ga naar http://swirlstats.com/scn/ en download het .swc bestand dat overeenkomst met de  course die je wilt installeren."
 
 "After downloading the .swc run install_course() and choose the file you downloaded.":
- "After downloading the .swc run install_course() and choose the file you downloaded."
+ "Na het downloaden van het .swc bestand, voer install_course() uit en kies het bestand dat je hebt gedownload."
 
 # instructionSet.R
 
 "ANSWER: ":
- "ANSWER: "
+ "ANTWOORD: "
 
 "Yes or No? ":
- "Yes or No? "
+ "Ja of Nee? "
 
 "yes":
- "yes"
+ "ja"
 
 "Type nxt() to continue":
- "Type nxt() to continue"
+ "Type nxt() om door te gaan"
 
 "BUG: There are no tests for this question!":
- "BUG: There are no tests for this question!"
+ "BUG: Er zijn geen tests voor deze vraag!"
 
 "Or, type info() for more options.":
- "Or, type info() for more options."
+ "Of, type info() voor meer opties."
 
 # utilities.R
 
@@ -262,357 +262,357 @@
  "Package"
 
 "loaded correctly!":
- "loaded correctly!"
+ "correct geladen!"
 
 "This lesson requires the":
- "This lesson requires the"
+ "Deze les vereist de "
 
 "package. Would you like me to install it for you now?":
- "package. Would you like me to install it for you now?"
+ "package. Zal ik die nu voor je installeren?"
 
 "Attemping to load lesson dependencies...":
- "Attemping to load lesson dependencies..."
+ "Ik probeer de lesafhankelijkheden te laden..."
 
 "Trying to install package":
- "Trying to install package"
+ "Ik probeer de package te installeren"
 
 "now...":
- "now..."
+ "nu..."
 
 "Could not install package":
- "Could not install package"
+ "Kan de package niet installeren"
 
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
- "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)"
+ "Om te beginnen moet je een course installeren. Ik kan een course voor je installeren van het internet, of ik kan je naar een webpagina sturen (https://github.com/swirldev/swirl_courses) waar je opties en instructies voor het zelf installeren van de courses kan vinden. (Ben je niet met internet verbonden, typ dan 0 om te stoppen.)"
 
 "Don't install anything for me. I'll do it myself.":
- "Don't install anything for me. I'll do it myself."
+ "Installeer niets voor mij. Ik doe het zelf."
 
 "Sorry, but I'm unable to fetch ":
- "Sorry, but I'm unable to fetch "
+ "Sorry, ik kan "
 
 "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
- "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit."
+ "nu niet ophalen. Weet je zeker dat je een internetverbinding hebt? Zo ja, wil je het opnieuw proberen of naar de course repository gaan voor instructies om handmatig een course te installeren? Typ 0 om te stoppen."
 
 "Try again!":
- "Try again!"
+ "Probeer opnieuw!"
 
 "Send me to the course repository for manual installation.":
- "Send me to the course repository for manual installation."
+ "Stuur me naar de course repository voor handmatige installatie."
 
 "OK. I'm opening the swirl course respository in your browser.":
- "OK. I'm opening the swirl course respository in your browser."
+ "OK. Ik open nu de swirl course repositoy in jouw browser."
 
 "OK. I'm opening the swirl courses web page in your browser.":
- "OK. I'm opening the swirl courses web page in your browser."
+ "OK. Ik open nu de swirl courses webpagina in jouw browser."
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
- "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique."
+ "Welkom bij swirl! Log in aub. Als je hier eerder bent geweest, gebruik dan dezelfde naam als toen. Als je nieuw bent, geef jezelf een unieke naam."
 
 "What shall I call you? ":
- "What shall I call you? "
+ "Hoe zal ik je noemen? "
 
 "Thanks, ":
- "Thanks, "
+ "Dankjewel, "
 
 ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
- ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue."
+ ". Laten we een paar snelle huishoud tips bespreken voor we onze eerste les beginnen. Ten eerste moet je weten dat wanneer je '...' ziet, dit betekend dat je op Enter moet drukken wanneer je klaar bent met lezen en wilt doorgaan. "
 
 "...  <-- That's your cue to press Enter to continue":
- "...  <-- That's your cue to press Enter to continue"
+ "...  <-- Dat is jouw teken om op Enter te drukken om door te gaan"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
- "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue."
+ "Bovendien, wanneer je  'ANTWOORD:'ziet, het  prompt (>), of wanneer je wordt gevraagd om uit een lijst te selecteren, dat betekend dat het jouw beurt is om een reactie te geven, druk dan Enter om door gaan."
 
 "Continue.":
- "Continue."
+ "Doorgaan."
 
 "Proceed.":
- "Proceed."
+ "Ga verder."
 
 "Let's get going!":
- "Let's get going!"
+ "Laten we gaan!"
 
 "Select 1, 2, or 3 and press Enter":
- "Select 1, 2, or 3 and press Enter"
+ "Selecteer 1, 2, of 3 en druk Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so."
+ "Je kan op ieder moment swirl verlaten en terugkeren naar de R prompt (>) met de Esc toets. Als je al bij de prompt bent, typ dan bye() om te stoppen en je voortgang op te slaan. Wanneer je juist afsluit zie je een kort bevestigend berichtje."
 
 "Let's get started!":
- "Let's get started!"
+ "Laten we starten!"
 
 "Would you like to continue with one of these lessons?":
- "Would you like to continue with one of these lessons?"
+ "Wil je doorgaan met een van deze lessen??"
 
 "No. Let me start something new.":
- "No. Let me start something new."
+ "Nee. Laat me iets nieuws starten."
 
 "Please choose a course, or type 0 to exit swirl.":
- "Please choose a course, or type 0 to exit swirl."
+ "Kies een course of typ 0 om swirl te verlaten."
 
 "Take me to the swirl course repository!":
- "Take me to the swirl course repository!"
+ "Breng me naar de swirl course repository!"
 
 "Please choose a lesson, or type 0 to return to course menu.":
- "Please choose a lesson, or type 0 to return to course menu."
+ "Kies een les aub, of typ 0 om terug naar het course menu te gaan."
 
 # options.R
 
 "Please provide arguments so that appropriate options can be set.":
- "Please provide arguments so that appropriate options can be set."
+ "Geef argumenten aub, zodat de relevante opties kunnen worden ingesteld."
 
 "Options set successfully!":
- "Options set successfully!"
+ "Opties succesvol ingesteld!"
 
 "Option name '":
- "Option name '"
+ "Optie naam '"
 
 "' not found.":
- "' not found."
+ "' niet gevonden."
 
 "Option '":
- "Option '"
+ "Optie '"
 
 "' deleted successfully!":
- "' deleted successfully!"
+ "' successvol verwijderd!"
 
 # Phrases.R
 
 "You got it!" :
- "You got it!"
+ "Je hebt em  door!"
 
 "Nice work!":
- "Nice work!"
+ "Goed werk!"
 
 "Keep up the great work!":
- "Keep up the great work!"
+ "Ga zo door met dit geweldige werk!"
 
 "You are doing so well!":
- "You are doing so well!"
+ "Je doet het zo goed!"
 
 "You nailed it! Good job!":
- "You nailed it! Good job!"
+ "Spijker op zijn kop! Goed werk!"
 
 "You're the best!":
- "You're the best!"
+ "Je bent de beste!"
 
 "You are amazing!":
- "You are amazing!"
+ "Je bent verbazingwekkend!"
 
 "Great job!":
- "Great job!"
+ "Tof bezig!"
 
 "You are quite good my friend!":
- "You are quite good my friend!"
+ "Je bent behoorlijk goed vriend!"
 
 "You got it right!":
- "You got it right!"
+ "Je hebt het goed!"
 
 "That's correct!":
- "That's correct!"
+ "Dat is correct!"
 
 "You are really on a roll!":
- "You are really on a roll!"
+ "Je bent echt lekker bezig!"
 
 "Excellent job!":
- "Excellent job!"
+ "Uitstekend werk!!"
 
 "That's a job well done!":
- "That's a job well done!"
+ "Perfect!"
 
 "Almost! Try again.":
- "Almost! Try again."
+ "Bijna! Probeer opnieuw.."
 
 "You almost had it, but not quite. Try again.":
- "You almost had it, but not quite. Try again."
+ "Je was er bijna! Probeer opnieuw."
 
 "Give it another try.":
- "Give it another try."
+ "Probeer het nog eens."
 
 "Not quite! Try again.":
- "Not quite! Try again."
+ "Nog niet helemaal! doe nog een poging."
 
 "Not exactly. Give it another go.":
- "Not exactly. Give it another go."
+ "Niet precies. Probeer het nog een keer."
 
 "That's not exactly what I'm looking for. Try again.":
- "That's not exactly what I'm looking for. Try again."
+ "Dat is niet exact wat ik zocht. Probeer opnieuw."
 
 "Nice try, but that's not exactly what I was hoping for. Try again.":
- "Nice try, but that's not exactly what I was hoping for. Try again."
+ "Goede pogin, maar dat is niet waar ik op hoopte. Doe nog een poging."
 
 "Keep trying!":
- "Keep trying!"
+ "Blijf proberen!"
 
 "That's not the answer I was looking for, but try again.":
- "That's not the answer I was looking for, but try again."
+ "Dat was niet waar ik naar zocht, maar probeer opnieuw."
 
 "Not quite right, but keep trying.":
- "Not quite right, but keep trying."
+ "Niet helemaal goed, maar blijf proberen."
 
 "You're close...I can feel it! Try it again.":
- "You're close...I can feel it! Try it again."
+ "Je bent dichtbij... Ik kan het voelen! Probeer nog eens."
 
 "Correct!":
  "Correct!"
 
 "Incorrect. Please try again.":
- "Incorrect. Please try again."
+ "Incorrect. Probeer nog eens alsjeblieft"
 
 # post.R
 
 "Lesson complete! Exiting swirl now...":
- "Lesson complete! Exiting swirl now..."
+ "Les afgerond! Swirl verlaten..."
 
 # progress.R
 
 "Please enter a valid username.":
- "Please enter a valid username."
+ "Geef een valide gebruikersnaam alsjeblieft."
 
 "Deleted progress for user: ":
- "Deleted progress for user: "
+ "Voortgang verwijdert van gebruiker: "
 
 "Could not find account for user: ":
- "Could not find account for user: "
+ "Kon geen account vinden voor gebruiker: "
 
 # swirl.R
 
 "Leaving swirl now. Type swirl() to resume.":
- "Leaving swirl now. Type swirl() to resume."
+ "Swirl verlaten, typ swirl() om weer door te gaan."
 
 "When you are at the R prompt (>):":
- "When you are at the R prompt (>):"
+ "Wanneer je bij de R prompt (>) bent:"
 
 "-- Typing skip() allows you to skip the current question.":
- "-- Typing skip() allows you to skip the current question."
+ "-- kan je de huidige vraag overslaan door  skip() te typen."
 
 "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
- "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do..."
+ "-- doormiddel van  play() kan je op jezelf met R experimenteren; swirl zal wat je doet negeren..."
 
 "-- UNTIL you type nxt() which will regain swirl's attention.":
- "-- UNTIL you type nxt() which will regain swirl's attention."
+ "-- TOTDAT je nxt() typt. dan zal swirl weer aandacht voor je hebben."
 
 "-- Typing bye() causes swirl to exit. Your progress will be saved.":
- "-- Typing bye() causes swirl to exit. Your progress will be saved."
+ "-- Je verlaat swirl door  bye() te typen. Jouw voortgang zal worden opgeslagen."
 
 "-- Typing main() returns you to swirl's main menu.":
- "-- Typing main() returns you to swirl's main menu."
+ "-- Door main() te typen keer je terug naar het hoofdmenu van swirl."
 
 "-- Typing info() displays these options again.":
- "-- Typing info() displays these options again."
+ "-- Deze opties zie je weer als je  info() typt."
 
 "Resuming lesson...":
- "Resuming lesson..."
+ "Les voortzetting..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
+ "Play mode geactiveerd. Experimenteer hoe je wil. Type nxt() om door te gaan met de les."
 
 "Entering the following correct answer for you...":
- "Entering the following correct answer for you..."
+ "Het juiste antwoord wordt voor je ingevuld..."
 
 #"Returning to the main menu...":
-# "Returning to the main menu..."
+# "Naar het hoofdmenu terugkeren..."
 
 #"Lesson complete! Exiting swirl now...":
-# "Lesson complete! Exiting swirl now..."
+# "Les afgerond! Swirl wordt nu verlaten..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
- "You've reached the end of this lesson! Returning to the main menu..."
+ "Je hebt het einde van de les bereikt! Naar het hoofdmenu terugkeren..."
 
 "I just sourced the following script, which demonstrates one possible solution.":
- "I just sourced the following script, which demonstrates one possible solution."
+ "Ik heb het volgende script geladen, welke een mogelijke oplossing demonstreert"
 
 "Press Enter when you are ready to continue...":
- "Press Enter when you are ready to continue..."
+ "Druk op Enter wanneer je klaar bent om door te gaan..."
 
 # zzz.R
 
 "Hi! I see that you have some variables saved in your":
- "Hi! I see that you have some variables saved in your"
+ "Hoi! Ik zie dat je een paar variabelen hebt opgeslagen in jouw"
 
 "workspace. To keep things running smoothly, I recommend you clean up":
- "workspace. To keep things running smoothly, I recommend you clean up"
+ "workspace. Om dingen soepeltjes te laten lopen raad ik je aan om op te ruimen"
 
 "before starting swirl.":
- "before starting swirl."
+ "voordat je met swirl start."
 
 "Type ls() to see a list of the variables in your workspace.":
- "Type ls() to see a list of the variables in your workspace."
+ "Typ ls() om een lijst met alle variabelen in jouw workspace te zien."
 
 "Then, type rm(list=ls()) to clear your workspace.":
- "Then, type rm(list=ls()) to clear your workspace."
+ "Typ dan rm(list=ls()) om je workspace leeg te maken."
 
 "Type swirl() when you are ready to begin.":
- "Type swirl() when you are ready to begin."
+ "Typ swirl() wanneer je klaar bent om te beginnen."
 
 "Hi! Type swirl() when you are ready to begin.":
- "Hi! Type swirl() when you are ready to begin."
+ "Hoi! Typ swirl() wanneer je klaar bent om te beginnen."
 
 # New for swirl 2.4
 
 "Could not connect to course file.":
- "Could not connect to course file."
+ "Kon geen verbinding maken met het course bestand"
 
 "Are you sure you want to uninstall all swirl courses?":
- "Are you sure you want to uninstall all swirl courses?"
+ "Weet je zeker dat je alle swirl courses wil deinstalleren?"
 
 "This will delete all of the contents of your swirl course directory.":
- "This will delete all of the contents of your swirl course directory."
+ "Dit zal heel de inhoud van je swirl course map verwijderen"
 
 "right now. Are you sure you have an internet connection?":
- "right now. Are you sure you have an internet connection?"
+ "op dit moment. Weet je zeker dat je een internetverbinden hebt?"
 
 "If so, would you like to try again or visit":
- "If so, would you like to try again or visit"
+ "Zo ja, wil je opnieuw proberen of"
 
 "the course repository for instructions on how to":
- "the course repository for instructions on how to"
+ "de course repository bezoeken voor instructie over"
 
 "install a course manually? Type 0 to exit.":
- "install a course manually? Type 0 to exit."
+ "handmatig instaleren van courses? Typ 0 om te stoppen."
 
 "Please don't use any quotes or other punctuation in your name.":
- "Please don't use any quotes or other punctuation in your name."
+ "Gebruik geen aanhalingstekens of andere punctuatie in je naam, alsjeblieft."
 
 "\n...  <-- That's your cue to press Enter to continue":
- "\n...  <-- That's your cue to press Enter to continue"
+ "\n...  <-- Dat is jouw teken om op Enter te drukken en door te gaan"
 
 "\nSelect 1, 2, or 3 and press Enter":
- "\nSelect 1, 2, or 3 and press Enter"
+ "\nSelecteer 1, 2, of 3 en druk op Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
- "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so."
+ "Je kan op ieder moment swirl verlaten en terugkeren naar de R prompt (>)  door de Esc toets. Als je al in de prompt ben, typ dan bye() om af te sluiten en je voortgang op te slaan. Je krijgt een kort berichtje wanneer je correct hebt afgesloten."
 
 "All that hard work is paying off!":
- "All that hard work is paying off!"
+ "Al dat harde werken betaalt zich uit!"
 
 "Keep working like that and you'll get there!":
- "Keep working like that and you'll get there!"
+ "Ga zo door en je komt er!"
 
 "Perseverance, that's the answer.":
- "Perseverance, that's the answer."
+ "Volharden, dat is het antwoord.."
 
 "Your dedication is inspiring!":
- "Your dedication is inspiring!"
+ "Jouw toewijding is inspirerend!"
 
 "All that practice is paying off!":
- "All that practice is paying off!"
+ "Al dat oefenen werpt zijn vruchten af!"
 
 "Excellent work!":
- "Excellent work!"
+ "Uitstekend werk!"
 
 "That's the answer I was looking for.":
- "That's the answer I was looking for."
+ "Dat is het antwoord waar ik naar op zoek was.."
 
 "One more time. You can do it!":
- "One more time. You can do it!"
+ "Nog een keer. Je kan het!"
 
 "Not quite, but you're learning! Try again.":
- "Not quite, but you're learning! Try again."
+ "Nog niet, maar je leert! Probeer opnieuw.."
 
 "Try again. Getting it right on the first try is boring anyway!":
- "Try again. Getting it right on the first try is boring anyway!"
+ "Probeer opnieuw. In keer alles goed is ook zo saai!"
 
