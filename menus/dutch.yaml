@@ -1,179 +1,180 @@
 # actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it."
-
+ "Ik heb het script gereset naar de originele staat. Als het niet automatisch ververst, moet je er mogelijk op klikken."
+ 
+# this one is a bit harder, because sourcing is often used although not technically dutch
 "Sourcing your script...":
- "Sourcing your script..."
+ "Je script wordt ingeladen".
 
 #"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
-# "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
+# "Je bent nu in de speelmodus. Experimenteer hoe je wil en type nxt() als je klaar bent om weer met de les door te gaan."
 
 "Returning to the main menu...":
- "Returning to the main menu..."
+ "Terug naar het hoofdmenu..."
 
 "This feature is not implemented yet for Swirl.":
- "This feature is not implemented yet for Swirl."
+ "Deze feature is nog niet geimplementeerd voor Swirl"
 
 # answerTests.R, answerTests2.R
 
 "That's not the expression I expected but it works.":
- "That's not the expression I expected but it works."
+ "Dat is niet de bewoording die ik verwachtte maar het werkt. "
 
 "The given range":
- "The given range"
+ "Het gegeven bereik"
 
 "is not numeric.":
- "is not numeric."
+ "is niet numeriek."
 
 "I've executed the correct expression in case the result is needed in an upcoming question.":
- "I've executed the correct expression in case the result is needed in an upcoming question."
+ "Ik heb de correcte expressie uitgevoerd in het geval dat dat resultaat nodig is voor een volgende vraag."
 
 "does not exist.":
- "does not exist."
+ "bestaat niet."
 
 # args_specification.R
 
 ## Do not translate 'test_course', 'test_lesson', or 'test'.
 "Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
- "Must specify 'test_course' and 'test_lesson' to run in 'test' mode!"
+ "Moet specificeren 'test_course' en 'test_lesson' om de draaien in 'test' modus!"
 
 ## Do not translate 'to' or 'from'.
 "Argument 'to' must be strictly greater than argument 'from'!":
- "Argument 'to' must be strictly greater than argument 'from'!"
+ "Argument 'to' moet strict groter zijn dan argument 'from'!"
 
 # courseraCheck.R
 
 "Are you currently enrolled in the Coursera course associated with this lesson?":
- "Are you currently enrolled in the Coursera course associated with this lesson?"
+ "Ben je op dit moment ingeschreven in een Coursera course die bij deze les hoort?"
 
 "Would you like me to notify Coursera that you've completed this lesson?":
- "Would you like me to notify Coursera that you've completed this lesson?"
+ "Wil je dat ik Coursera laat weten dat je deze les hebt afgerond?"
 
 "If so, I'll need to get some more info from you.":
- "If so, I'll need to get some more info from you."
+ "Zo ja, dan heb ik wat meer information van je nodig."
 
 "Yes":
- "Yes"
+ "Ja"
 
 "No":
- "No"
+ "Nee"
 
 "Maybe later":
- "Maybe later"
+ "Misschien later"
 
 "I'll try to tell Coursera you've completed this lesson now.":
- "I'll try to tell Coursera you've completed this lesson now."
+ "Ik zal Coursera proberen te vertellen dat je deze les hebt afgerond.."
 
 "You skipped too many questions! You'll need to complete":
- "You skipped too many questions! You'll need to complete"
+ "Je hebt teveel vragen overgeslagen. Je zult moeten afronden"
 
 "this lesson again if you'd like to receive credit. Please":
- "this lesson again if you'd like to receive credit. Please"
+ "deze les opnieuw als je credit wil verdienen. Alsjeblieft"
 
 "don't skip more than one question next time.":
- "don't skip more than one question next time."
+ "sla niet meer dan 1 vraag over volgende keer."
 
 "I've notified Coursera that you have completed ":
- "I've notified Coursera that you have completed "
+ "Ik heb Coursera laten weten dat je hebt afgerond "
 
 "I'm sorry, something went wrong with automatic submission.":
- "I'm sorry, something went wrong with automatic submission."
+ "Het spijt me, er ging iets mis met de automatische inlevering."
 
 "I'm sorry, something went wrong with establishing connection.":
- "I'm sorry, something went wrong with establishing connection."
+ "Het spijt me, er ging iets mis met het maken van de verbinding."
 
 "To notify Coursera that you have completed this lesson,":
- "To notify Coursera that you have completed this lesson,"
+ "Om Coursera te laten weten dat je deze les hebt afgerond,"
 
 "please upload":
- "please upload"
+ "upload alsjeblieft"
 
 "to Coursera manually. You may do so by visiting the Programming":
- "to Coursera manually. You may do so by visiting the Programming"
+ "naar Coursera manueel. Dat kan je doen door naar de Programming"
 
 "Assignments page on your course website and selecting the Submit":
- "Assignments page on your course website and selecting the Submit"
+ "Assignments pagina op jouw course website te gaan en de Submit"
 
 "button next to the appropriate swirl lesson.":
- "button next to the appropriate swirl lesson."
+ "knop naast de betreffende swirl les te klikken."
 
 "I've placed the file in the following directory:":
- "I've placed the file in the following directory:"
+ "Ik heb het bestand in de volgende map geplaatst:"
 
 "Would you like to retry automatic submission or just submit manually?":
- "Would you like to retry automatic submission or just submit manually?"
+ "Wil je opnieuw proberen automatisch in te leveren of liever manueel?"
 
 "Retry automatic submission":
- "Retry automatic submission"
+ "Automatische inlevering herproberen"
 
 "Submit manually":
- "Submit manually"
+ "manueel inleveren"
 
 "The first item I need is your Course ID. For example, if the":
- "The first item I need is your Course ID. For example, if the"
+ "Ik heb eerst je Course ID nodig. Bijvoorbeeld, als de"
 
 "homepage for your Coursera course was":
- "homepage for your Coursera course was"
+ "homepage van jouw Coursera course was"
 
 "then your course ID would be 'rprog-001' (without the quotes).":
- "then your course ID would be 'rprog-001' (without the quotes)."
+ "dan zou de Course ID daar zijn 'rprog-001' (zonder quotes)."
 
 "It looks like you entered a web address, which is not what I'm":
- "It looks like you entered a web address, which is not what I'm"
+ "Het lijkt erop dat je een web addres hebt ingevuld, wat niet is waar ik"
 
 "looking for.":
- "looking for."
+ "naar zocht."
 
 "It looks like you entered a numeric ID, which is not what I'm":
- "It looks like you entered a numeric ID, which is not what I'm"
+ "Het lijkt erop dat je een numeriek ID hebt ingevuld, wat niet is waar ik"
 
 "It looks like you entered the Course ID that I used as an":
- "It looks like you entered the Course ID that I used as an"
+ "Het lijkt erop dat je de Course ID hebt ingevuld die ik gebruikte als een"
 
 "example, which is not what I'm looking for.":
- "example, which is not what I'm looking for."
+ "voorbeeld, wat niet is waar ik naar zocht.."
 
 "Instead, I need your Course ID, which is the last":
- "Instead, I need your Course ID, which is the last"
+ "In plaats daarvan heb ik je Course ID nodig, wat het laatste "
 
 "part of the web address for your Coursera course.":
- "part of the web address for your Coursera course."
+ "deel is van het webadres van jouw Coursera course."
 
 "For example, if the homepage for your Coursera course was":
- "For example, if the homepage for your Coursera course was"
+ "Bij voorbeeld, als de homepage van jouw Coursera course was"
 
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
 
 #"then your course ID would be 'rprog-001' (without the quotes).":
-# "then your course ID would be 'rprog-001' (without the quotes)."
+# "dan zou je course ID zijn 'rprog-001' (zonder de quotes)."
 
 "Submission login (email): ":
- "Submission login (email): "
+ "Inlever login (e-mail): "
 
 "Submission password: ":
- "Submission password: "
+ "Inlever wachtwoord: "
 
 "Is the following information correct?":
- "Is the following information correct?"
+ "Is de volgende information correct?"
 
 "Course ID: ":
  "Course ID: "
 
 "Yes, go ahead!":
- "Yes, go ahead!"
+ "Ja, ga zo door!"
 
 "No, I need to change something.":
- "No, I need to change something."
+ "NEe, ik moet iets aanpassen."
 
 # install_courses.R
 
 "Course installed successfully!":
- "Course installed successfully!"
+ "Course succesvol geinstalleerd!"
 
 "Course installation failed.":
- "Course installation failed."
+ "Course installatie mislukt."
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
  "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!"
