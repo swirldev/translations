@@ -78,7 +78,7 @@
 - Class: text
   Output: Agora, criaremos um pequeno conjunto de números denominados por vetor. Qualquer objeto
     que contém dados é denominado por estrutura de dados e vetores numéricos são o tipo mais simples
-    de estrutura de dados no R. De fato, mesmo um simples número é considerdo um vetor de 
+    de estrutura de dados no R. De fato, mesmo um simples número é considerado um vetor de 
     comprimento unitário.
 
 - Class: cmd_question
