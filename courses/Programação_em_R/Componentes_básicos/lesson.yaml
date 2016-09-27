@@ -130,8 +130,8 @@
 
 - Class: text
   Output: Outros operadores aritméticos comuns são: `+`, `-`, `/`, e `^` (onde x^2
-    significa 'x ao quadrado'). Para obter a raiz quadrada, utiliza a função sqrt();
-    para o valor absoluto, use a função abs().
+    significa 'x ao quadrado'). Para obter a raiz quadrada, utilize a função sqrt();
+    para obter o valor absoluto, use a função abs().
 
 - Class: cmd_question
   Output: Calcule a raíz quadrada de z - 1 e aloque a uma nova variável denominada my_sqrt.
