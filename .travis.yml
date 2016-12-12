@@ -2,4 +2,4 @@ language: r
 cache: packages
 
 script:
-  - Rscript -e 'for (i in list.files(path = file.path("menus"), pattern = "yaml$")){yaml::yaml.load_file(i)}'
+  - Rscript -e 'for (i in list.files(path = file.path("menus"), pattern = "yaml$", full.names = TRUE)){yaml::yaml.load_file(i)}'
