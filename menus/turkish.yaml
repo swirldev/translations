@@ -1,16 +1,16 @@
 ﻿# actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "betiği ilk aşamadaki haline ayarladım. Eğer hemen yenilenmezse, üzerine tıklaman gerekebilir."
+ "Betiği ilk aşamadaki haline ayarladım. Eğer hemen yenilenmezse, üzerine tıklaman gerekebilir."
 
 "Sourcing your script...":
- "kodu kaynağa aktarıyor "
+ "Kodu kaynağa aktarıyor "
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "oyun moduna giriyor. İstediğin gibi test et, derse devam etmek istediginde nxt() yaz"
+ "Oyun moduna giriyor. İstediğin gibi test et, derse devam etmek istediğinde nxt() yaz"
 
 #"Returning to the main menu...":
-# "ana menüye dönüyor "
+# "Ana menüye dönüyor "
 
 "This feature is not implemented yet for Swirl.":
  "Bu özellik henüz Swirl'e uyarlanmadı "
@@ -21,16 +21,16 @@
  "Beklediğim ifade bu değildi ama bu da olur"
 
 "The given range":
- "verilen ranj/aralık "
+ "Verilen ranj/aralık "
 
 "is not numeric.":
- "bu numerik değil "
+ "Bu numerik değil "
 
 "I've executed the correct expression in case the result is needed in an upcoming question.":
- "belki daha sonra ihtiyacın olur diye , doğru ifadeyi oluşturdum   "
+ "Belki daha sonra ihtiyacın olur diye , doğru ifadeyi oluşturdum   "
 
 "does not exist.":
- "mevcut değil "
+ "Mevcut değil "
 
 # args_specification.R
 
@@ -40,7 +40,7 @@
 
 ## Do not translate 'to' or 'from'.
 "Argument 'to' must be strictly greater than argument 'from'!":
- " 'to' argümanı kesinlikle ve kesinlikler 'from' argümanından büyük olmalıdır.  "
+ " 'to' argümanı kesinlikle ve kesinlikle 'from' argümanından büyük olmalıdır.  "
 
 # courseraCheck.R
 
@@ -48,7 +48,7 @@
  "Bu dersle ilgili Coursera kursu ile bir ilgin var mı ?"
 
 "Would you like me to notify Coursera that you've completed this lesson?":
- " Bu kursu bitirdiğini Coursera'ya iletmemi ister misin?"
+ "Bu kursu bitirdiğini Coursera'ya iletmemi ister misin?"
 
 "If so, I'll need to get some more info from you.":
  "O zaman sana sormam gerekenler var"
@@ -63,16 +63,16 @@
  "Belki daha sonra"
 
 "I'll try to tell Coursera you've completed this lesson now.":
- "Bu dersi bitirdiğini Courseraya iletmeye çalışacağım "
+ "Bu dersi bitirdiğini Coursera'ya iletmeye çalışacağım "
 
 "You skipped too many questions! You'll need to complete":
  "Çok fazla soruyu atladın, Tamamlaman gerekiyor!"
 
 "this lesson again if you'd like to receive credit. Please":
- "neyi? bu dersi, neden kredi alabilmen için. Lütfen "
+ "Neyi? bu dersi. Neden? kredi alabilmen için. Lütfen "
 
 "don't skip more than one question next time.":
- "bir daha ki sefere birden fazla soru atlama"
+ "Bir daha ki sefere birden fazla soru atlama"
 
 "I've notified Coursera that you have completed ":
  "Bu dersi bitirdiğini Courseraya ilettim"
@@ -84,34 +84,34 @@
  "üzgünüm, bağlantı kurulurken birşeyler yanlış gitti"
 
 "To notify Coursera that you have completed this lesson,":
- "Courserayı dersi tamamladığını iletmem için "
+ "Courseraya dersi tamamladığını iletmem için "
 
 "please upload":
  "lütfen yükle "
 
 "to Coursera manually. You may do so by visiting the Programming":
- "Courseraya kendin. Bunu yapmak için şuraya gidebilirsin:"
+ "Courseraya kendin belirtmek istiyorsan şuraya gidebilirsin:"
 
 "Assignments page on your course website and selecting the Submit":
  "Kursun websitesindeki programlama ödevleri sayfası.daha sonra 'Teslim et / Submit' i seç   "
 
 "button next to the appropriate swirl lesson.":
- "bu seçenek benzer swirl dersinin yanında olacak"
+ "Bu seçenek benzer swirl dersinin yanında olacak"
 
 "I've placed the file in the following directory:":
- "dosyayı şu klasöre koydum:"
+ "Dosyayı şu klasöre koydum:"
 
 "Would you like to retry automatic submission or just submit manually?":
- "otomatik yüklemeyi tekrar mi denemek istersin, kendin mi yüklemek istersin?"
+ "Otomatik yüklemeyi tekrar mi denemek istersin, kendin mi yüklemek istersin?"
 
 "Retry automatic submission":
- "otomatik yüklemeyi tekrar dene"
+ "Otomatik yüklemeyi tekrar dene"
 
 "Submit manually":
- "kendin yükle "
+ "Kendin yükle "
 
 "The first item I need is your Course ID. For example, if the":
- "ilk ihtiyacım olan senin Course ID'ın, örneğin "
+ "ilk ihtiyacım olan senin Course ID'in, örneğin "
 
 "homepage for your Coursera course was":
  "Coursera kursunun ana sayfası  şu işe "
@@ -120,16 +120,16 @@
 # "kurs kodun 'rprog-001' (tırnak işareti olmadan) olur."
 
 "It looks like you entered a web address, which is not what I'm":
- "benim istediğimin dışında bir web adresi girmiş olabilir misin?"
+ "Benim istediğimin dışında bir web adresi girmiş olabilir misin?"
 
 "looking for.":
- "aradığım bu değil "
+ "Aradığım bu değil "
 
 "It looks like you entered a numeric ID, which is not what I'm":
- "anlaşılan bir numerik ID girdin, benim aradığım bu değil "
+ "Anlaşılan bir numerik ID girdin, benim aradığım bu değil "
 
 "It looks like you entered the Course ID that I used as an":
- "anlaşılan benim örnek olarak verdiğim İD yi kullandın "
+ "Anlaşılan benim örnek olarak verdiğim İD yi kullandın "
 
 "example, which is not what I'm looking for.":
  "istediğim şey bu değil "
@@ -147,7 +147,7 @@
  "'https://class.coursera.org/rprog-001',"
 
 "then your course ID would be 'rprog-001' (without the quotes).":
- "o zaman senin kurs IDin 'rprog-001' (tırnak işaretsiz) "
+ "O zaman senin kurs IDin 'rprog-001' (tırnak işaretsiz) "
 
 "Submission login (email): ":
  "Teslim etmek için giriş (email):"
@@ -183,10 +183,10 @@
 
 
 "Could not connect to course file":
- "ders dosyasına ulaşamadı"
+ "Ders dosyasına ulaşamadı"
 
 "Are you sure you want to uninstall all swirl courses?":
- "bütün swirl derslerini kaldırmak istediğinden emin misin?"
+ "Bütün swirl derslerini kaldırmak istediğinden emin misin?"
 
 "This will delete all of the contents of your swirl course directory":
  " Bu işlem senin swirl dersleri dosyandaki bütün içeriği silecek" 
@@ -196,7 +196,7 @@
  "Kurs başarıyla indirildi"
 
 "Course installation failed.":
- "kursu yüklemede hata oluştu "
+ "Kursu yüklemede hata oluştu "
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
  " 'course_name' argümanı tırnak işareti ile belirtimeli. (i.e. karakter dizgisi)!"
@@ -241,7 +241,7 @@
  "Kurs "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " belirlenen dizinde değil. Dikkatli ol, kurs isimlerinde büyük küçük harf ayrımı önemlidir ":
+ "belirlenen dizinde değil. Dikkatli ol, kurs isimlerinde büyük küçük harf ayrımı önemlidir":
 
 "Course directory is too large to install":
  "kurs dizini yüklenme için çok büyük "
@@ -295,10 +295,10 @@
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
- "başlamak için bir kurs yüklemen gerekiyor. senin için internetten kurs indirebilirim, yada seni bir web sayfasına yönlendirebilirim.(https://github.com/swirldev/swirl_courses) , bu websitesinde kurslari ve onları yüklemen için gereken talimatları bulabilirsin. eğer internete bağlı değil isen çıkış yapmak için 0 yaz"
+ "Başlamak için bir kurs yüklemen gerekiyor. Senin için internetten kurs indirebilirim, yada seni bir web sayfasına yönlendirebilirim.(https://github.com/swirldev/swirl_courses) , bu websitesinde kurslari ve onları yüklemen için gereken talimatları bulabilirsin. eğer internete bağlı değil isen çıkış yapmak için 0 yaz"
 
 "Don't install anything for me. I'll do it myself.":
- "benim için birşey yükleme, ben kendim yüklerim "
+ "Benim için birşey yükleme, ben kendim yüklerim "
 
 "Sorry, but I'm unable to fetch ":
  "üzgünüm, yüklemeyi başaramadım "
@@ -307,43 +307,43 @@
  "internet bağlantının duzgun çalıştığına emin mısın? eğer eminse, tekrar mi denemek istersin yoksa kursların sanal deposunu ziyaret edip kendi kendine nasıl yükleneceğini öğrenmek mi istersin? çıkış yapmak için 0 yaz"
 
 "Try again!":
- "tekrar dene!"
+ "Tekrar dene!"
 
 "Send me to the course repository for manual installation.":
- "otomatik olmayan indirme yapmak için beni sanal depoya yönlendir "
+ "Otomatik olmayan indirme yapmak için beni sanal depoya yönlendir "
 
 "OK. I'm opening the swirl course respository in your browser.":
- "browserindaki swirl kurs deposunu açıyorum şimdi "
+ "Browserindaki swirl kurs deposunu açıyorum şimdi "
 
 "OK. I'm opening the swirl courses web page in your browser.":
- "browserindaki swirl kursları web sayfasını açıyorum şimdi "
+ "Browserindaki swirl kursları web sayfasını açıyorum şimdi "
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
  "swirl e hoşgeldin, lütfen giriş yap, daha önce ziyaret ettiysen, kullandığın ziyaretçi ismini tekrar kullanabilirsin. eğer yeniysen lütfen kendine özgü bir isim bul"
 
 "What shall I call you? ":
- "sana nasıl hitap etmeliyim? ismin nedir mesela?"
+ "Sana nasıl hitap etmeliyim? ismin nedir?"
 
 "Thanks, ":
  "Teşekkür ederim"
 
 ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
- "  başlamadan önce bir kaç şeyden bahsetmeliyim, ne zaman '...' görürsen o zaman ilerlemek için  Enter tuşuna bas"
+ "  Başlamadan önce bir kaç şeyden bahsetmeliyim, ne zaman '...' görürsen  ilerlemek için  Enter tuşuna bas"
 
 "...  <-- That's your cue to press Enter to continue":
- "...  <-- işte bu sana Enter a basmanı hatirlatacak"
+ "...  <-- işte bu sana Enter a basmanı hatırlatacak"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
- "ne zaman 'ANSWER' i, (>) işaretini, veya bir seçim yapman gerektiğini görürsen, bu bir cevap yazmanı ve sonra Enter tuşuna basmanı gerektirir."
+ "Ne zaman 'ANSWER' i, (>) işaretini, veya bir seçim yapman gerektiğini görürsen, bu bir cevap yazmanı ve sonra Enter tuşuna basmanı gerektirir."
 
 "Continue.":
  "Devam et"
 
 "Proceed.":
- "bekleme yapma"
+ "ilerle"
 
 "Let's get going!":
- "haydi başlayalım "
+ "Haydi başlayalım "
 
 "Select 1, 2, or 3 and press Enter":
  "1 , 2 veya 3ü seç ve Enter a bas"
@@ -418,10 +418,10 @@
 # Phrases.R
 
 "You got it!" :
- "başardin !"
+ "başardın !"
 
 "Nice work!":
- "güzel iş çıkardin !"
+ "güzel iş çıkardın !"
 
 "Keep up the great work!":
  "oldukça başarılı "
@@ -430,28 +430,28 @@
  "öğreniyorsun  "
 
 "You nailed it! Good job!":
- "tebrikler"
+ "Tebrikler"
 
 "You're the best!":
- "harika"
+ "Harika"
 
 "You are amazing!":
- "valla helal olsun"
+ "Muhteşem "
 
 "Great job!":
  "işte bu !"
 
 "You are quite good my friend!":
- "akıllı birisin, belli !"
+ "Akıllı birisin, belli !"
 
 "You got it right!":
- "tam üstüne bastın !"
+ "Tam üstüne bastın !"
 
 "That's correct!":
- "doğru  cevap!"
+ "Doğru  cevap!"
 
 "You are really on a roll!":
- "bu işi kaptın bence"
+ "Bu işi kaptın bence"
 
 "Excellent job!":
  "çok iyi!"
@@ -466,7 +466,7 @@
  "tam olarak doğru değil, tekrar dene"
 
 "Give it another try.":
- "bi daha dene"
+ "bir daha dene"
 
 "Not quite! Try again.":
  "olmadı, tekrar dene"
@@ -562,7 +562,7 @@
  "-- eğer play() yazarsan kendi kendine denemeler yapabilirsin. swirl bu aşamada yaptıklarını dikkate almaz ..."
 
 "-- UNTIL you type nxt() which will regain swirl's attention.":
- "-- taaki nxt() yazıp, swirl'e geri dönene kadar"
+ "-- taki nxt() yazıp, swirl'e geri dönene kadar"
 
 "-- Typing bye() causes swirl to exit. Your progress will be saved.":
  "-- eğer bye() yazarsan çıkış yaparsın. Gösterdiğin ilerleme kaydedilir. "
@@ -583,19 +583,19 @@
  "simdi senin için soruya cevap veriyorum"
 
 "Returning to the main menu...":
- "ana menüye donuyorum"
+ "ana menüye dönüyorum"
 
 "Lesson complete! Exiting swirl now...":
- "ders tamamlandı, swirlden çıkıyor "
+ "Ders tamamlandı, swirlden çıkıyor "
 
 "You've reached the end of this lesson! Returning to the main menu...":
- "bu dersin sonuna geldin, ana menüye dönüyor ..."
+ "Bu dersin sonuna geldin, ana menüye dönüyor ..."
 
 "I just sourced the following script, which demonstrates one possible solution.":
  "aşağıdaki dizini kaynaktan çektim, bu olası bir çözümü gosterir"
 
 "Press Enter when you are ready to continue...":
- "devam etmeye hazır olduğunda Enter a bas..."
+ "Devam etmeye hazır olduğunda Enter a bas..."
 
 #"Hi! I see that you have some variables saved in your":
 # "Merhaba, gördüğüm kadarıyla kaydedilen degiskenlerin var:"
