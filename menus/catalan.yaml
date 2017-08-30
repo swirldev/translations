@@ -324,18 +324,18 @@
 
 #ADDED
 "Attempting to load lesson dependencies...":
-  "S'estan intentant carregar les dependències de la lliçó..."
+ "S'estan intentant carregar les dependències de la lliçó..."
 
 "Correct script not found at ":
-  "L'script correcte no s'ha trobat a "
+ "L'script correcte no s'ha trobat a "
 
 "Completing the first part of the lesson for you...\n":
-  "Us estem completant la primera part de la lliçó...\n"
+ "Us estem completant la primera part de la lliçó...\n"
 
 # menu.R
 
 "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
-"Per començar, heu d'instal·lar un curs. Us podem instal·lar un curs des d'Internet, o us podem enviar a una pàgina web (https://github.com/swirldev/swirl_courses) que us proveirà opcions i directives de cursos perquè us instal·leu cursos. (Si no teniu connexió a Internet, entreu 0 per sortir.)"
+ "Per començar, heu d'instal·lar un curs. Us podem instal·lar un curs des d'Internet, o us podem enviar a una pàgina web (https://github.com/swirldev/swirl_courses) que us proveirà opcions i directives de cursos perquè us instal·leu cursos. (Si no teniu connexió a Internet, entreu 0 per sortir.)"
 
 "Don't install anything for me. I'll do it myself.":
  "No instal·lis res per a mi. Ho faré jo mateix."
