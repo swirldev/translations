@@ -1,0 +1,665 @@
+# actions.R
+
+"I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
+ "Ara mateix he acabat de restablir l'script al seu estat original. Si no s'actualitza immediatament, potser us caldrà clicar-lo."
+
+"Sourcing your script...":
+ "Llegint el vostre script..."
+
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "S'entrarà al mode joc. Experimenteu com us agradi, entreu nxt() quan voleu continuar per continuar amb la lliçó."
+
+#"Returning to the main menu...":
+# "S'esta retornant al menú principal..."
+
+"This feature is not implemented yet for Swirl.":
+ "Aquesta característica encara no s'ha implementat per al Swirl."
+
+# answerTests.R, answerTests2.R
+
+"That's not the expression I expected but it works.":
+ "Aquesta no és l'expressió que esperava, però funciona."
+
+"The given range":
+ "El rang donat"
+
+"is not numeric.":
+ "no és numèric."
+
+"I've executed the correct expression in case the result is needed in an upcoming question.":
+ "He executat l'expressió correcta, en cas que el resultat faci falta per a una altra pregunta."
+
+"does not exist.":
+ "no existeix."
+
+ #ADDED
+"does not create a variable.":
+  "no crea una variable."
+
+"does not create a variable named":
+  "no crea una variable amb nom"
+
+"BUG: right side of":
+  "ERROR: costat dret de"
+
+"is not an integer.":
+  "no es un enter."
+
+
+"does not use ":
+  "no usa "
+
+
+"is not between ":
+  "no es troba entre "
+
+" and ":
+  " i "
+
+"BUG: specified length":
+  "ERROR: la longitud especificada"
+
+# args_specification.R
+
+## Do not translate 'test_course', 'test_lesson', or 'test'.
+"Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
+ "Heu d'especificar «test_course» i «test_lesson» perquè pugui executar-se en mode «test»!"
+
+## Do not translate 'to' or 'from'.
+"Argument 'to' must be strictly greater than argument 'from'!":
+ "L'argument «to» ha de ser estrictament més gran que l'argument «from»!"
+
+# courseraCheck.R
+
+"Are you currently enrolled in the Coursera course associated with this lesson?":
+ "Teniu inscripció actualment al curs de Coursera associat amb aquesta lliçó?"
+
+"Would you like me to notify Coursera that you've completed this lesson?":
+ "Voldríeu que notifiqui Coursera que heu completat la lliçó?"
+
+"If so, I'll need to get some more info from you.":
+ "Si és així, em caldrà obtenir més informació vostra."
+
+"Yes":
+ "Sí"
+
+"No":
+ "No"
+
+"Maybe later":
+ "Potser després"
+
+"I'll try to tell Coursera you've completed this lesson now.":
+ "Ara intentaré notificar Coursera que heu completat aquesta lliçó."
+
+"You skipped too many questions! You'll need to complete":
+ "Heu omès massa preguntes! Haureu de completar"
+
+"this lesson again if you'd like to receive credit. Please":
+ "aquesta lliçó de nou si voleu rebre punts per ella. Si us plau"
+
+"don't skip more than one question next time.":
+ "no us salteu més d'una pregunta el proper cop."
+
+"I've notified Coursera that you have completed ":
+ "He notificat a Coursera que heu completat"
+
+"I'm sorry, something went wrong with automatic submission.":
+ "Ho sentim, quelcom ha sortit malament a l'enviament automàtica."
+
+"I'm sorry, something went wrong with establishing connection.":
+ "Ho sentim, quelcom ha sortit malament a l'establiment de la connexió."
+
+"To notify Coursera that you have completed this lesson,":
+ "Per notificar Coursera que heu completat aquesta lliçó,"
+
+"please upload":
+ "si us plau, carregueu"
+
+"to Coursera manually. You may do so by visiting the Programming":
+ "a Coursera manualment. Ho podeu ver visitant la pàgina"
+
+"Assignments page on your course website and selecting the Submit":
+ "Tasques de programació al vostre lloc del curs i seleccionant el botó"
+
+"button next to the appropriate swirl lesson.":
+ "Enviar de la lliçó de swirl corresponent."
+
+"I've placed the file in the following directory:":
+ "He desat el fitxer al directori següent:"
+
+"Would you like to retry automatic submission or just submit manually?":
+ "Us agradaria tornar a intentar l'enviament automàtic o simplement enviar manualment?"
+
+"Retry automatic submission":
+ "Tornar a intentar l'enviament automàtic"
+
+"Submit manually":
+ "Enviar manualment"
+
+"The first item I need is your Course ID. For example, if the":
+ "El primer que em cal és el vostre ID del curs. Per exemple, si la"
+
+"homepage for your Coursera course was":
+ "pàgina d'inici del curs de Coursera és"
+
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "#, aleshores el vostre ID de curs serà «rprog-001» (sense les cometes)."
+
+"It looks like you entered a web address, which is not what I'm":
+ "Sembla que heu introduït una adreça web, cosa que no és el que "
+
+"looking for.":
+ "us estic demanant."
+
+"It looks like you entered a numeric ID, which is not what I'm":
+ "Sembla que heu introduït un ID numèrica, cosa que no és el que"
+
+"It looks like you entered the Course ID that I used as an":
+ "Sembla que heu introduït l'ID de curs que us he donat com a"
+
+"example, which is not what I'm looking for.":
+ "exemple, cosa que no és el que us estic demanant."
+
+"Instead, I need your Course ID, which is the last":
+ "En comptes d'això, em cal el vostre ID de curs, que és l'última"
+
+"part of the web address for your Coursera course.":
+ "part de l'adreça web del curs de Coursera."
+
+"For example, if the homepage for your Coursera course was":
+ "Per exemple, si la pàgina d'inici per al vostre curs de Coursera fos"
+
+"'https://class.coursera.org/rprog-001',":
+ "'https://class.coursera.org/rprog-001',"
+
+"then your course ID would be 'rprog-001' (without the quotes).":
+ "aleshores el vostre ID de curs seria «rprog-001» (sense les cometes)."
+
+"Submission login (email): ":
+ "Nom d'usuari per enviar (email): "
+
+"Submission password: ":
+ "Contrasenya d'enviament: "
+
+"Is the following information correct?":
+ "És correcta la informació següent?"
+
+"Course ID: ":
+ "ID de curs: "
+
+"Yes, go ahead!":
+ "Sí, endavant."
+
+"No, I need to change something.":
+ "No, em cal canviar quelcom."
+
+# install_courses.R
+
+"Course installed successfully!":
+ "El curs s'ha instal·lat amb èxit!"
+
+"Course installation failed.":
+ "La instal·lació del curs ha fallat."
+
+"Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
+ "S'ha d'entrar l'argument «course_name» entre cometes (és a dir, una cadena de caràcters)!"
+
+"Argument 'dev' must be either TRUE or FALSE!":
+ "L'argument «dev» sols ha de prendre el valor TRUE o FALSE!"
+
+"Please enter a valid name for a mirror. ('github' or 'bitbucket')":
+ "Entra un nom vàlid per a la descàrrega. («github» o «bitbucket»)"
+
+"To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
+ "Per accedir als cursos de swirl en desenvolupament de Bitbucket aneu a https://bitbucket.org/swirldevmirror/swirl_misc"
+
+"Course '":
+ "El curs «"
+
+"' not found in course repository! ":
+ "» no s'ha trobat al dipòsit de cursos. "
+
+"Make sure you've got the name exactly right, then try again.":
+ "Verifiqueu que teniu el nom correcte, i torneu-ho a intentar."
+
+"Course uninstalled successfully!":
+ "El curs es va desinstal·lat amb èxit."
+
+"Course not found!":
+ "No s'ha trobat el curs."
+
+"All courses uninstalled successfully!":
+ "Tots els cursos han estat desinstal·lats amb èxit."
+
+"No courses found!":
+ "No s'ha trobat cap curs."
+
+"Argument 'multi' must be either TRUE or FALSE.":
+ "L'argument «multi» ha de ser TRUE o FALSE."
+
+"Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
+ "L'argument «which_course» sols s'ha d'especificar quan l'argument «multi» és TRUE."
+
+"Course ":
+ "El curs "
+
+" not in specified directory. Be careful, course names are case sensitive!":
+ " no s'ha trobat al directori especificat. Compte, els noms dels cursos són sensibles a majúscules i minúscules!"
+
+"Course directory is too large to install":
+ "El directori d'aquest curs és massa gran per instal·lar"
+
+ #ADDED
+
+"Course directory was successfully zipped!":
+ "El directori del curs s'ha comprimit satisfactòriament."
+
+"Please specify a value for either course_name or swc_path but not both.":
+ "Si us plau, especifiqueu un valor per a course_name o swc_path, però no ambdós."
+
+"It looks like your internet connection is not working.":
+ "Sembla que la vostra connexió a Internet no està funcionant."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+ "Aneu a http://swirlstats.com/scn/ i descarregueu el fitxer .swc que correspon al curs que voleu instal·lar"
+
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "Després de descarregar el fitxer .swc entreu install_course() i seleccioneu el fitxer que heu descarregat"
+
+"Could not connect to course file." :
+ "No s'ha pogut connectar al fitxer del curs."
+
+"Are you sure you want to uninstall all swirl courses?":
+ "Segur que voleu desinstal·lar tots els cursos swirl?"
+
+'This will delete all of the contents of your swirl course directory.' :
+ "Això eliminarà tot el contingut del directori de cursos swirl."
+
+# instructionSet.R
+
+"ANSWER: ":
+ "RESPOSTA: "
+
+"Yes or No? ":
+ "Sí o No? "
+
+"yes":
+ "Sí"
+
+"Type nxt() to continue":
+ "Entreu nxt() per continuar"
+
+"BUG: There are no tests for this question!":
+ "ERROR: No hi ha tests per a aquesta pregunta."
+
+"Or, type info() for more options.":
+ "O escriviu info() per a més opcions."
+
+# utilities.R
+
+"Package":
+ "El paquet"
+
+"loaded correctly!":
+ "s'ha carregat correctament."
+
+"This lesson requires the":
+ "Aquesta lliçó requereix el paquet"
+
+"package. Would you like me to install it for you now?":
+ ". Voleu que ho instal·li ara?"
+
+"Attemping to load lesson dependencies...":
+ "S'està intentant carregar les dependències de la lliçó..."
+
+"Trying to install package":
+ "S'està intentant instal·lar el paquet"
+
+"now...":
+ "ara..."
+
+"Could not install package":
+ "No s'ha pogut instal·lar el paquet"
+
+#ADDED
+"Attempting to load lesson dependencies...":
+ "S'estan intentant carregar les dependències de la lliçó..."
+
+"Correct script not found at ":
+ "L'script correcte no s'ha trobat a "
+
+"Completing the first part of the lesson for you...\n":
+ "Us estem completant la primera part de la lliçó...\n"
+
+# menu.R
+
+"To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
+ "Per començar, heu d'instal·lar un curs. Us podem instal·lar un curs des d'Internet, o us podem enviar a una pàgina web (https://github.com/swirldev/swirl_courses) que us proveirà opcions i directives de cursos perquè us instal·leu cursos. (Si no teniu connexió a Internet, entreu 0 per sortir.)"
+
+"Don't install anything for me. I'll do it myself.":
+ "No instal·lis res per a mi. Ho faré jo mateix."
+
+"Sorry, but I'm unable to fetch ":
+ "Ho sentim, no es pot obtenir el fitxer "
+
+"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+ "ara mateix. Segur que l'ordinador està connectat a Internet? Si és així, voleu tornar a intentar-ho o desitgeu visitar el dipòsit del curs per veure les instruccions sobre com s'instal·la un curs manualment? Entreu 0 per sortir."
+
+"Try again!":
+ "Intenteu-ho un altre cop."
+
+"Send me to the course repository for manual installation.":
+ "Envia'm el dipòsit de cursos per fer una instal·lació manual."
+
+"OK. I'm opening the swirl course respository in your browser.":
+ "D'acord. Estic obrint el dipòsit dels cursos swirl al vostre navegador."
+
+"OK. I'm opening the swirl courses web page in your browser.":
+ "D'acord, Estic obrint la pàgina dels cursos swirl al vostre navegador."
+
+"Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
+ "Us donem la bennvinguda a swirl! Si us plau inicieu una sessió. Si ja heu estat aquí, useu el mateix nom que heu usat l'última vegada. Si és el primer cop, poseu-vos un nom especial."
+
+"What shall I call you? ":
+ "Com us he de dir? "
+
+"Thanks, ":
+ "Gràcies, "
+
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
+ ". Deixeu-me explicar-vos alguns punts abans que comenceu la vostra primera lliçó. Primer, sempre que vegis «...» significa que heu de prémer Intro quan heu acabat de llegir i voleu continuar."
+
+"...  <-- That's your cue to press Enter to continue":
+ "...  <-- Això indica que heu de prémer Intro per continuar"
+
+"Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
+ "A més, quan veieu «RESPOSTA:», l'indicador de l'R (>), o quan se us demana escollir una opció d'un llistat, significa que és el vostre torn d'escriure i ingressar una resposta, i prémer Intro per continuar."
+
+"Continue.":
+ "Continua."
+
+"Proceed.":
+ "Avança."
+
+"Let's get going!":
+ "Continuem!"
+
+"Select 1, 2, or 3 and press Enter":
+ "Escolliu 1, 2 o 3 i premeu Intro"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
+ "Podeu sortir del swirl i tornar a la línia d'ordre d'R (>) en qualsevol moment prement la tecla Esc. Si ja us trobeu a la línia d'ordres, entreu bye() per sortir i desar el vostre progrés. Quan sortiu d'aquesta forma, observareu un missatge curt avisant que ho heu fet correctament."
+
+"Let's get started!":
+ "Comencem!"
+
+"Would you like to continue with one of these lessons?":
+ "Voldríeu reprendre qualssevol d'aquestes lliçons?"
+
+"No. Let me start something new.":
+ "No. Deixa'm iniciar quelcom nou."
+
+"Please choose a course, or type 0 to exit swirl.":
+ "Si us plau escolliu un curs o entreu 0 per sortir del swirl."
+
+"Take me to the swirl course repository!":
+ "Porta'm al dipòsit de cursos swirl!"
+
+"Please choose a lesson, or type 0 to return to course menu.":
+ "Seleccioneu una lliçó si us plau, o entreu 0 per tornar al menú del curs."
+
+ #ADDED
+"Please don't use any quotes or other punctuation in your name.":
+ "Si us plau no useu cap tipus de cometes o altre tipus de puntuació al vostre nom."
+
+
+# ALSO ADDED
+
+"right now. Are you sure you have an internet connection?":
+ "en aquest moment. Segur que teniu una connexió a Internet?"
+
+"If so, would you like to try again or visit":
+ "Si és així, voldríeu intentar un altre cop o visitar"
+
+"the course repository for instructions on how to":
+ "el dipòsit del curs per obtenir instruccions sobre com"
+
+"install a course manually? Type 0 to exit.":
+ "instal·lar manualment un curs? Entreu 0 per sortir."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n... <-- Aquesta és la senyal per prémer Intro i continuar"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nSelecciona 1, 2 o 3, i premeu Intro"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "Podeu sortir del swirl i tornar a la línia d'ordres d'R (>) en qualsevol moment polsant la tecla Esc. Si ja us trobeu a la línia d'ordres, entreu bye() per sortir i desar el vostre progrés. Quan sortiu correctament, veureu un missatge curt que us ho dirà."
+
+# options.R
+
+"Please provide arguments so that appropriate options can be set.":
+ "Si us plau proporcioneu els arguments perquè les opcions adequades puguin ésser establertes."
+
+"Options set successfully!":
+ "Les opcions s'han establert correctament."
+
+"Option name '":
+ "L'opció denominada '"
+
+"' not found.":
+ "' no s'ha trobat."
+
+"Option '":
+ "¡L'opció '"
+
+"' deleted successfully!":
+ "' ha estat eliminada correctament."
+
+# Phrases.R
+
+"You got it!" :
+ "Molt bé!"
+
+"Nice work!":
+ "Ben fet!"
+
+"Keep up the great work!":
+ "Continueu amb la bona feina!"
+
+"You are doing so well!":
+ "Ho esteu fent molt bé!"
+
+"You nailed it! Good job!":
+ "Ho heu aconseguit! Bona feina!"
+
+"You're the best!":
+ "Inmillorable!"
+
+"You are amazing!":
+ "És espatarrant!"
+
+"Great job!":
+ "Una feina excel·lent!"
+
+"You are quite good my friend!":
+ "Ho feu molt bé!"
+
+
+"You got it right!":
+ "Heu encertat!"
+
+"That's correct!":
+ "Això és correcte!"
+
+"You are really on a roll!":
+ "Esteu en ratxa!"
+
+"Excellent job!":
+ "Excel·lent feina!"
+
+"That's a job well done!":
+ "Això és una feina ben feta!"
+
+"Almost! Try again.":
+ "Gairebé! Torneu-ho a intentar."
+
+"You almost had it, but not quite. Try again.":
+ "Gairebé ho havíeu aconseguit, però no va ser suficient. Intenteu-ho un altre cop."
+
+"Give it another try.":
+ "Intenteu-ho un altre cop."
+
+"Not quite! Try again.":
+ "No, gairebé!, però no. Intenteu-ho un altre cop.."
+
+"Not exactly. Give it another go.":
+ "No exactament. Proveu-ho un altre cop."
+
+"That's not exactly what I'm looking for. Try again.":
+ "Això no és exactament el que buscava. Proveu un altre cop."
+
+"Nice try, but that's not exactly what I was hoping for. Try again.":
+ "Un bon intent, però no és exactament el que jo esperava. Intenteu-ho un altre cop."
+
+"Keep trying!":
+ "Continueu provant!"
+
+"That's not the answer I was looking for, but try again.":
+ "No és la resposta que jo buscava, però intenteu novament."
+
+"Not quite right, but keep trying.":
+ "Per poc era correcte, seguiu intentant-ho."
+
+"You're close...I can feel it! Try it again.":
+ "Esteu molt a prop... Ho puc sentir! Intenteu-ho un altre cop."
+
+"Correct!":
+ "¡Correcte!"
+
+"Incorrect. Please try again.":
+ "Incorrecte. Si us plau, intenteu-ho un altre cop."
+
+ #ADDED
+"All that hard work is paying off!":
+  "Tota aquesta feina està produint fruits!"
+
+"Keep working like that and you'll get there!":
+  "Continueu treballant d'aquesta manera i arribareu lluny!"
+
+"Perseverance, that's the answer.":
+  "Perseverança és la resposta."
+
+"Your dedication is inspiring!":
+  "La vostra dedicació és inspiradora!"
+
+"All that practice is paying off!":
+  "Tota aquesta pràctica està produint els seus fruits!"
+
+"Excellent work!":
+  "Excel·lent treball!"
+
+"That's the answer I was looking for.":
+  "Aquesta és la resposta que estava buscant."
+
+"One more time. You can do it!":
+  "Un cop més. Ho podeu fer!"
+
+"Not quite, but you're learning! Try again.":
+  "No exactament, però esteu aprenent! Intenteu-ho un altre cop."
+
+"Try again. Getting it right on the first try is boring anyway!":
+  "Intenteu un altre cop. En tot cas, fer-lo bé a la primera és avorrit!"
+
+# post.R
+
+#"Lesson complete! Exiting swirl now...":
+#  "¡Lección completada! Saliendo de swirl ahora..."
+
+# progress.R
+
+"Please enter a valid username.":
+ "Si us plau ingresseu un usuari vàlid."
+
+"Deleted progress for user: ":
+ "S'ha eliminat el progrés de l'usuari: "
+
+"Could not find account for user: ":
+ "No s'ha pogut trobar el compte d'usuari: "
+
+# swirl.R
+
+"Leaving swirl now. Type swirl() to resume.":
+ "Ara se sortirà del swirl. Entreu swirl() per reprendre."
+
+"When you are at the R prompt (>):":
+ "Quan esteu a l'indicador d'R (>):"
+
+"-- Typing skip() allows you to skip the current question.":
+ "-- Entreu skip() us permet saltar la pregunta actual."
+
+"-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
+ "-- Entrant play() el swirl us deixa experimentar amb R; swirl no farà cas del que entreu..."
+
+"-- UNTIL you type nxt() which will regain swirl's attention.":
+ "-- FINS que entreu nxt(), cosa que retornarà al swirl."
+
+"-- Typing bye() causes swirl to exit. Your progress will be saved.":
+ "-- En entrar bye() el swirl s'aturarà. Es desarà el vostre progrés."
+
+"-- Typing main() returns you to swirl's main menu.":
+ "-- En entrar main() retornareu al menú principal del swirl."
+
+"-- Typing info() displays these options again.":
+ "-- L'entrada de info() mostra aquestes opcions un altre cop."
+
+"Resuming lesson...":
+ "Reprenent la lliçó..."
+
+"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+ "S'està entrant al mode joc. Experimenteu al vostre gust; pressioneu nxt() quan voleu continuar amb la lliçó."
+
+"Entering the following correct answer for you...":
+ "S'està entrant la següent resposta correcta..."
+
+"Returning to the main menu...":
+ "Retornant al menú principal..."
+
+"Lesson complete! Exiting swirl now...":
+ "Lliçó completa! Se sortirà del swirl..."
+
+"You've reached the end of this lesson! Returning to the main menu...":
+ "Heu arribat al final d'aquesta lliçó! Es retornarà al menú principal..."
+
+"I just sourced the following script, which demonstrates one possible solution.":
+ "Acabo de carregar el següent script, que demostra una possible solució."
+
+"Press Enter when you are ready to continue...":
+ "Premeu Intro quan vulgueu continuar..."
+
+#"Hi! I see that you have some variables saved in your":
+# "Hola! Veig que teniu algunes variables desades al vostre"
+
+# zzz.R
+
+"Hi! I see that you have some variables saved in your":
+ "Hola! Veig que teniu algunes variables desades al vostre "
+
+"workspace. To keep things running smoothly, I recommend you clean up":
+ "espai de treball. Perquè tot funcioni bé, us recomana que ho netegeu"
+
+"before starting swirl.":
+ "abans de sortir del swirl."
+
+"Type ls() to see a list of the variables in your workspace.":
+ "Entreu ls() per veure una llista de variables al vostre espai de treball."
+
+"Then, type rm(list=ls()) to clear your workspace.":
+ "Després entreu rm(list=ls()) per netejar totes els objectes del vostre espai de treball."
+
+"Type swirl() when you are ready to begin.":
+ "Entreu swirl() quan estigueu preparat per començar."
+
+"Hi! Type swirl() when you are ready to begin.":
+ "¡Hola! Entreu swirl() quan vulgueu començar."
