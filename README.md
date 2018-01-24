@@ -39,6 +39,25 @@ Here is an example of a hypothetical Spanish translation:
 
 All menu files should be named `[language].yaml`.
 
+## Contributing courses
+
+Contributing a translation of a course is a significantly larger undertaking
+compared to translating swirl's menus. You will need to familiarize yourself
+with [`swirlify`](https://github.com/swirldev/swirlify) an R package for
+writing new swirl courses. You should browse the
+[swirlify documentation](http://swirlstats.com/swirlify/) before getting
+started. Of all of the courses maintained by Team Swirl, the following are
+our most popular courses, so therefore you might want to start with
+translating one of them:
+
+- R Programming
+- Exploratory Data Analysis
+- Statistical Inference
+- Regression Models
+
+You can find the English source files for these courses
+[here](https://github.com/swirldev/swirl_courses).
+
 ## Contact
 
 If you have questions about contributing or you want to join the swirl
