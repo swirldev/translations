@@ -1,24 +1,24 @@
 # actions.R
 
 "I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
- "Zresetowa³em skrypt do pierwotnego stanu. Je¿eli nie zosta³ odœwie¿ony, kliknij go."
+ "Zresetowaï¿½em skrypt do pierwotnego stanu. Jeï¿½eli nie zostaï¿½ odï¿½wieï¿½ony, kliknij go."
 
 "Sourcing your script...":
- "Pobieram twój skrypt..."
+ "Pobieram twï¿½j skrypt..."
 
 #"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
 # "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson."
 
 "Returning to the main menu...":
- "Wracam do g³ównego menu..."
+ "Wracam do gï¿½ï¿½wnego menu..."
 
 "This feature is not implemented yet for Swirl.":
- "Ta funkcja nie zosta³a jeszcze zaimplementowana w Swirl."
+ "Ta funkcja nie zostaï¿½a jeszcze zaimplementowana w Swirl."
 
 # answerTests.R, answerTests2.R
 
 "That's not the expression I expected but it works.":
- "Nie jest to wyra¿enie którego siê spodziewa³em, ale to dzia³a."
+ "Nie jest to wyraï¿½enie ktï¿½rego siï¿½ spodziewaï¿½em, ale to dziaï¿½a."
 
 "The given range":
  "Podany zakres"
@@ -27,7 +27,7 @@
  "nie jest numeryczny."
 
 "I've executed the correct expression in case the result is needed in an upcoming question.":
- "Wykona³em poprawne wyra¿enie na wypadek gdyby wynik by³ potrzebny w kolejnym pytaniu."
+ "Wykonaï¿½em poprawne wyraï¿½enie na wypadek gdyby wynik byï¿½ potrzebny w kolejnym pytaniu."
 
 "does not exist.":
  "nie istnieje."
@@ -36,22 +36,22 @@
 
 ## Do not translate 'test_course', 'test_lesson', or 'test'.
 "Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
- "Nale¿y podaæ 'test_course' oraz 'test_lesson' dla uruchomienia w trybie 'test'!"
+ "Naleï¿½y podaï¿½ 'test_course' oraz 'test_lesson' dla uruchomienia w trybie 'test'!"
 
 ## Do not translate 'to' or 'from'.
 "Argument 'to' must be strictly greater than argument 'from'!":
- "Argument 'to' musi byæ wiêkszy ni¿ argument 'from'!"
+ "Argument 'to' musi byï¿½ wiï¿½kszy niï¿½ argument 'from'!"
 
 # courseraCheck.R
 
 "Are you currently enrolled in the Coursera course associated with this lesson?":
- "Czy zapisa³eœ siê na kurs Coursera zwi¹zany z t¹ lekcj¹?"
+ "Czy zapisaï¿½eï¿½ siï¿½ na kurs Coursera zwiï¿½zany z tï¿½ lekcjï¿½?"
 
 "Would you like me to notify Coursera that you've completed this lesson?":
- "Chcesz przekazaæ do Coursera ¿e ukoñczy³eœ t¹ lekcjê?"
+ "Chcesz przekazaï¿½ do Coursera ï¿½e ukoï¿½czyï¿½eï¿½ tï¿½ lekcjï¿½?"
 
 "If so, I'll need to get some more info from you.":
- "Je¿eli tak, muszê dostaæ wiêcej informacji od ciebie."
+ "Jeï¿½eli tak, muszï¿½ dostaï¿½ wiï¿½cej informacji od ciebie."
 
 "Yes":
  "Tak"
@@ -60,88 +60,88 @@
  "Nie"
 
 "Maybe later":
- "Mo¿e póŸniej"
+ "Moï¿½e pï¿½ï¿½niej"
 
 "I'll try to tell Coursera you've completed this lesson now.":
- "Spróbujê przekazaæ do Coursera ¿e skoñczy³eœ t¹ lekcjê."
+ "Sprï¿½bujï¿½ przekazaï¿½ do Coursera ï¿½e skoï¿½czyï¿½eï¿½ tï¿½ lekcjï¿½."
 
 "You skipped too many questions! You'll need to complete":
- "Pomin¹³eœ zbyt wiele pytañ! Powinieneœ ukoñczyæ"
+ "Pominï¿½ï¿½eï¿½ zbyt wiele pytaï¿½! Powinieneï¿½ ukoï¿½czyï¿½"
 
 "this lesson again if you'd like to receive credit. Please":
- "t¹ lekcjê ponownie jeœli chcesz otrzymaæ zaliczenie. Proszê"
+ "tï¿½ lekcjï¿½ ponownie jeï¿½li chcesz otrzymaï¿½ zaliczenie. Proszï¿½"
 
 "don't skip more than one question next time.":
- "nie omijaj nastêpnym razem wiêcej ni¿ jedno pytanie."
+ "nie omijaj nastï¿½pnym razem wiï¿½cej niï¿½ jedno pytanie."
 
 "I've notified Coursera that you have completed ":
- "Poinformowa³em Coursera ¿e ukoñczy³eœ "
+ "Poinformowaï¿½em Coursera ï¿½e ukoï¿½czyï¿½eï¿½ "
 
 "I'm sorry, something went wrong with automatic submission.":
- "Niestety, automatyczne przekazanie zaliczenia nie powiod³o siê."
+ "Niestety, automatyczne przekazanie zaliczenia nie powiodï¿½o siï¿½."
 
 "I'm sorry, something went wrong with establishing connection.":
- "Niestety, po³¹czenie nie powiod³o siê."
+ "Niestety, poï¿½ï¿½czenie nie powiodï¿½o siï¿½."
 
 "To notify Coursera that you have completed this lesson,":
- "Aby poinformowaæ Coursera ¿e ukoñczy³eœ lekcjê,"
+ "Aby poinformowaï¿½ Coursera ï¿½e ukoï¿½czyï¿½eï¿½ lekcjï¿½,"
 
 "please upload":
- "za³aduj proszê"
+ "zaï¿½aduj proszï¿½"
 
 "to Coursera manually. You may do so by visiting the Programming":
- "do Coursera rêcznie. Mo¿esz to zrobiæ odwiedzaj¹c stronê Programming"
+ "do Coursera rï¿½cznie. Moï¿½esz to zrobiï¿½ odwiedzajï¿½c stronï¿½ Programming"
 
 "Assignments page on your course website and selecting the Submit":
- "Assignments na stronie kursu i wybieraj¹c przycisk Submit"
+ "Assignments na stronie kursu i wybierajï¿½c przycisk Submit"
 
 "button next to the appropriate swirl lesson.":
  "obok odpowiedniej lekcji Swirl."
 
 "I've placed the file in the following directory:":
- "Umieœci³em plik w nastêpuj¹cym katalogu:"
+ "Umieï¿½ciï¿½em plik w nastï¿½pujï¿½cym katalogu:"
 
 "Would you like to retry automatic submission or just submit manually?":
- "Czy chcesz powtórzyæ automatyczne przekazanie, czy chcesz przekazaæ rêcznie?"
+ "Czy chcesz powtï¿½rzyï¿½ automatyczne przekazanie, czy chcesz przekazaï¿½ rï¿½cznie?"
 
 "Retry automatic submission":
- "Powtórz przekazanie automatyczne"
+ "Powtï¿½rz przekazanie automatyczne"
 
 "Submit manually":
- "Przeka¿ rêcznie"
+ "Przekaï¿½ rï¿½cznie"
 
 "The first item I need is your Course ID. For example, if the":
- "Potrzebujê aby podaæ Course ID. Na przyk³ad, je¿eli"
+ "Potrzebujï¿½ aby podaï¿½ Course ID. Na przykï¿½ad, jeï¿½eli"
 
 "homepage for your Coursera course was":
  "strona twojego kursu Coursera to "
 
 "then your course ID would be 'rprog-001' (without the quotes).":
- "to course ID twojego kursu bêdzie 'rprog-001' (bez cudzys³owu)."
+ "to course ID twojego kursu bï¿½dzie 'rprog-001' (bez cudzysï¿½owu)."
 
 "It looks like you entered a web address, which is not what I'm":
- "Wygl¹da na to, ¿e wprowadzi³eœ adres web, który nie jest tym"
+ "Wyglï¿½da na to, ï¿½e wprowadziï¿½eï¿½ adres web, ktï¿½ry nie jest tym"
 
 "looking for.":
- "którego oczekiwa³em."
+ "ktï¿½rego oczekiwaï¿½em."
 
 "It looks like you entered a numeric ID, which is not what I'm":
- "Wygl¹da na to, ¿e wprowadzi³eœ numeryczne ID, które nie jest tym"
+ "Wyglï¿½da na to, ï¿½e wprowadziï¿½eï¿½ numeryczne ID, ktï¿½re nie jest tym"
 
 "It looks like you entered the Course ID that I used as an":
- "Wygl¹da na to, ¿e wprowadzi³eœ Course ID które u¿y³em jako"
+ "Wyglï¿½da na to, ï¿½e wprowadziï¿½eï¿½ Course ID ktï¿½re uï¿½yï¿½em jako"
 
 "example, which is not what I'm looking for.":
- "przyk³ad, ale nie tego oczekiwa³em."
+ "przykï¿½ad, ale nie tego oczekiwaï¿½em."
 
 "Instead, I need your Course ID, which is the last":
- "Potrzebujê Course ID twojego kursu, bêd¹ce ostatni¹"
+ "Potrzebujï¿½ Course ID twojego kursu, bï¿½dï¿½ce ostatniï¿½"
 
 "part of the web address for your Coursera course.":
- "czêœci¹ adresu web twojego kursu Coursera."
+ "czï¿½ï¿½ciï¿½ adresu web twojego kursu Coursera."
 
 "For example, if the homepage for your Coursera course was":
- "Na przyk³ad, je¿eli adres twojego kursu to"
+ "Na przykï¿½ad, jeï¿½eli adres twojego kursu to"
 
 "'https://class.coursera.org/rprog-001',":
  "'https://class.coursera.org/rprog-001',"
@@ -150,22 +150,22 @@
 # "then your course ID would be 'rprog-001' (without the quotes)."
 
 "Submission login (email): ":
- "Login pod jakim zapisa³eœ siê na kurs (adres email): "
+ "Login pod jakim zapisaï¿½eï¿½ siï¿½ na kurs (adres email): "
 
 "Submission password: ":
- "Has³o: "
+ "Hasï¿½o: "
 
 "Is the following information correct?":
- "Czy nastêpuj¹ca informacja jest poprawna?"
+ "Czy nastï¿½pujï¿½ca informacja jest poprawna?"
 
 "Course ID: ":
  "Course ID: "
 
 "Yes, go ahead!":
- "Tak, idŸ dalej!"
+ "Tak, idï¿½ dalej!"
 
 "No, I need to change something.":
- "Nie, muszê coœ zmieniæ."
+ "Nie, muszï¿½ coï¿½ zmieniï¿½."
 
 # install_courses.R
 
@@ -173,72 +173,72 @@
  "Kurs zainstalowany poprawnie!"
 
 "Course installation failed.":
- "Instalacja kursu nie powiod³a siê."
+ "Instalacja kursu nie powiodï¿½a siï¿½."
 
 "Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
- "Argument 'course_name' musi byæ podany w cudzys³owiu (jako ³añcuch znaków)!"
+ "Argument 'course_name' musi byï¿½ podany w cudzysï¿½owiu (jako ï¿½aï¿½cuch znakï¿½w)!"
 
 "Argument 'dev' must be either TRUE or FALSE!":
- "Argument 'dev' musi mieæ wartoœæ TRUE albo FALSE!"
+ "Argument 'dev' musi mieï¿½ wartoï¿½ï¿½ TRUE albo FALSE!"
 
 "Please enter a valid name for a mirror. ('github' or 'bitbucket')":
- "Proszê podaj p[oprawn¹ nazwê dla mirror. ('github' albo 'bitbucket')"
+ "Proszï¿½ podaj p[oprawnï¿½ nazwï¿½ dla mirror. ('github' albo 'bitbucket')"
 
 "To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
- "Aby uzyskaæ dostêp do wersji roboczych kursów na Bitbucket, idŸ do https://bitbucket.org/swirldevmirror/swirl_misc"
+ "Aby uzyskaï¿½ dostï¿½p do wersji roboczych kursï¿½w na Bitbucket, idï¿½ do https://bitbucket.org/swirldevmirror/swirl_misc"
 
 "Course '":
  "Kurs '"
 
 "' not found in course repository! ":
- "' nie zosta³ znaleziony w repozytorium kursów! "
+ "' nie zostaï¿½ znaleziony w repozytorium kursï¿½w! "
 
 "Make sure you've got the name exactly right, then try again.":
- "Upewnij siê ¿e u¿y³eœ dok³adnie w³aœciwej nazwy i spróbuj ponownie."
+ "Upewnij siï¿½ ï¿½e uï¿½yï¿½eï¿½ dokï¿½adnie wï¿½aï¿½ciwej nazwy i sprï¿½buj ponownie."
 
 "Course uninstalled successfully!":
- "Kurs odinstalowany pomyœlnie!"
+ "Kurs odinstalowany pomyï¿½lnie!"
 
 "Course not found!":
  "Nie znaleziono kursu!"
 
 "All courses uninstalled successfully!":
- "Wszystkie kursy odinstalowano pomyœlnie!"
+ "Wszystkie kursy odinstalowano pomyï¿½lnie!"
 
 "No courses found!":
- "Nie znaleziono kursów!"
+ "Nie znaleziono kursï¿½w!"
 
 "Argument 'multi' must be either TRUE or FALSE.":
- "Argument 'multi' musi mieæ wartoœæ TRUE albo FALSE."
+ "Argument 'multi' musi mieï¿½ wartoï¿½ï¿½ TRUE albo FALSE."
 
 "Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
- "Argument 'which_course' powinien byæ podany tylko gdy 'multi' ma wartoœæ TRUE."
+ "Argument 'which_course' powinien byï¿½ podany tylko gdy 'multi' ma wartoï¿½ï¿½ TRUE."
 
 "Course ":
  "Kurs "
 
 " not in specified directory. Be careful, course names are case sensitive!":
- " nie znaleziony w podanym katalogu. Uwzglêdnij du¿e/ma³e litery w nazwie!":
+ " nie znaleziony w podanym katalogu. Uwzglï¿½dnij duï¿½e/maï¿½e litery w nazwie!":
 
 "Course directory is too large to install":
- "Katalog kursu jest zbyt du¿y aby zosta³ zainstalowany"
+ "Katalog kursu jest zbyt duï¿½y aby zostaï¿½ zainstalowany"
 
 "Please specify a value for either course_name or swc_path but not both.":
- "Proszê podaj course_name albo swc_path ale nie obie wartoœci."
+ "Proszï¿½ podaj course_name albo swc_path ale nie obie wartoï¿½ci."
 
 "It looks like your internet connection is not working.":
- "Wygl¹da na to, ¿e twoje po³¹czenie internetowe nie dzia³a."
+ "Wyglï¿½da na to, ï¿½e twoje poï¿½ï¿½czenie internetowe nie dziaï¿½a."
 
 "Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
- "idŸ do http://swirlstats.com/scn/ i œci¹gnij plik .swc dla kursu który chcesz zainstalowaæ."
+ "idï¿½ do http://swirlstats.com/scn/ i ï¿½ciï¿½gnij plik .swc dla kursu ktï¿½ry chcesz zainstalowaï¿½."
 
 "After downloading the .swc run install_course() and choose the file you downloaded.":
- "Po zapisaniu pliku .swc podaj polecenie install_course() i wska¿ zapisany plik."
+ "Po zapisaniu pliku .swc podaj polecenie install_course() i wskaï¿½ zapisany plik."
 
 # instructionSet.R
 
 "ANSWER: ":
- "ODPOWIED: "
+ "ODPOWIEDï¿½: "
 
 "Yes or No? ":
  "Tak czy Nie? "
@@ -247,13 +247,13 @@
  "tak"
 
 "Type nxt() to continue":
- "Wpisz polecenie nxt() aby kontynuowaæ"
+ "Wpisz polecenie nxt() aby kontynuowaï¿½"
 
 "BUG: There are no tests for this question!":
- "B£¥D: Nie ma testu dla tego pytania!"
+ "Bï¿½ï¿½D: Nie ma testu dla tego pytania!"
 
 "Or, type info() for more options.":
- "Wpisz polecenie info() aby zobaczyæ inne opcje."
+ "Wpisz polecenie info() aby zobaczyï¿½ inne opcje."
 
 # utilities.R
 
@@ -261,25 +261,25 @@
  "Pakiet"
 
 "loaded correctly!":
- "za³adowany pomyœlnie!"
+ "zaï¿½adowany pomyï¿½lnie!"
 
 "This lesson requires the":
- "Ta lekcja wymaga, aby za³adowaæ pakiet"
+ "Ta lekcja wymaga, aby zaï¿½adowaï¿½ pakiet"
 
 "package. Would you like me to install it for you now?":
- "Czy chcesz abym go dla ciebie zainstalowa³?"
+ "Czy chcesz abym go dla ciebie zainstalowaï¿½?"
 
 "Attemping to load lesson dependencies...":
- "Próbujê za³adowaæ zale¿noœci lekcji..."
+ "Prï¿½bujï¿½ zaï¿½adowaï¿½ zaleï¿½noï¿½ci lekcji..."
 
 "Trying to install package":
- "Próbujê zainstalowaæ pakiet"
+ "Prï¿½bujï¿½ zainstalowaï¿½ pakiet"
 
 "now...":
  "teraz..."
 
 "Could not install package":
- "Nie mogê zainstalowaæ pakietu"
+ "Nie mogï¿½ zainstalowaï¿½ pakietu"
 
 # menu.R
 
@@ -287,43 +287,43 @@
  "To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)"
 
 "Don't install anything for me. I'll do it myself.":
- "Niczego dla mnie nie instaluj. Sam to zrobiê."
+ "Niczego dla mnie nie instaluj. Sam to zrobiï¿½."
 
 "Sorry, but I'm unable to fetch ":
- "Niestety nie mogê pobraæ "
+ "Niestety nie mogï¿½ pobraï¿½ "
 
 "right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
- "w tej chwili. Czy jesteœ pewien ¿e dzia³a po³¹czenie internetowe? Je¿eli tak, czy chcesz spróbowaæ ponownie, albo odwiedziæ repozytorium kursu po instrukcje jak zainstalowaæ kurs rêcznie? Wpisz 0 aby wyjœæ."
+ "w tej chwili. Czy jesteï¿½ pewien ï¿½e dziaï¿½a poï¿½ï¿½czenie internetowe? Jeï¿½eli tak, czy chcesz sprï¿½bowaï¿½ ponownie, albo odwiedziï¿½ repozytorium kursu po instrukcje jak zainstalowaï¿½ kurs rï¿½cznie? Wpisz 0 aby wyjï¿½ï¿½."
 
 "Try again!":
- "Spróbuj ponownie!"
+ "Sprï¿½buj ponownie!"
 
 "Send me to the course repository for manual installation.":
- "PrzejdŸ do repozytorium kursu aby zainstalowaæ rêcznie."
+ "Przejdï¿½ do repozytorium kursu aby zainstalowaï¿½ rï¿½cznie."
 
 "OK. I'm opening the swirl course respository in your browser.":
- "OK. otwieram repozytorium kursu swirl w twojej przegl¹darce."
+ "OK. otwieram repozytorium kursu swirl w twojej przeglï¿½darce."
 
 "OK. I'm opening the swirl courses web page in your browser.":
- "OK. otwieram stronê kursów swirl w twojej przegl¹darce."
+ "OK. otwieram stronï¿½ kursï¿½w swirl w twojej przeglï¿½darce."
 
 "Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
- "Witam w swirl! Proszê zaloguj siê. Jeœli tu by³eœ wczeœniej, u¿yj tej samej nazwy co poprzednio. Je¿eli jesteœ nowy, u¿yj unikalnej nazwy"
+ "Witam w swirl! Proszï¿½ zaloguj siï¿½. Jeï¿½li tu byï¿½eï¿½ wczeï¿½niej, uï¿½yj tej samej nazwy co poprzednio. Jeï¿½eli jesteï¿½ nowy, uï¿½yj unikalnej nazwy"
 
 "What shall I call you? ":
- "Jak siê nazywasz? "
+ "Jak siï¿½ nazywasz? "
 
 "Thanks, ":
- "Dziêkujê, "
+ "Dziï¿½kujï¿½, "
 
 ". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
- ". PrzejdŸmy przez kilka podstawowych informacji przed pierwsz¹ lekcj¹. Po pierwsze, jeœli widzisz '...', oznacza to ¿e powinieneœ nacisn¹æ klawisz Enter kiedy skoñczy³eœ czytaæ i jesteœ gotowy aby kontynuowaæ."
+ ". Przejdï¿½my przez kilka podstawowych informacji przed pierwszï¿½ lekcjï¿½. Po pierwsze, jeï¿½li widzisz '...', oznacza to ï¿½e powinieneï¿½ nacisnï¿½ï¿½ klawisz Enter kiedy skoï¿½czyï¿½eï¿½ czytaï¿½ i jesteï¿½ gotowy aby kontynuowaï¿½."
 
 "...  <-- That's your cue to press Enter to continue":
- "...  <-- To wskazówka, aby nacisn¹æ klawisz Enter i kontynuowaæ"
+ "...  <-- To wskazï¿½wka, aby nacisnï¿½ï¿½ klawisz Enter i kontynuowaï¿½"
 
 "Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
- "Je¿eli zobaczysz 'ANSWER:', znak pocz¹tku linii w R (>), albo jesteœ proszony o wybór z listy, oznacza to ¿e powinieneœ wpisaæ odpowiedŸ i nacisn¹æ klawisz Enter aby kontynuowaæ."
+ "Jeï¿½eli zobaczysz 'ANSWER:', znak poczï¿½tku linii w R (>), albo jesteï¿½ proszony o wybï¿½r z listy, oznacza to ï¿½e powinieneï¿½ wpisaï¿½ odpowiedï¿½ i nacisnï¿½ï¿½ klawisz Enter aby kontynuowaï¿½."
 
 "Continue.":
  "Kontynuuj."
@@ -332,39 +332,39 @@
  "Kontynuuj."
 
 "Let's get going!":
- "IdŸ dalej!"
+ "Idï¿½ dalej!"
 
 "Select 1, 2, or 3 and press Enter":
- "Wybierz 1, 2, albo 3 i naciœnij Enter"
+ "Wybierz 1, 2, albo 3 i naciï¿½nij Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
- "Mo¿esz wyjœæ ze Swirl i wróciæ do œrodowiska R (>) w dowolnej chwili naciskaj¹c klawisz Esc. Je¿eli ju¿ jesteœ w œrodowisku R, wpisz bye() aby wyjœæ ze swirl zapisuj¹c swoje postêpy. Je¿eli wyszed³eœ poprawnie, zobaczysz krótki komunikat informuj¹cy o tym."
+ "Moï¿½esz wyjï¿½ï¿½ ze Swirl i wrï¿½ciï¿½ do ï¿½rodowiska R (>) w dowolnej chwili naciskajï¿½c klawisz Esc. Jeï¿½eli juï¿½ jesteï¿½ w ï¿½rodowisku R, wpisz bye() aby wyjï¿½ï¿½ ze swirl zapisujï¿½c swoje postï¿½py. Jeï¿½eli wyszedï¿½eï¿½ poprawnie, zobaczysz krï¿½tki komunikat informujï¿½cy o tym."
 
 "Let's get started!":
  "Rozpocznij!"
 
 "Would you like to continue with one of these lessons?":
- "Czy chceszkontynuowaæ jedn¹ z tych lekcji?"
+ "Czy chceszkontynuowaï¿½ jednï¿½ z tych lekcji?"
 
 "No. Let me start something new.":
- "Nie, chcê rozpocz¹æ coœ innego."
+ "Nie, chcï¿½ rozpoczï¿½ï¿½ coï¿½ innego."
 
 "Please choose a course, or type 0 to exit swirl.":
- "Wybierz kurs, albo wpisz 0 aby opuœciæ swirl."
+ "Wybierz kurs, albo wpisz 0 aby opuï¿½ciï¿½ swirl."
 
 "Take me to the swirl course repository!":
- "PrzejdŸ do repozytorium kursów swoirl!"
+ "Przejdï¿½ do repozytorium kursï¿½w swoirl!"
 
 "Please choose a lesson, or type 0 to return to course menu.":
- "Wybierz lekcjê, albo wpisz 0 aby powróciæ do menu kursu."
+ "Wybierz lekcjï¿½, albo wpisz 0 aby powrï¿½ciï¿½ do menu kursu."
 
 # options.R
 
 "Please provide arguments so that appropriate options can be set.":
- "Podaj argumenty aby odpowiednie opcje mog³y byæ wybrane."
+ "Podaj argumenty aby odpowiednie opcje mogï¿½y byï¿½ wybrane."
 
 "Options set successfully!":
- "Opcje zosta³y wybrane pomyslnie!"
+ "Opcje zostaï¿½y wybrane pomyslnie!"
 
 "Option name '":
  "Nazwa opcji '"
@@ -376,7 +376,7 @@
  "Opcja '"
 
 "' deleted successfully!":
- "' usuniêta pomyslnie!"
+ "' usuniï¿½ta pomyslnie!"
 
 # Phrases.R
 
@@ -423,94 +423,94 @@
  "O.K.!"
 
 "Almost! Try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "You almost had it, but not quite. Try again.":
- "Spróbuj ponownien."
+ "Sprï¿½buj ponownien."
 
 "Give it another try.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Not quite! Try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Not exactly. Give it another go.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "That's not exactly what I'm looking for. Try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Nice try, but that's not exactly what I was hoping for. Try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Keep trying!":
- "Spróbuj ponownie!"
+ "Sprï¿½buj ponownie!"
 
 "That's not the answer I was looking for, but try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Not quite right, but keep trying.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "You're close...I can feel it! Try it again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Correct!":
  "O.K.!"
 
 "Incorrect. Please try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 # post.R
 
 "Lesson complete! Exiting swirl now...":
- "Lekcja zakoñczona! Wychodzê ze swirl..."
+ "Lekcja zakoï¿½czona! Wychodzï¿½ ze swirl..."
 
 # progress.R
 
 "Please enter a valid username.":
- "WprowadŸ poprawn¹ nazwê u¿ytkownika."
+ "Wprowadï¿½ poprawnï¿½ nazwï¿½ uï¿½ytkownika."
 
 "Deleted progress for user: ":
- "Usuniêto postêpy u¿ytkownika: "
+ "Usuniï¿½to postï¿½py uï¿½ytkownika: "
 
 "Could not find account for user: ":
- "Nie mogê znaleŸæ konta u¿ytkownika: "
+ "Nie mogï¿½ znaleï¿½ï¿½ konta uï¿½ytkownika: "
 
 # swirl.R
 
 "Leaving swirl now. Type swirl() to resume.":
- "Wychodzê ze swirl. Wpisz polecenie swirl() aby wejœæ ponownie."
+ "Wychodzï¿½ ze swirl. Wpisz polecenie swirl() aby wejï¿½ï¿½ ponownie."
 
 "When you are at the R prompt (>):":
- "Kiedy jesteœ w œrodowisku R ze znacznikiem linii (>):"
+ "Kiedy jesteï¿½ w ï¿½rodowisku R ze znacznikiem linii (>):"
 
 "-- Typing skip() allows you to skip the current question.":
- "-- Polecenie skip() pozwala na pominiêcie danego pytania."
+ "-- Polecenie skip() pozwala na pominiï¿½cie danego pytania."
 
 "-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
- "-- Polecenie play() pozwala na wprowadzenie dowolnych poleceñ w R, ignorowanych przez swirl..."
+ "-- Polecenie play() pozwala na wprowadzenie dowolnych poleceï¿½ w R, ignorowanych przez swirl..."
 
 "-- UNTIL you type nxt() which will regain swirl's attention.":
- "-- do chwili wprowadzenia polecenia nxt() przywracaj¹cego normalny tryb swirl."
+ "-- do chwili wprowadzenia polecenia nxt() przywracajï¿½cego normalny tryb swirl."
 
 "-- Typing bye() causes swirl to exit. Your progress will be saved.":
- "-- Polecenie bye() wymusza wyjœcie ze swirl. Twoje postêpy bêd¹ zapisane."
+ "-- Polecenie bye() wymusza wyjï¿½cie ze swirl. Twoje postï¿½py bï¿½dï¿½ zapisane."
 
 "-- Typing main() returns you to swirl's main menu.":
- "-- Polecenie main() przenosi ciê do g³nego menu swirl."
+ "-- Polecenie main() przenosi ciï¿½ do gï¿½nego menu swirl."
 
 "-- Typing info() displays these options again.":
- "-- Polecenie info() ponownie wyœwietla informacjê o tych opcjach."
+ "-- Polecenie info() ponownie wyï¿½wietla informacjï¿½ o tych opcjach."
 
 "Resuming lesson...":
- "Ponownie uruchamiam lekcjê..."
+ "Ponownie uruchamiam lekcjï¿½..."
 
 "Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
- "Wchodzê w tryb æwiczenia. Dowolnie eksperymentuj, nastêpnie wprowadŸ polecenie nxt() gdy bêdziesz gotów aby powróciæ do lekcji."
+ "Wchodzï¿½ w tryb ï¿½wiczenia. Dowolnie eksperymentuj, nastï¿½pnie wprowadï¿½ polecenie nxt() gdy bï¿½dziesz gotï¿½w aby powrï¿½ciï¿½ do lekcji."
 
 "Entering the following correct answer for you...":
- "Wprowadzam poprawn¹ odpowiedŸ..."
+ "Wprowadzam poprawnï¿½ odpowiedï¿½..."
 
 #"Returning to the main menu...":
 # "Returning to the main menu..."
@@ -519,71 +519,71 @@
 # "Lesson complete! Exiting swirl now..."
 
 "You've reached the end of this lesson! Returning to the main menu...":
- "Doszed³eœ do koñca lekcji! Wracam do g³ównego menu..."
+ "Doszedï¿½eï¿½ do koï¿½ca lekcji! Wracam do gï¿½ï¿½wnego menu..."
 
 "I just sourced the following script, which demonstrates one possible solution.":
- "Za³adowa³em nastêpuj¹cy skrypt, pokazuj¹cy jedno z mo¿liwych rozwi¹zañ."
+ "Zaï¿½adowaï¿½em nastï¿½pujï¿½cy skrypt, pokazujï¿½cy jedno z moï¿½liwych rozwiï¿½zaï¿½."
 
 "Press Enter when you are ready to continue...":
- "Naciœnij Enter gdy bêdziesz gotów aby kontynuowaæ..."
+ "Naciï¿½nij Enter gdy bï¿½dziesz gotï¿½w aby kontynuowaï¿½..."
 
 # zzz.R
 
 "Hi! I see that you have some variables saved in your":
- "Widzê, ¿e masz zapisane zmienne w przestrzeni roboczej."
+ "Widzï¿½, ï¿½e masz zapisane zmienne w przestrzeni roboczej."
 
 "workspace. To keep things running smoothly, I recommend you clean up":
- "Dla poprawnego dzia³ania rekomendujê, aby wyczyœciæ przestrzeñ robocz¹"
+ "Dla poprawnego dziaï¿½ania rekomendujï¿½, aby wyczyï¿½ciï¿½ przestrzeï¿½ roboczï¿½"
 
 "before starting swirl.":
  "przed uruchomieniem swirl."
 
 "Type ls() to see a list of the variables in your workspace.":
- "Wpisz ls() aby zobaczyæ listê zmiennych w przestrzeni roboczej."
+ "Wpisz ls() aby zobaczyï¿½ listï¿½ zmiennych w przestrzeni roboczej."
 
 "Then, type rm(list=ls()) to clear your workspace.":
- "Nastêpnie wpisz rm(list=ls()) aby j¹ wyczyœciæ."
+ "Nastï¿½pnie wpisz rm(list=ls()) aby jï¿½ wyczyï¿½ciï¿½."
 
 "Type swirl() when you are ready to begin.":
- "Wpisz swirl() gdy bêdziesz gotowy aby zacz¹æ."
+ "Wpisz swirl() gdy bï¿½dziesz gotowy aby zaczï¿½ï¿½."
 
 "Hi! Type swirl() when you are ready to begin.":
- "Wpisz swirl() gdy bêdziesz gotowy aby zacz¹æ."
+ "Wpisz swirl() gdy bï¿½dziesz gotowy aby zaczï¿½ï¿½."
 
 # New for swirl 2.4
 
 "Could not connect to course file.":
- "Nie mogê siê po³¹czyæ z plikiem kursu."
+ "Nie mogï¿½ siï¿½ poï¿½ï¿½czyï¿½ z plikiem kursu."
 
 "Are you sure you want to uninstall all swirl courses?":
- "Jesteœ pewien, ¿e chcesz odinstalowaæ wszystkie kursy swirl?"
+ "Jesteï¿½ pewien, ï¿½e chcesz odinstalowaï¿½ wszystkie kursy swirl?"
 
 "This will delete all of the contents of your swirl course directory.":
- "To spowoduje usuniêcie ca³ej zawartoœci katalogu twojego kursu swirl."
+ "To spowoduje usuniï¿½cie caï¿½ej zawartoï¿½ci katalogu twojego kursu swirl."
 
 "right now. Are you sure you have an internet connection?":
- "w tej chwili. Jesteœ pewien ¿e dzia³a po³¹czenie internetowe?"
+ "w tej chwili. Jesteï¿½ pewien ï¿½e dziaï¿½a poï¿½ï¿½czenie internetowe?"
 
 "If so, would you like to try again or visit":
- "Je¿eli tak, czy mo¿esz spróbowaæ ponownie albo przejœæ do"
+ "Jeï¿½eli tak, czy moï¿½esz sprï¿½bowaï¿½ ponownie albo przejï¿½ï¿½ do"
 
 "the course repository for instructions on how to":
- "repozytorium kursów po instrukcje jak"
+ "repozytorium kursï¿½w po instrukcje jak"
 
 "install a course manually? Type 0 to exit.":
- "zainstalowaæ kurs rêcznie? Wpisz 0 aby wyjœæ."
+ "zainstalowaï¿½ kurs rï¿½cznie? Wpisz 0 aby wyjï¿½ï¿½."
 
 "Please don't use any quotes or other punctuation in your name.":
- "Nie u¿ywaj cudzys³owu, kropki, pzecinka, pauzy itp. w nazwie."
+ "Nie uï¿½ywaj cudzysï¿½owu, kropki, pzecinka, pauzy itp. w nazwie."
 
 "\n...  <-- That's your cue to press Enter to continue":
- "\n...  <-- To wskazówka aby nacisn¹æ klawisz Enter aby kontynuowaæ"
+ "\n...  <-- To wskazï¿½wka aby nacisnï¿½ï¿½ klawisz Enter aby kontynuowaï¿½"
 
 "\nSelect 1, 2, or 3 and press Enter":
- "\nWybierz 1, 2, lub 3 i naciœnij Enter"
+ "\nWybierz 1, 2, lub 3 i naciï¿½nij Enter"
 
 "You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
- "Mo¿esz wyjœæ z swirl wróciæ do œrodowiska R (>) w dowolnej chwili naciskaj¹c klawisz Esc. Je¿eli ju¿ jesteœ w œrodowisku R, wpisz bye() aby wyjœæ ze swirl zapisuj¹c swoje postêpy. Je¿eli wyszed³eœ poprawnie, zobaczysz krótki komunikat informuj¹cy o tym."
+ "Moï¿½esz wyjï¿½ï¿½ z swirl wrï¿½ciï¿½ do ï¿½rodowiska R (>) w dowolnej chwili naciskajï¿½c klawisz Esc. Jeï¿½eli juï¿½ jesteï¿½ w ï¿½rodowisku R, wpisz bye() aby wyjï¿½ï¿½ ze swirl zapisujï¿½c swoje postï¿½py. Jeï¿½eli wyszedï¿½eï¿½ poprawnie, zobaczysz krï¿½tki komunikat informujï¿½cy o tym."
 
 
 "All that hard work is paying off!":
@@ -608,10 +608,10 @@
  "O.K."
 
 "One more time. You can do it!":
- "Spróbuj ponownie!"
+ "Sprï¿½buj ponownie!"
 
 "Not quite, but you're learning! Try again.":
- "Spróbuj ponownie."
+ "Sprï¿½buj ponownie."
 
 "Try again. Getting it right on the first try is boring anyway!":
- "Spróbuj ponownie!"
+ "Sprï¿½buj ponownie!"
