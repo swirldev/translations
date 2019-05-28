@@ -1,0 +1,325 @@
+---
+After downloading the .swc run install_course() and choose the file you downloaded.: Après
+  avoir téléchargé le fichier .swc, lancez install_course () et choisissez le fichier
+  que vous avez téléchargé.
+All courses uninstalled successfully!: Tous les cours ont été désinstallés avec succès!
+All that hard work is paying off!: Tout ce travail acharné porte ses fruits!
+All that practice is paying off!: Toute cette pratique porte ses fruits!
+Almost! Try again.: Presque! Réessayer.
+? Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select
+  from a list, that means it's your turn to enter a response, then press Enter to
+  continue.
+: De plus, lorsque vous voyez «RÉPONSE:», l'invite R (&gt;) ou lorsqu'il vous est
+  demandé de faire votre sélection dans une liste, cela signifie que vous devez entrer
+  une réponse, puis appuyer sur Entrée pour continuer.
+'ANSWER: ': 'RÉPONSE:'
+Are you currently enrolled in the Coursera course associated with this lesson?: Êtes-vous
+  actuellement inscrit au cours Coursera associé à cette leçon?
+Are you sure you want to uninstall all swirl courses?: Êtes-vous sûr de vouloir désinstaller
+  tous les parcours swirl?
+Argument 'course_name' must be surrounded by quotes (i.e. a character string)!: L'argument
+  'nom_cours' doit être entouré de guillemets (c'est-à-dire une chaîne de caractères)!
+Argument 'dev' must be either TRUE or FALSE!: L'argument 'dev' doit être VRAI ou FAUX!
+Argument 'multi' must be either TRUE or FALSE.: L'argument 'multi' doit être VRAI
+  ou FAUX.
+Argument 'to' must be strictly greater than argument 'from'!: L'argument 'à' doit
+  être strictement supérieur à l'argument 'de'!
+Argument 'which_course' should only be specified when argument 'multi' is TRUE.: L'argument
+  'which_course' ne doit être spécifié que lorsque l'argument 'multi' est TRUE.
+Assignments page on your course website and selecting the Submit: Page Assignments
+  sur le site Web de votre cours et sélectionnez Soumettre.
+Attemping to load lesson dependencies...: Essayer de charger les dépendances de cours
+  ...
+before starting swirl.: avant de commencer tourbillonner.
+'BUG: There are no tests for this question!': 'BUG: Il n''y a pas de test pour cette
+  question!'
+button next to the appropriate swirl lesson.: bouton à côté de la leçon tourbillon
+  appropriée.
+Continue.: Continuer.
+Correct!: Correct!
+Could not connect to course file.: Impossible de se connecter au fichier de cours.
+'Could not find account for user: ': 'Impossible de trouver un compte pour l''utilisateur:'
+Could not install package: Impossible d'installer le package
+'Course ': Cours
+Course ': Cours '
+Course directory is too large to install: Le répertoire du cours est trop volumineux
+  pour être installé
+'Course ID: ': 'Identifiant du cours:'
+Course installation failed.: L'installation du cours a échoué.
+Course installed successfully!: Cours installé avec succès!
+Course not found!: Cours non trouvé!
+Course uninstalled successfully!: Cours désinstallé avec succès!
+'Deleted progress for user: ': 'Progression supprimée pour l''utilisateur:'
+"' deleted successfully!": "' Supprimé avec succès!"
+does not exist.: n'existe pas.
+Don't install anything for me. I'll do it myself.: Ne rien installer pour moi. Je
+  le ferai moi même.
+don't skip more than one question next time.: ne sautez pas plus d'une question la
+  prochaine fois.
+Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.: Entrer
+  en mode de jeu. Expérimentez à votre guise, puis tapez nxt () lorsque vous êtes
+  prêt à reprendre la leçon.
+Entering the following correct answer for you...: Saisie de la réponse correcte suivante
+  pour vous ...
+example, which is not what I'm looking for.: exemple, qui n’est pas ce que je cherche.
+Excellent job!: Excellent travail!
+Excellent work!: Excellent travail!
+For example, if the homepage for your Coursera course was: Par exemple, si la page
+  d’accueil de votre cours Coursera était
+Give it another try.: Faites un autre essai.
+Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.: Allez
+  à http://swirlstats.com/scn/ et téléchargez le fichier .swc correspondant au cours
+  que vous souhaitez installer.
+Great job!: Bon travail!
+Hi! I see that you have some variables saved in your: Salut! Je vois que vous avez
+  des variables sauvegardées dans votre
+Hi! Type swirl() when you are ready to begin.: Salut! Tapez swirl () lorsque vous
+  êtes prêt à commencer.
+homepage for your Coursera course was: page d'accueil pour votre cours Coursera était
+"'https://class.coursera.org/rprog-001',": '"https://class.coursera.org/rprog-001",'
+If so, I'll need to get some more info from you.: Si c'est le cas, je devrai vous
+  demander plus d'informations.
+If so, would you like to try again or visit: Si oui, voudriez-vous réessayer ou visiter
+I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.: Je
+  viens de réinitialiser le script à son état d'origine. S'il ne s'actualise pas immédiatement,
+  vous devrez peut-être cliquer dessus.
+I just sourced the following script, which demonstrates one possible solution.: Je
+  viens de chercher le script suivant, qui illustre une solution possible.
+I'll try to tell Coursera you've completed this lesson now.: Je vais essayer de dire
+  à Coursera que vous avez terminé cette leçon maintenant.
+I'm sorry, something went wrong with automatic submission.: Je suis désolé, quelque
+  chose s'est mal passé avec la soumission automatique.
+I'm sorry, something went wrong with establishing connection.: Je suis désolé, quelque
+  chose s'est mal passé lors de l'établissement de la connexion.
+Incorrect. Please try again.: Incorrect. Veuillez réessayer.
+install a course manually? Type 0 to exit.: installer un cours manuellement? Tapez
+  0 pour sortir.
+Instead, I need your Course ID, which is the last: J'ai plutôt besoin de votre identifiant
+  de cours, qui est le dernier
+is not numeric.: n'est pas numérique.
+Is the following information correct?: Les informations suivantes sont-elles correctes?
+It looks like you entered a numeric ID, which is not what I'm: On dirait que vous
+  avez entré un identifiant numérique, ce qui n’est pas ce que je suis
+It looks like you entered a web address, which is not what I'm: On dirait que vous
+  avez entré une adresse Web, ce qui n’est pas ce que je suis
+It looks like you entered the Course ID that I used as an: On dirait que vous avez
+  entré le numéro de cours que j'ai utilisé comme
+It looks like your internet connection is not working.: Il semble que votre connexion
+  Internet ne fonctionne pas.
+I've executed the correct expression in case the result is needed in an upcoming question.: J'ai
+  exécuté l'expression correcte au cas où le résultat serait nécessaire pour une question
+  à venir.
+'I''ve notified Coursera that you have completed ': J'ai informé Coursera que vous
+  avez terminé
+'I''ve placed the file in the following directory:': 'J''ai placé le fichier dans
+  le répertoire suivant:'
+Keep trying!: Continue d'essayer!
+Keep up the great work!: Continuez ce bon travail!
+Keep working like that and you'll get there!: Continuez comme ça et vous y arriverez!
+Leaving swirl now. Type swirl() to resume.: Laissant tourbillonner maintenant. Tapez
+  tourbillon () pour reprendre.
+Lesson complete! Exiting swirl now...: Leçon terminée! Sortie tourbillonner maintenant
+  ...
+? ". Let's cover a couple of quick housekeeping items before we begin our first lesson.
+  First of all, you should know that when you see '...', that means you should press
+  Enter when you are done reading and ready to continue."
+: ". Avant de commencer notre première leçon, couvrons quelques points d’entretien
+  rapide. Tout d’abord, sachez que lorsque vous voyez «…», vous devez appuyer sur
+  Entrée une fois la lecture terminée et que vous êtes prêt à continuer."
+Let's get going!: Allons-y!
+Let's get started!: Commençons!
+loaded correctly!: chargé correctement!
+looking for.: à la recherche de.
+Make sure you've got the name exactly right, then try again.: Assurez-vous que le
+  nom est exact, puis réessayez.
+Maybe later: Peut-être plus tard
+Must specify 'test_course' and 'test_lesson' to run in 'test' mode!: Doit spécifier
+  'test_course' et 'test_lesson' pour s'exécuter en mode 'test'!
+Nice try, but that's not exactly what I was hoping for. Try again.: Bien essayé, mais
+  ce n'est pas exactement ce que j'espérais. Réessayer.
+Nice work!: Bon travail!
+'No': Non
+No courses found!: Aucun cours trouvé!
+No, I need to change something.: Non, j'ai besoin de changer quelque chose.
+No. Let me start something new.: Laisse-moi commencer quelque chose de nouveau.
+Not exactly. Give it another go.: Pas exactement. Donnez-lui un autre coup.
+"' not found.": "' pas trouvé."
+"' not found in course repository! ": "'introuvable dans le référentiel de cours!"
+Not quite, but you're learning! Try again.: Pas tout à fait, mais vous apprenez! Réessayer.
+Not quite right, but keep trying.: Pas tout à fait raison, mais continue d'essayer.
+Not quite! Try again.: Pas assez! Réessayer.
+now...: à présent...
+OK. I'm opening the swirl course respository in your browser.: D'ACCORD. J'ouvre le
+  référentiel du cours tourbillonnant dans votre navigateur.
+OK. I'm opening the swirl courses web page in your browser.: D'ACCORD. J'ouvre la
+  page Web des cours de remous dans votre navigateur.
+One more time. You can do it!: Encore une fois. Tu peux le faire!
+Option ': Option '
+Option name ': Nom de l'option '
+Options set successfully!: Options définies avec succès!
+Or, type info() for more options.: Ou tapez info () pour plus d'options.
+Package: Paquet
+package. Would you like me to install it for you now?: paquet. Voulez-vous que je
+  l'installe pour vous maintenant?
+part of the web address for your Coursera course.: une partie de l'adresse Web de
+  votre cours Coursera.
+Perseverance, that's the answer.: La persévérance, c'est la réponse.
+Please choose a course, or type 0 to exit swirl.: Veuillez choisir un parcours ou
+  tapez 0 pour sortir de swirl.
+Please choose a lesson, or type 0 to return to course menu.: Choisissez une leçon
+  ou tapez 0 pour revenir au menu du cours.
+Please don't use any quotes or other punctuation in your name.: Veuillez ne pas utiliser
+  de guillemets ni d'autres signes de ponctuation à votre nom.
+Please enter a valid name for a mirror. ('github' or 'bitbucket'): Veuillez entrer
+  un nom valide pour un miroir. ('github' ou 'bitbucket')
+Please enter a valid username.: Merci d'entrer un nom d'utilisateur valide.
+Please provide arguments so that appropriate options can be set.: Veuillez fournir
+  des arguments pour que les options appropriées puissent être définies.
+Please specify a value for either course_name or swc_path but not both.: Veuillez
+  spécifier une valeur pour course_name ou swc_path mais pas pour les deux.
+please upload: s'il vous plaît télécharger
+Press Enter when you are ready to continue...: Appuyez sur Entrée lorsque vous êtes
+  prêt à continuer ...
+Proceed.: Procéder.
+Resuming lesson...: Reprise de la leçon ...
+Retry automatic submission: Réessayer la soumission automatique
+Returning to the main menu...: Retour au menu principal ...
+right now. Are you sure you have an internet connection?: maintenant. Êtes-vous sûr
+  d'avoir une connexion internet?
+? right now. Are you sure you have an internet connection? If so, would you like to
+  try again or visit the course repository for instructions on how to install a course
+  manually? Type 0 to exit.
+: maintenant. Êtes-vous sûr d'avoir une connexion internet? Si tel est le cas, souhaitez-vous
+  réessayer ou consulter le référentiel de cours pour savoir comment installer un
+  cours manuellement? Tapez 0 pour sortir.
+? |2-
+
+  Select 1, 2, or 3 and press Enter
+: Sélectionnez 1, 2 ou 3 et appuyez sur Entrée.
+Select 1, 2, or 3 and press Enter: Sélectionnez 1, 2 ou 3 et appuyez sur Entrée.
+Send me to the course repository for manual installation.: Envoyez-moi au référentiel
+  du cours pour une installation manuelle.
+'Sorry, but I''m unable to fetch ': Désolé, mais je ne peux pas aller chercher
+Sourcing your script...: Sourcing de votre script ...
+'Submission login (email): ': 'Identifiant de soumission (email):'
+'Submission password: ': 'Mot de passe de soumission:'
+Submit manually: Soumettre manuellement
+Take me to the swirl course repository!: Emmenez-moi au référentiel des cours de remous!
+'Thanks, ': Merci,
+That's a job well done!: C'est un travail bien fait!
+That's correct!: C'est correct!
+That's not exactly what I'm looking for. Try again.: Ce n'est pas exactement ce que
+  je recherche. Réessayer.
+That's not the answer I was looking for, but try again.: Ce n'est pas la réponse que
+  je cherchais, mais réessayez.
+That's not the expression I expected but it works.: Ce n'est pas l'expression que
+  j'attendais mais ça marche.
+That's the answer I was looking for.: C'est la réponse que je cherchais.
+"...  <-- That's your cue to press Enter to continue": "... &lt;- C'est ce qui vous
+  incite à appuyer sur Entrée pour continuer"
+? |2-
+
+  ...  <-- That's your cue to press Enter to continue
+: "... &lt;- C'est ce qui vous incite à appuyer sur Entrée pour continuer"
+the course repository for instructions on how to: le référentiel de cours pour obtenir
+  des instructions sur la façon de
+The first item I need is your Course ID. For example, if the: Le premier élément dont
+  j'ai besoin est votre identifiant de cours. Par exemple, si le
+The given range: La gamme donnée
+Then, type rm(list=ls()) to clear your workspace.: Ensuite, tapez rm (list = ls ())
+  pour effacer votre espace de travail.
+then your course ID would be 'rprog-001' (without the quotes).: alors votre identifiant
+  de cours serait 'rprog-001' (sans les guillemets).
+This feature is not implemented yet for Swirl.: Cette fonctionnalité n'est pas encore
+  implémentée pour Swirl.
+this lesson again if you'd like to receive credit. Please: cette leçon à nouveau si
+  vous souhaitez recevoir un crédit. S'il vous plaît
+This lesson requires the: Cette leçon nécessite la
+This will delete all of the contents of your swirl course directory.: Ceci supprimera
+  tout le contenu de votre répertoire de cours de remous.
+To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc: Pour
+  accéder aux cours en cours de développement sur Bitbucket, accédez à https://bitbucket.org/swirldevmirror/swirl_misc.
+? To begin, you must install a course. I can install a course for you from the internet,
+  or I can send you to a web page (https://github.com/swirldev/swirl_courses) which
+  will provide course options and directions for installing courses yourself. (If
+  you are not connected to the internet, type 0 to exit.)
+: Pour commencer, vous devez installer un cours. Je peux installer un cours pour vous
+  depuis Internet ou vous envoyer une page Web (https://github.com/swirldev/swirl_courses)
+  qui vous fournira des options de cours et des instructions pour l’installer vous-même.
+  (Si vous n'êtes pas connecté à Internet, tapez 0 pour quitter.)
+to Coursera manually. You may do so by visiting the Programming: à Coursera manuellement.
+  Vous pouvez le faire en visitant la programmation
+To notify Coursera that you have completed this lesson,: Pour informer Coursera que
+  vous avez terminé cette leçon,
+Try again!: Réessayer!
+Try again. Getting it right on the first try is boring anyway!: Réessayer. Bien faire
+  les choses du premier coup est quand même ennuyeux!
+Trying to install package: Essayer d'installer le paquet
+Type ls() to see a list of the variables in your workspace.: Tapez ls () pour afficher
+  une liste des variables dans votre espace de travail.
+Type nxt() to continue: Tapez nxt () pour continuer
+Type swirl() when you are ready to begin.: Tapez swirl () lorsque vous êtes prêt à
+  commencer.
+"-- Typing bye() causes swirl to exit. Your progress will be saved.": "- Taper bye
+  () provoque la sortie de swirl. Vos progrès seront sauvegardés."
+"-- Typing info() displays these options again.": "- La saisie d’informations () affiche
+  à nouveau ces options."
+"-- Typing main() returns you to swirl's main menu.": "- Taper main () vous ramène
+  au menu principal de swirl."
+"-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...": "-
+  Taper play () vous permet d’essayer R seul; swirl ignorera ce que vous faites ..."
+"-- Typing skip() allows you to skip the current question.": "- Taper skip () vous
+  permet de sauter la question actuelle."
+"-- UNTIL you type nxt() which will regain swirl's attention.": "- JUSQU'À ce que
+  vous tapiez nxt (), qui retiendra l'attention de swirl."
+? Welcome to swirl! Please sign in. If you've been here before, use the same name
+  as you did then. If you are new, call yourself something unique.
+: Bienvenue à tourbillonner! Veuillez vous connecter. Si vous êtes déjà venu ici,
+  utilisez le même nom que vous l'avez fait à l'époque. Si vous êtes nouveau, appelez-vous
+  quelque chose d'unique.
+'What shall I call you? ': Comment vais-je vous appeler?
+'When you are at the R prompt (>):': 'Lorsque vous êtes à l''invite R (&gt;):'
+workspace. To keep things running smoothly, I recommend you clean up: espace de travail.
+  Pour que tout se passe bien, je vous recommande de nettoyer
+Would you like me to notify Coursera that you've completed this lesson?: Voulez-vous
+  que je prévienne Coursera que vous ayez terminé cette leçon?
+Would you like to continue with one of these lessons?: Voulez-vous continuer avec
+  l'une de ces leçons?
+Would you like to retry automatic submission or just submit manually?: Souhaitez-vous
+  réessayer la soumission automatique ou simplement soumettre manuellement?
+'yes': Oui
+'Yes': Oui
+Yes, go ahead!: Oui, vas y!
+'Yes or No? ': Oui ou non?
+You almost had it, but not quite. Try again.: Vous l'avez presque eu, mais pas tout
+  à fait. Réessayer.
+You are amazing!: Tu es incroyable!
+You are doing so well!: Vous allez si bien!
+You are quite good my friend!: Tu es plutôt bon mon ami!
+You are really on a roll!: Vous êtes vraiment sur une lancée!
+? You can exit swirl and return to the R prompt (>) at any time by pressing the Esc
+  key. If you are already at the prompt, type bye() to exit and save your progress.
+  When you exit properly, you'll see a short message letting know you've done so.
+: Vous pouvez quitter le tourbillonnement et revenir à l'invite R (&gt;) à tout moment
+  en appuyant sur la touche Echap. Si vous êtes déjà à l'invite, tapez bye () pour
+  quitter et enregistrer votre progression. Lorsque vous quittez correctement, vous
+  verrez un court message indiquant que vous l'avez fait.
+? You can exit swirl and return to the R prompt (>) at any time by pressing the Esc
+  key. If you are already at the prompt, type bye() to exit and save your progress.
+  When you exit properly, you'll see a short message letting you know you've done
+  so.
+: Vous pouvez quitter le tourbillonnement et revenir à l'invite R (&gt;) à tout moment
+  en appuyant sur la touche Echap. Si vous êtes déjà à l'invite, tapez bye () pour
+  quitter et enregistrer votre progression. Lorsque vous quittez correctement, vous
+  verrez un court message vous faire savoir que vous l'avez fait.
+You got it!: Tu l'as eu!
+You got it right!: Vous avez bien compris!
+You nailed it! Good job!: Vous avez réussi! Bon travail!
+Your dedication is inspiring!: Votre dédicace est inspirante!
+You're close...I can feel it! Try it again.: Tu es proche ... Je peux le sentir! Essayez
+  à nouveau.
+You're the best!: Tu es le meilleur!
+You skipped too many questions! You'll need to complete: Vous avez sauté trop de questions!
+  Vous aurez besoin de compléter
+You've reached the end of this lesson! Returning to the main menu...: Vous avez atteint
+  la fin de cette leçon! Retour au menu principal ...
