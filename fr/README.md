@@ -48,6 +48,6 @@ Fournir une traduction d'un cours est une entreprise nettement plus importante q
 
 Vous pouvez trouver les fichiers sources en anglais de ces cours [ici](https://github.com/swirldev/swirl_courses) .
 
-## Contact
+## Contact us
 
 Si vous avez des questions sur la façon de contribuer ou si vous souhaitez rejoindre le [groupe de](https://groups.google.com/forum/#!forum/swirl-translators) traducteurs swirl [,](https://groups.google.com/forum/#!forum/swirl-translators) envoyez un courrier électronique à info@swirlstats.com.
