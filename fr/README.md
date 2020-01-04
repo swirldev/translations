@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/swirldev/translations.svg?branch=master)](https://travis-ci.org/swirldev/translations)
 
-A repository for swirl's translation efforts. There are two main directories:
+Un référentiel pour les efforts de traduction de swirl. Il y a deux répertoires principaux:
 
 - **menus** contient des traductions des menus de swirl
 - **cours** contient des **cours à** remous écrits dans des langues autres que l'anglais
