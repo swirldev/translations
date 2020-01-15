@@ -1,0 +1,617 @@
+# actions.R
+
+"I just reset the script to its original state. If it doesn't refresh immediately, you may need to click on it.":
+ "Скрипт сброшен до исходного состояния. Если он не обновился, кликните на нём."
+
+"Sourcing your script...":
+ "Подгружаю ваш скрипт..."
+
+#"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+# "Переключаюсь в игровой режим, можете поэкспериментировать. Когда будете готовы перейти к следующему уроку, введите nxt()."
+
+"Returning to the main menu...":
+ "Возвращаюсь в главное меню..."
+
+"This feature is not implemented yet for Swirl.":
+ "Эта возможность пока не реализована в swirl."
+
+# answerTests.R, answerTests2.R
+
+"That's not the expression I expected but it works.":
+ "Это не то выражение, которое ожидалось, но оно работает."
+
+"The given range":
+ "Заданный диапазон"
+
+"is not numeric.":
+ "не является числовым."
+
+"I've executed the correct expression in case the result is needed in an upcoming question.":
+ "Я выполнил корректный код, на случай если его результат понадобится в следующем вопросе."
+
+"does not exist.":
+ "не существует."
+
+# args_specification.R
+
+## Do not translate 'test_course', 'test_lesson', or 'test'.
+"Must specify 'test_course' and 'test_lesson' to run in 'test' mode!":
+ "Необходимо задать 'test_course' и 'test_lesson', чтобы запустить режим 'test'!"
+
+## Do not translate 'to' or 'from'.
+"Argument 'to' must be strictly greater than argument 'from'!":
+ "Аргумент 'to' должен быть строго больше чем аргумент 'from'!"
+
+# courseraCheck.R
+
+"Are you currently enrolled in the Coursera course associated with this lesson?":
+ "Вы сейчас проходите курс, связанный с этим уроком, на Coursera?"
+
+"Would you like me to notify Coursera that you've completed this lesson?":
+ "Хотите, чтобы я сообщил Coursera о том что вы прошли этот урок?"
+
+"If so, I'll need to get some more info from you.":
+ "Если да, мне понадобится ещё немного информации о вас."
+
+"Yes":
+ "Да"
+
+"No":
+ "Нет"
+
+"Maybe later":
+ "Может быть позже"
+
+"I'll try to tell Coursera you've completed this lesson now.":
+ "Сейчас я попробую сообщить Coursera, что вы прошли этот урок."
+
+"You skipped too many questions! You'll need to complete":
+ "Вы пропустили слишком много вопросов! Вам нужно пройти."
+
+"this lesson again if you'd like to receive credit. Please":
+ "этот урок заново, если вы хотите получить оценку. Пожалуйста"
+
+"don't skip more than one question next time.":
+ "в следующий раз не пропускайте больше одного вопроса."
+
+"I've notified Coursera that you have completed ":
+ "Я известил Coursera, что вы завершили "
+
+"I'm sorry, something went wrong with automatic submission.":
+ "I'm sorry, something went wrong with automatic submission."
+
+"I'm sorry, something went wrong with establishing connection.":
+ "I'm sorry, something went wrong with establishing connection."
+
+"To notify Coursera that you have completed this lesson,":
+ "Чтобы известить Coursera, что вы закончили этот урок,"
+
+"please upload":
+ "пожалуйста, загрузите"
+
+"to Coursera manually. You may do so by visiting the Programming":
+ "результаты на Coursera вручную. вы можете зайти на страницу Programming"
+
+"Assignments page on your course website and selecting the Submit":
+ "Assignments вашего курса и выбрать кнопку Submit"
+
+"button next to the appropriate swirl lesson.":
+ "рядом с соответствующим уроком swirl."
+
+"I've placed the file in the following directory:":
+ "Я сохранил файл в директорию:"
+
+"Would you like to retry automatic submission or just submit manually?":
+ "Хотите повторить автоматическую отправку или отправить ответы вручную?"
+
+"Retry automatic submission":
+ "Повторить автоматическую отправку"
+
+"Submit manually":
+ "Отправить вручную"
+
+"The first item I need is your Course ID. For example, if the":
+ "Во-первых, мне нужно узнать идентификатор вашего курса. Например, если"
+
+"homepage for your Coursera course was":
+ "домашняя страница вашего курса "
+
+"then your course ID would be 'rprog-001' (without the quotes).":
+ "то идентификатор курса будет 'rprog-001' (без кавычек)."
+
+"It looks like you entered a web address, which is not what I'm":
+ "Похоже, вы ввели веб-адрес, а это не то,"
+
+"looking for.":
+ "что мне нужно."
+
+"It looks like you entered a numeric ID, which is not what I'm":
+ "Похоже, вы ввели числовой идентификатор, а это не то,"
+
+"It looks like you entered the Course ID that I used as an":
+ "Похоже, вы ввели идентификатор курса, который я использовал"
+
+"example, which is not what I'm looking for.":
+ "для примера, а это не то, что мне нужно."
+
+"Instead, I need your Course ID, which is the last":
+ "Вместо этого мне нужно идентификатор курса, т.е. последняя"
+
+"part of the web address for your Coursera course.":
+ "часть веб-адреса вашего курса на Coursera."
+
+"For example, if the homepage for your Coursera course was":
+ "Например, если домашняя страница вашего курса"
+
+"'https://class.coursera.org/rprog-001',":
+ "'https://class.coursera.org/rprog-001',"
+
+#"then your course ID would be 'rprog-001' (without the quotes).":
+# "то идентификатор курса будет 'rprog-001' (без кавычек)."
+
+"Submission login (email): ":
+ "Логин Coursera для отправки (email): "
+
+"Submission password: ":
+ "Пароль Coursera для отправки: "
+
+"Is the following information correct?":
+ "Верна ли следующая информация?"
+
+"Course ID: ":
+ "Идентификатор курса: "
+
+"Yes, go ahead!":
+ "Да, продолжай!"
+
+"No, I need to change something.":
+ "Нет, мне нужно кое-что изменить."
+
+# install_courses.R
+
+"Course installed successfully!":
+ "Курс успешно установлен!"
+
+"Course installation failed.":
+ "Не удалось установить курс."
+
+"Argument 'course_name' must be surrounded by quotes (i.e. a character string)!":
+ "Аргумент 'course_name' должен быть взят в кавычки (т.е. быть символьной переменной)!"
+
+"Argument 'dev' must be either TRUE or FALSE!":
+ "Аргумент 'dev' должен быть либо TRUE, либо FALSE!"
+
+"Please enter a valid name for a mirror. ('github' or 'bitbucket')":
+ "Пожалуйста, введите действующее имя зеркала. ('github' или 'bitbucket')"
+
+"To access swirl courses in development on Bitbucket go to https://bitbucket.org/swirldevmirror/swirl_misc":
+ "Курсы swirl в разработке на Bitbucket доступны по адресу https://bitbucket.org/swirldevmirror/swirl_misc"
+
+"Course '":
+ "Курс '"
+
+"' not found in course repository! ":
+ "' не найден в репозитории курсов! "
+
+"Make sure you've got the name exactly right, then try again.":
+ "Убедитесь, что написали имя верно, затем попробуйте снова."
+
+"Course uninstalled successfully!":
+ "Курс успешно удалён!"
+
+"Course not found!":
+ "Курс не найден!"
+
+"All courses uninstalled successfully!":
+ "Все курсы успешно установлены!"
+
+"No courses found!":
+ "Не найдено ни одного курса!"
+
+"Argument 'multi' must be either TRUE or FALSE.":
+ "Аргумент 'multi' должен быть либо TRUE, либо FALSE."
+
+"Argument 'which_course' should only be specified when argument 'multi' is TRUE.":
+ "Аргумент 'which_course' нужно задавать только если аргумент 'multi' равен TRUE."
+
+"Course ":
+ "Курс "
+
+" not in specified directory. Be careful, course names are case sensitive!":
+ " не найден в указанной папке. Осторожно: названия курсов чувствительны к регистру!":
+
+"Course directory is too large to install":
+ "Каталог курса слишком велик для установки"
+
+"Please specify a value for either course_name or swc_path but not both.":
+ "Пожалуйста, задайте значение либо для course_name, либо для swc_path, но не оба."
+
+"It looks like your internet connection is not working.":
+ "Похоже, подключение к интернету не работает."
+
+"Go to http://swirlstats.com/scn/ and download the .swc file that corresponds to the course you wish to install.":
+ "Перейдите на http://swirlstats.com/scn/ и загрузите файл .swc, соответствующий курсу, который вы хотите установить."
+
+"After downloading the .swc run install_course() and choose the file you downloaded.":
+ "После загрузки файла .swc запустите install_course() и выберите загруженный файл."
+
+# instructionSet.R
+
+"ANSWER: ":
+ "ОТВЕТ: "
+
+"Yes or No? ":
+ "Да или Нет? "
+
+"yes":
+ "да"
+
+"Type nxt() to continue":
+ "Чтобы продолжить, введите nxt()"
+
+"BUG: There are no tests for this question!":
+ "БАГ: Для этого вопроса нет тестов!"
+
+"Or, type info() for more options.":
+ "Либо введите info(), чтобы увидеть больше вариантов."
+
+# utilities.R
+
+"Package":
+ "Пакет"
+
+"loaded correctly!":
+ "загружен корректно!"
+
+"This lesson requires the":
+ "Для этого урока требуется пакет"
+
+"package. Would you like me to install it for you now?":
+ ". Хотите, чтобы я установил его?"
+
+"Attemping to load lesson dependencies...":
+ "Пытаюсь загрузить зависимости для пакета..."
+
+"Trying to install package":
+ "Пытаюсь установить пакет"
+
+"now...":
+ "сейчас..."
+
+"Could not install package":
+ "Не могу установить пакет"
+
+# menu.R
+
+"To begin, you must install a course. I can install a course for you from the internet, or I can send you to a web page (https://github.com/swirldev/swirl_courses) which will provide course options and directions for installing courses yourself. (If you are not connected to the internet, type 0 to exit.)":
+ "Чтобы начать, вы должны установить курс. Я могу загрузить его для вас из интернета, либо перенаправить вас на веб-страницу (https://github.com/swirldev/swirl_courses), на которой вы найдёте список курсов и инструкции для самостоятельной установки. (Если у вас нет интернет-соединения, введите 0.)"
+
+"Don't install anything for me. I'll do it myself.":
+ "Не нужно ничего для меня устанавливать. Я сделаю это сам."
+
+"Sorry, but I'm unable to fetch ":
+ "Извините, я не могу открыть "
+
+"right now. Are you sure you have an internet connection? If so, would you like to try again or visit the course repository for instructions on how to install a course manually? Type 0 to exit.":
+ ". вы уверены, что интернет-соединение активно? Если да, хотите попробовать ещё раз, или перейти в репозиторий курса за инструкциями по ручной установке? Для выхода введите 0."
+
+"Try again!":
+ "Попробовать ещё раз!"
+
+"Send me to the course repository for manual installation.":
+ "Направь меня на страницу репозитория курса для ручной установки."
+
+"OK. I'm opening the swirl course respository in your browser.":
+ "Хорошо. Открываю репозиторий курса в вашем браузере."
+
+"OK. I'm opening the swirl courses web page in your browser.":
+ "Хорошо. Открываю страницу с репозиториями курсов swirl в вашем браузере."
+
+"Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then. If you are new, call yourself something unique.":
+ "Добро пожаловать в swirl! Пожалуйста, войдите в систему. Если вы уже бывали здесь раньше, используйте прежнее имя. Если вы здесь впервые, придумайте уникальное имя."
+
+"What shall I call you? ":
+ "Как мне вас называть? "
+
+"Thanks, ":
+ "Спасибо, "
+
+". Let's cover a couple of quick housekeeping items before we begin our first lesson. First of all, you should know that when you see '...', that means you should press Enter when you are done reading and ready to continue.":
+ ". Прежде чем начать первый урок, обсудим несколько моментов хозяйке на заметку. Прежде всего, знайте: многоточие ('...') означает, что будет продолжение. Просто нажмите Enter, когда прочли и готовы продолжить."
+
+"...  <-- That's your cue to press Enter to continue":
+ "...  <-- Это сигнал, что нужно нажать Enter для продолжения"
+
+"Also, when you see 'ANSWER:', the R prompt (>), or when you are asked to select from a list, that means it's your turn to enter a response, then press Enter to continue.":
+ "Также, когда вы видите 'ОТВЕТ:', символ ввода в консоль R (>), или когда вас просят выбрать пункт из списка, это означает, что ваш черёд ввести ответ, а затем нажать Enter."
+
+"Continue.":
+ "Продолжить."
+
+"Proceed.":
+ "Пока понятно, дальше."
+
+"Let's get going!":
+ "Вперёд!"
+
+"Select 1, 2, or 3 and press Enter":
+ "Выберите 1, 2, или 3 и нажмите Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting know you've done so.":
+ "Вы можете выйти из swirl и вернуться в консоль R (>) в любой момент, нажав кнопку Esc. Если вы уже в консоли, введите bye(), чтобы выйти и сохранить свой прогресс. Когда вы корректно выйдете из swirl, увидите краткое сообщение об этом."
+
+"Let's get started!":
+ "Приступим!"
+
+"Would you like to continue with one of these lessons?":
+ "Продолжить с одним из этих уроков?"
+
+"No. Let me start something new.":
+ "Нет. Хочу начать что-то новое."
+
+"Please choose a course, or type 0 to exit swirl.":
+ "Пожалуйста, выберите курс, или введите type 0, чтобы выйти из swirl."
+
+"Take me to the swirl course repository!":
+ "Направь меня к репозиторию курса!"
+
+"Please choose a lesson, or type 0 to return to course menu.":
+ "Пожалуйста, выберите урок, или введите 0, чтобы вернуться в меню курса."
+
+# options.R
+
+"Please provide arguments so that appropriate options can be set.":
+ "Пожалуйста, добавьте аргументы, чтобы можно было установить соответствующие опции."
+
+"Options set successfully!":
+ "Опции успешно установлены!"
+
+"Option name '":
+ "Опция с именем '"
+
+"' not found.":
+ "' не найдена."
+
+"Option '":
+ "Опция '"
+
+"' deleted successfully!":
+ "' успешно удалена!"
+
+# Phrases.R
+
+"You got it!" :
+ "Вы поняли!"
+
+"Nice work!":
+ "Отличная работа!"
+
+"Keep up the great work!":
+ "Продолжайте в том же духе!"
+
+"You are doing so well!":
+ "ВЫ отлично продвигаетесь!"
+
+"You nailed it! Good job!":
+ "Вы сделали это! Хорошая работа!"
+
+"You're the best!":
+ "Вы лучше всех!"
+
+"You are amazing!":
+ "Потрясающе!"
+
+"Great job!":
+ "Сделано на отлично!"
+
+"You are quite good my friend!":
+ "А вы хороши, друг мой!"
+
+"You got it right!":
+ "Вы всё поняли верно!"
+
+"That's correct!":
+ "Верно!"
+
+"You are really on a roll!":
+ "Вы в ударе!"
+
+"Excellent job!":
+ "Превосходная работа!"
+
+"That's a job well done!":
+ "Вот такую работу я называю хорошей!"
+
+"Almost! Try again.":
+ "Почти! Попробуйте ещё раз."
+
+"You almost had it, but not quite. Try again.":
+ "Вы почти разобрались, но не до конца. Попробуйте ещё."
+
+"Give it another try.":
+ "Сделайте ещё попытку."
+
+"Not quite! Try again.":
+ "Не совсем! Попробуйте снова."
+
+"Not exactly. Give it another go.":
+ "Не совсем так. Давайте ещё раз."
+
+"That's not exactly what I'm looking for. Try again.":
+ "Это не совсем то, что мне нужно. Давайте ещё разок."
+
+"Nice try, but that's not exactly what I was hoping for. Try again.":
+ "Хорошая попытка, но это не совсем то, на что я рассчитывал. Попробуйте снова."
+
+"Keep trying!":
+ "Продолжайте пытаться!"
+
+"That's not the answer I was looking for, but try again.":
+ "Это не тот ответ, который мне нужен, но вам стоит попытаться снова."
+
+"Not quite right, but keep trying.":
+ "Не вполне так, но продолжайте пытаться."
+
+"You're close...I can feel it! Try it again.":
+ "Вы уже так близко...я вижу это! Попробуйте ещё."
+
+"Correct!":
+ "Верно!"
+
+"Incorrect. Please try again.":
+ "Неверно. Пожалуйста, попробуйте ещё раз."
+
+# post.R
+
+"Lesson complete! Exiting swirl now...":
+ "Урок завершён! Выхожу из swirl..."
+
+# progress.R
+
+"Please enter a valid username.":
+ "Пожалуйста, введите действующее имя пользователя."
+
+"Deleted progress for user: ":
+ "Удаляю прогресс для пользователя: "
+
+"Could not find account for user: ":
+ "Не могу найти аккаунт пользователя: "
+
+# swirl.R
+
+"Leaving swirl now. Type swirl() to resume.":
+ "Выхожу из swirl. Введите swirl(), чтобы вернуться."
+
+"When you are at the R prompt (>):":
+ "Когда вы в консоли R (>):"
+
+"-- Typing skip() allows you to skip the current question.":
+ "-- Введите skip(), чтобы пропустить текущий вопрос."
+
+"-- Typing play() lets you experiment with R on your own; swirl will ignore what you do...":
+ "-- Введите play(), чтобы поэкспериментировать с R; swirl проигнорирует ваши действия..."
+
+"-- UNTIL you type nxt() which will regain swirl's attention.":
+ "-- ДО ТЕХ ПОР ПОКА вы не введёте nxt(), чтобы вернуть внимание swirl."
+
+"-- Typing bye() causes swirl to exit. Your progress will be saved.":
+ "-- Введите bye(), чтобы выйти из swirl. Ваш прогресс будет сохранён."
+
+"-- Typing main() returns you to swirl's main menu.":
+ "-- Введите main(), чтобы вернуться в главное меню swirl."
+
+"-- Typing info() displays these options again.":
+ "-- Введите info(), чтобы снова увидеть эти опции."
+
+"Resuming lesson...":
+ "Возвращаюсь к уроку..."
+
+"Entering play mode. Experiment as you please, then type nxt() when you are ready to resume the lesson.":
+ "Перехожу в игровой режим. Экспериментируйте в своё удовольствие, затем введите nxt(), когда будете готовы вернуться к уроку."
+
+"Entering the following correct answer for you...":
+ "Ввожу корректный ответ для вас..."
+
+#"Returning to the main menu...":
+# "Возвращаюсь в главное меню..."
+
+#"Lesson complete! Exiting swirl now...":
+# "Урок окончен! Выхожу из swirl..."
+
+"You've reached the end of this lesson! Returning to the main menu...":
+ "Вы прошли урок до конца! Возвращаюсь в главное меню..."
+
+"I just sourced the following script, which demonstrates one possible solution.":
+ "Я только что подгрузил скрипт, который демонстрирует возможное решение."
+
+"Press Enter when you are ready to continue...":
+ "Нажмите Enter, когда будете готовы продолжать..."
+
+# zzz.R
+
+"Hi! I see that you have some variables saved in your":
+ "Приветствую! Вижу, у вас сохранено несколько переменных в вашем"
+
+"workspace. To keep things running smoothly, I recommend you clean up":
+ "рабочем пространстве. Чтобы урок прошёл гладко, рекомендую чистить его,"
+
+"before starting swirl.":
+ "прежде чем запускать swirl."
+
+"Type ls() to see a list of the variables in your workspace.":
+ "Введите ls(), чтобы просмотреть список переменных в рабочем пространстве."
+
+"Then, type rm(list=ls()) to clear your workspace.":
+ "Затем, введите rm(list=ls()), чтобы очистить рабочее пространство."
+
+"Type swirl() when you are ready to begin.":
+ "Введите swirl(), когда будете готовы начать."
+
+"Hi! Type swirl() when you are ready to begin.":
+ "Приветствую! Введите swirl(), когда будете готовы начать."
+
+# New for swirl 2.4
+
+"Could not connect to course file.":
+ "Не могу подключиться к файлу курса."
+
+"Are you sure you want to uninstall all swirl courses?":
+ "Вы уверены, что хотите удалить все курсы swirl?"
+
+"This will delete all of the contents of your swirl course directory.":
+ "Это удалит всё содержимое папки с курсами swirl."
+
+"right now. Are you sure you have an internet connection?":
+ "прямо сейчас. Вы уверены, что у вас работает подключение к интернету?"
+
+"If so, would you like to try again or visit":
+ "Если да, вы хотите попробовать снова или посетить"
+
+"the course repository for instructions on how to":
+ "репозиторий с курсами и получить инструкции"
+
+"install a course manually? Type 0 to exit.":
+ "по ручной установке курсов? Введите 0 для выхода."
+
+"Please don't use any quotes or other punctuation in your name.":
+ "Пожалуйста, не используйте в имени кавычки и знаки пунктуации."
+
+"\n...  <-- That's your cue to press Enter to continue":
+ "\n...  <-- Это сигнал, что нужно нажать Enter для продолжения"
+
+"\nSelect 1, 2, or 3 and press Enter":
+ "\nВыберите 1, 2, или 3 и нажмите Enter"
+
+"You can exit swirl and return to the R prompt (>) at any time by pressing the Esc key. If you are already at the prompt, type bye() to exit and save your progress. When you exit properly, you'll see a short message letting you know you've done so.":
+ "Вы можете выйти из swirl и вернуться в консоль R (>) в любой момент, нажав кнопку Esc. Если вы уже в консоли, введите bye(), чтобы выйти и сохранить свой прогресс. Когда вы корректно выйдете из swirl, увидите краткое сообщение об этом."
+
+"All that hard work is paying off!":
+ "Вся эта тяжёлая работа окупается!"
+
+"Keep working like that and you'll get there!":
+ "Продолжайте работать так, и добьётесь своего!"
+
+"Perseverance, that's the answer.":
+ "Упорство, вот ответ."
+
+"Your dedication is inspiring!":
+ "Ваша самоотверженность вдохновляет!"
+
+"All that practice is paying off!":
+ "Вся эта практика окупается!"
+
+"Excellent work!":
+ "Отличная работа!"
+
+"That's the answer I was looking for.":
+ "Вот ответ, который я искал."
+
+"One more time. You can do it!":
+ "Ещё разок. Вы сможете!"
+
+"Not quite, but you're learning! Try again.":
+ "Не совсем, но вы учитесь! Попробуйте снова."
+
+"Try again. Getting it right on the first try is boring anyway!":
+ "Попробуйте ещё раз. Отвечать правильно с первой попытки всё равно скучно!"
+
